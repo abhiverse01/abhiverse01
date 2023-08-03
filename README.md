@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Abhishek Shah
 - 👀 I’m interested in Development, DevOps, Code and the Cosmos.
-- 🌱 I’m currently learning Python, Full Stack Programming, Designing, and a lot of bugs.
-- 💞️ I’m looking to collaborate on ( Python )
+- 🌱 I’m currently learning Python, Full Stack Programming, and a lot of bugs.
+- 💞️ I’m looking to collaborate on ( Python & AI/ML Projects along with Django or Flask Deployments )
 - 📫 How to reach me ... Mail Me < www.abhishekshah007@gmail.com >
 
 <!---
