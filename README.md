@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 
 - 👯 I’m looking to collaborate on **Python, Django, Flask, AI, ML-based Projects.**
 
-- 👨‍💻 All of my projects are available at [github.com/abhiverse01](github.com/abhiverse01)
+- 👨‍💻 All of my projects are available at [GitHub](github.com/abhiverse01)
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@abhiverse01)
 
