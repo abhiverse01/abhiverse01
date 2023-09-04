@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
 
 - 👨‍💻 All of my projects are available at [github.com/abhiverse01](github.com/abhiverse01)
 
-- 📝 I regularly write articles on [Medium](Medium)
+- 📝 I regularly write articles on [Medium](https://medium.com/@abhiverse01)
 
 - 📫 How to reach me **www.abhishekshah007@gmail.com**
 
