@@ -41,7 +41,7 @@ You can click the Preview link to take a look at your changes.
 <h3 align="left">Most Used Languages</h3>
 
 <p align = "center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhiverse01&show_icons=true&locale=en&layout=compact" alt="abhiverse01" /></p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhiverse01&show_icons=true&locale=en&layout=compact" alt="abhiverse01" /></p>
 
 <h3 align="left">My GitHub Stats</h3>
 <p align = "center">
