@@ -42,7 +42,7 @@ You can click the Preview link to take a look at your changes.
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhiverse01&show_icons=true&locale=en" alt="abhiverse01" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhiverse01&" alt="abhiverse01" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhiverse01&" alt="abhiverse01" /></p>
 
 <h3 align="left">My Contributions</h3>
 <p align="center">
