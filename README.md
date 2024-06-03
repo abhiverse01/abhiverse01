@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 
 
 <h1 align="center">Hi 👋, I'm Abhishek Shah</h1>
-<h3 align="center">Addicted Full Stack Software Developer | Machine Learning | NLP</h3>
+<h3 align="center"> 😎 ML Engineer | Full Stack | Python Dev | Data Science | NLP | LLMs | Explorer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhiverse01&label=Profile%20views&color=0e75b6&style=flat" alt="abhiverse01" /> </p>
 
