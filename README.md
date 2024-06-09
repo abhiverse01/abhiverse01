@@ -56,9 +56,9 @@ You can click the Preview link to take a look at your changes.
 [View My CV](https://github.com/abhiverse01/abhiverse01/blob/main/AbhishekShahResume.pdf)
 
 <div align="center">
-  <img src="https://github.com/abhiverse01/abhiverse01/blob/main/AbhishekShahResume-1.png" alt="resume-first" width="720">
+  <img src="https://github.com/abhiverse01/abhiverse01/blob/main/AbhishekShahResume-1.png" alt="resume-first" width="480">
 </div>
 <div align="center">
-  <img src="https://github.com/abhiverse01/abhiverse01/blob/main/AbhishekShahResume-2.png" alt="resume-second" width="720">
+  <img src="https://github.com/abhiverse01/abhiverse01/blob/main/AbhishekShahResume-2.png" alt="resume-second" width="480">
 </div>
 
