@@ -53,5 +53,6 @@ You can click the Preview link to take a look at your changes.
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhiverse01&" alt="abhiverse01" />
 </p>
 
+[View My CV](https://github.com/abhiverse01/abhiverse01/blob/main/AbhishekShahResume.pdf)
 
 
