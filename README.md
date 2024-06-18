@@ -6,25 +6,25 @@ You can click the Preview link to take a look at your changes.
 
 
 <h1 align="center">Hi 👋, I'm Abhishek Shah</h1>
-<h3 align="center"> 😎 ML Engineer | Full Stack | Python Dev | Data Science | NLP | LLMs | Explorer </h3>
+<h3 align="center"> 😎 AI/ML Engineer | Full Stack | Python Dev | Data Science | NLP | LLMs | Explorer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhiverse01&label=Profile%20views&color=0e75b6&style=flat" alt="abhiverse01" /> </p>
 
 <img align="right" alt="coding" width="400" src="https://github.com/abhiverse01/abhiverse01/blob/main/blogging.png">
 
-- 👀 I’m interested in Development, DevOps, Code and the Cosmos.
+- 👀 I’m interested in **Development, DevOps, Code and the Cosmos.**
 
 - 🔭 I’m currently working on **Open Source and Freelance Projects**
 
-- 🌱 I’m currently learning **Large Language Model Transformers (LLMs)**
+- 🌱 I’m currently learning **Advanced AI Engineer Aspects**
 
-- 👯 I’m looking to collaborate on **Python, Django, Flask, AI, ML-based Projects.**
+- 👯 I’m looking to collaborate on **Python, Django, Flask, AI, ML, NLP, LLMs related Projects.**
 
 - 👨‍💻 All of my projects are available at [github.com/abhiverse01](github.com/abhiverse01)
 
 - 📝 I regularly write articles on [Medium](Medium)
 
-- 📫 How to reach me **www.abhishekshah007@gmail.com**
+- 📫 Reach me @ **www.abhishekshah007@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
