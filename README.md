@@ -14,17 +14,17 @@ You can click the Preview link to take a look at your changes.
 
 - 👀 I’m interested in **Development, DevOps, Code and the Cosmos.**
 
-- 🔭 I’m currently working on **Open Source and Freelance Projects**
+- 🔭 I’m currently working on **RS System @InflancerTechnology as well as Open Source and Freelance Projects**
 
 - 🌱 I’m currently learning **Advanced AI Engineer Aspects**
 
-- 👯 I’m looking to collaborate on **Python, Django, Flask, AI, ML, NLP, LLMs related Projects.**
+- 👯 I’m looking to collaborate on **Python, Django, Flask, AI, ML, NLP, and LLM related Projects.**
 
 - 👨‍💻 All of my projects are available at [github.com/abhiverse01](github.com/abhiverse01)
 
 - 📝 I regularly write articles on [Medium](Medium)
 
-- 📫 Reach me @ **www.abhishekshah007@gmail.com**
+- 📫 Reach me @ **www.abhishekshah007@gmail.com** or **abhishek@inflancer.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
