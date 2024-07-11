@@ -16,9 +16,9 @@ You can click the Preview link to take a look at your changes.
 
 - 🔭 I’m currently working on **RS System @InflancerTechnology as well as Open Source and Freelance Projects**
 
-- 🌱 I’m currently learning **Advanced AI Engineer Aspects**
+- 🌱 I’m currently learning **Advanced AI Engineer Aspects & MLOps**
 
-- 👯 I’m looking to collaborate on **Python, Django, Flask, AI, ML, NLP, and LLM related Projects.**
+- 👯 I’m looking to collaborate on **Python, R, Django, Flask, AI, ML, NLP, and LLM related Projects.**
 
 - 👨‍💻 All of my projects are available at [github.com/abhiverse01](github.com/abhiverse01)
 
