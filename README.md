@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 
 - 👀 I’m interested in **Development, DevOps, Code and the Cosmos.**
 
-- 🔭 I’m currently working on **RS System @InflancerTechnology as well as Open Source and Freelance Projects**
+- 🔭 I’m currently working on **RS Systems @InflancerTechnology as well as Open Source and Freelance Projects**
 
 - 🌱 I’m currently learning **Advanced AI Engineer Aspects & MLOps**
 
