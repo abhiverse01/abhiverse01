@@ -26,6 +26,10 @@ You can click the Preview link to take a look at your changes.
 
 - 📫 Reach me @ **www.abhishekshah007@gmail.com** or **abhishek@inflancer.com**
 
+- 😎 Visit my portfolio site [abhishek-shah-portfolio](abhishekshah.vercel.app)
+
+- 📃 Check out my digital resume [abhishek-shah-html-resume](abhishekshahhtmlresume.vercel.app)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/abhiverse01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="abhiverse01" height="30" width="40" /></a>
