@@ -15,11 +15,11 @@ Profile Views Counter
 ## 
 
 <div align="center">
-  <blockquote>
-    <p style="font-size: 1.5em; font-style: italic; color: #555;">
+  <blockquote style="font-family: 'Poppins', sans-serif; color: #ff4500;">
+    <p style="font-size: 1.5em; font-style: italic;">
       "The best way to predict the future is to invent it."
     </p>
-    <p style="font-size: 1.2em; color: #777;">
+    <p style="font-size: 1.2em;">
       - Alan Kay
     </p>
   </blockquote>
