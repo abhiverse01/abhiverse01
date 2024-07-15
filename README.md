@@ -16,7 +16,7 @@ Profile Views Counter
 ## 
 <div align="center">
     <p color: #ff4500;" font-style: italic;">
-      <h4> "Live, Love, Glory, Peace" − Abhishek Shah </h4>
+      <h4><italic> "Live, Love, Glory, Peace" − Abhishek Shah </italic></h4>
     </p>
 </div>
 
