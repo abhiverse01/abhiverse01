@@ -15,7 +15,7 @@ Profile Views Counter
 
 ## 
 <div align="center">
-    <p color: #ff4500;" font-style: italic;">
+    <p>
       <h4><i> "Observin' the momentary chaos in the Universe" − Abhishek Shah </i></h4>
     </p>
 </div>
