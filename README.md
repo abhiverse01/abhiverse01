@@ -14,11 +14,21 @@ Profile Views Counter
 
 ## 
 
+<div align="center">
+  <blockquote>
+    <p style="font-size: 1.5em; font-style: italic; color: #555;">
+      "The best way to predict the future is to invent it."
+    </p>
+    <p style="font-size: 1.2em; color: #777;">
+      - Alan Kay
+    </p>
+  </blockquote>
+</div>
+
+## About Me
 <!---
 Blogging Logo
 --->
-
-## About Me
 <img align="right" alt="coding" width="400" src="https://github.com/abhiverse01/abhiverse01/blob/main/blogging.png">
 
 - 👀 I’m interested in **Artificial Intelligence, Development, DevOps, Code and the Cosmos.**
