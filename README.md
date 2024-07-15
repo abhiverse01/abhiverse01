@@ -32,7 +32,10 @@ You can click the Preview link to take a look at your changes.
 
 ## Robotics Enthusiast
 
-![abhiverse-robotics-logo](https://github.com/abhiverse01-org/.github/blob/main/abhiverseroboticslogo.png) <!-- Replace with the actual URL of your organization's logo -->
+<p align="center">
+  <img src="https://github.com/abhiverse01-org/.github/blob/main/abhiverseroboticslogo.png" alt="abhiverse-robotics-logo" width="50" height="50">
+  <strong>abhiverse-robotics</strong>
+</p>
 
 I am deeply passionate about robotics and actively contribute to various projects in this field through my organization, [abhiverse-robotics](https://github.com/abhiverse-org).
 
