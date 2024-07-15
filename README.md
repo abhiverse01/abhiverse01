@@ -33,7 +33,7 @@ You can click the Preview link to take a look at your changes.
 ## Robotics Enthusiast
 
 <p align="left">
-  <span style="font-size: 40; vertical-align: middle; margin-left: 10;"><strong><h2>Abhiverse-Robotics</h2></strong></span>
+  <span style="font-size: 40; vertical-align: middle; margin-left: 10;"><strong>Abhiverse-Robotics</strong></span>
 </p>
 
 I am deeply passionate about robotics and actively contribute to various projects in this field through my organization, [abhiverse-robotics](https://github.com/abhiverse-org).
