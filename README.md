@@ -4,6 +4,7 @@ abhiverse01/abhiverse01 is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
+
 <!---
 Profile Views Counter
 --->
@@ -15,21 +16,22 @@ Profile Views Counter
 ## 
 
 <div align="center">
-  <blockquote style="font-family: 'Poppins', sans-serif; color: #ff4500;">
-    <p style="font-size: 1.5em; font-style: italic;">
+    <p style="font-family: 'Poppins', sans-serif; color: #ff4500;" style="font-size: 1.5em; font-style: italic;">
       "The best way to predict the future is to invent it."
     </p>
     <p style="font-size: 1.2em;">
       - Alan Kay
     </p>
-  </blockquote>
 </div>
 
+<!-- Add this link to the <head> section of your HTML or at the top of your README -->
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap" rel="stylesheet">
+
 <div align="center">
-    <p style="font-family: 'Poppins', sans-serif; color: #ff4500;" style="font-size: 1.5em; font-style: italic;">
+    <p style="font-family: 'Poppins', sans-serif; color: #ff4500; font-size: 1.5em; font-style: italic;">
       "The best way to predict the future is to invent it."
     </p>
-    <p style="font-size: 1.2em;">
+    <p style="font-family: 'Poppins', sans-serif; font-size: 1.2em; color: #ff6347;">
       - Alan Kay
     </p>
 </div>
