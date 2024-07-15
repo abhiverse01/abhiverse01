@@ -32,8 +32,8 @@ You can click the Preview link to take a look at your changes.
 
 ## Robotics Enthusiast
 
-<p align="center">
-  <img src="https://github.com/abhiverse01-org/.github/blob/main/abhiverseroboticslogo.png" alt="abhiverse-robotics-logo" width="50" height="50">
+<p align="left">
+  <img src="https://github.com/abhiverse01-org/.github/blob/main/abhiverseroboticslogo.png" alt="abhiverse-robotics-logo" width="30" height="30">
   <strong>abhiverse-robotics</strong>
 </p>
 
