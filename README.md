@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 
 <img align="right" alt="coding" width="400" src="https://github.com/abhiverse01/abhiverse01/blob/main/blogging.png">
 
-- 👀 I’m interested in **Development, DevOps, Code and the Cosmos.**
+- 👀 I’m interested in **Artificial Intelligence, Development, DevOps, Code and the Cosmos.**
 
 - 🔭 I’m currently working on **RS Systems @InflancerTechnology as well as Open Source and Freelance Projects**
 
