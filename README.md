@@ -46,7 +46,7 @@ Blogging Logo
   <span style="font-size: 40; vertical-align: middle; margin-left: 10;"><strong>Abhiverse-Robotics</strong></span>
 </p>
 
-<img align="right" alt="abhiverse-robotics-logo" width="200" style="border-radius:0.5;" src="https://github.com/abhiverse01-org/.github/blob/main/abhiverseroboticslogo.png">
+<img align="right" alt="abhiverse-robotics-logo" width="200" style="border-radius:0.5;" src="https://github.com/abhiverse01/abhiverse01/blob/main/abhiverseroboticslogonobg.png">
 
 I am deeply passionate about robotics and actively contribute to various projects in this field through my organization, [abhiverse-robotics](https://github.com/abhiverse-org).
 
