@@ -30,6 +30,20 @@ You can click the Preview link to take a look at your changes.
 
 - 📃 Check out my digital resume [abhishek-shah-html-resume](abhishekshahhtmlresume.vercel.app)
 
+## Robotics Enthusiast
+
+![abhiverse-robotics-logo](https://github.com/abhiverse01-org/.github/blob/main/abhiverseroboticslogo.png) <!-- Replace with the actual URL of your organization's logo -->
+
+I am deeply passionate about robotics and actively contribute to various projects in this field through my organization, [abhiverse-robotics](https://github.com/abhiverse-org).
+
+### About abhiverse-robotics
+- We focus on developing innovative robotics solutions and simulations.
+- Our projects include autonomous systems, robotic process automation, and advanced robotics simulations.
+
+### Get Involved
+- 🚀 Check Out my Organization for further details [abhiverse-robotics](https://github.com/abhiverse-org).
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/abhiverse01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="abhiverse01" height="30" width="40" /></a>
