@@ -34,7 +34,7 @@ Blogging Logo
 
 - 👯 I’m looking to collaborate on **Python, R, Django, Flask, AI, ML, NLP, and LLM related Projects.**
 
-- 👨‍💻 All of my projects are available at [github.com/abhiverse01](github.com/abhiverse01)
+- 👨‍💻 All of my projects are available at <b>[github.com/abhiverse01](github.com/abhiverse01)</b>
 
 - 📝 I regularly write articles on [Medium](Medium)
 
