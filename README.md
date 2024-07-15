@@ -15,7 +15,7 @@ Profile Views Counter
 
 ## 
 <div align="center">
-    <p style="font-family: 'Poppins', sans-serif; color: #ff4500;" style="font-size: 1.5em; font-style: italic;">
+    <p style="font-family: 'Poppins', sans-serif; color: #ff4500;" font-style: italic;">
       "Live, Love, Glory, Peace" − Abhishek Shah
     </p>
 </div>
