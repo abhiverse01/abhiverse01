@@ -17,10 +17,7 @@ Profile Views Counter
 
 <div align="center">
     <p style="font-family: 'Poppins', sans-serif; color: #ff4500;" style="font-size: 1.5em; font-style: italic;">
-      "The best way to predict the future is to invent it."
-    </p>
-    <p style="font-size: 1.2em;">
-      - Alan Kay
+      "The best way to predict the future is to invent it." - Alan Kay
     </p>
 </div>
 
