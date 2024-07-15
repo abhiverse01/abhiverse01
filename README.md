@@ -32,7 +32,7 @@ You can click the Preview link to take a look at your changes.
 
 ## Robotics Enthusiast
 
-<p align="left"> <img src="https://github.com/abhiverse01-org/.github/blob/main/abhiverseroboticslogo.png" alt="abhiverse-robotics-logo" width="50" height="50" style="border-radius: 50%;"> <span style="font-size: 40px; vertical-align: middle; margin-left: 10px;"><strong>Abhiverse-Robotics</strong></span> </p>
+<p align="left"> <img src="https://github.com/abhiverse01-org/.github/blob/main/abhiverseroboticslogo.png" alt="abhiverse-robotics-logo" width="100" height="100" style="border-radius: 50%;"> <span style="font-size: 60px; vertical-align: middle; margin-left: 20px;"><strong>Abhiverse-Robotics</strong></span> </p>
 
 <p align="left">
   <img src="https://github.com/abhiverse01-org/.github/blob/main/abhiverseroboticslogo.png" alt="abhiverse-robotics-logo" width="30" height="30" style="border-radius:0.5;">
