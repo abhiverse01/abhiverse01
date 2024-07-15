@@ -14,22 +14,9 @@ Profile Views Counter
 <h3 align="center"> 😎 AI/ML Engineer | Full Stack | Python Dev | Data Science | NLP | LLMs | Explorer </h3>
 
 ## 
-
 <div align="center">
     <p style="font-family: 'Poppins', sans-serif; color: #ff4500;" style="font-size: 1.5em; font-style: italic;">
-      "The best way to predict the future is to invent it." - Alan Kay
-    </p>
-</div>
-
-<!-- Add this link to the <head> section of your HTML or at the top of your README -->
-<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap" rel="stylesheet">
-
-<div align="center">
-    <p style="font-family: 'Poppins', sans-serif; color: #ff4500; font-size: 1.5em; font-style: italic;">
-      "The best way to predict the future is to invent it."
-    </p>
-    <p style="font-family: 'Poppins', sans-serif; font-size: 1.2em; color: #ff6347;">
-      - Alan Kay
+      "Live, Love, Glory, Peace" − Abhishek Shah
     </p>
 </div>
 
