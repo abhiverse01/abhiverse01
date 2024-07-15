@@ -34,32 +34,32 @@ Blogging Logo
 
 - 👯 I’m looking to collaborate on **Python, R, Django, Flask, AI, ML, NLP, and LLM related Projects.**
 
-- 👨‍💻 All of my projects are available at <b>[github.com/abhiverse01](github.com/abhiverse01)</b>
+- 👨‍💻 All of my projects are available at **[github.com/abhiverse01](github.com/abhiverse01)**
 
-- 📝 I regularly write articles on [Medium](Medium)
+- 📝 I regularly write articles on **[Medium](Medium)**
 
 - 📫 Reach me @ **www.abhishekshah007@gmail.com** or **abhishek@inflancer.com**
 
-- 😎 Visit my portfolio site [abhishek-shah-portfolio](abhishekshah.vercel.app)
+- 😎 Visit my portfolio site **[abhishek-shah-portfolio](abhishekshah.vercel.app)**
 
-- 📃 Check out my digital resume [abhishek-shah-html-resume](abhishekshahhtmlresume.vercel.app)
+- 📃 Check out my digital resume **[abhishek-shah-html-resume](abhishekshahhtmlresume.vercel.app)**
 
 ## Robotics Enthusiast
 
 <p align="left">
-  <span style="font-size: 40; vertical-align: middle; margin-left: 10;"><strong>Abhiverse-Robotics</strong></span>
+  <span style="font-size: 40; vertical-align: middle; margin-left: 10;"><strong><b>Abhiverse-Robotics</b></strong></span>
 </p>
 
 <img align="right" alt="abhiverse-robotics-logo" width="200" style="border-radius:0.5;" src="https://github.com/abhiverse01/abhiverse01/blob/main/robotlogo.png">
 
-I am deeply passionate about robotics and actively contribute to various projects in this field through my organization, [abhiverse-robotics](https://github.com/abhiverse-org).
+I am deeply passionate about robotics and actively contribute to various projects in this field through my organization, **[abhiverse-robotics](https://github.com/abhiverse-org).**
 
 ### About abhiverse-robotics
 - We focus on developing innovative robotics solutions and simulations.
 - Our projects include autonomous systems, robotic process automation, and advanced robotics simulations.
 
 ### Get Involved
-- 🚀 Check Out my Organization for further details [abhiverse-robotics](https://github.com/abhiverse-org).
+- 🚀 Check Out my Organization for further details **[abhiverse-robotics](https://github.com/abhiverse-org).**
 
 ## Connect With Me
 <p align="left">
@@ -216,5 +216,5 @@ Profile Views Counter
 
 ##  
 <p align="center">
-  <strong>&copy; Abhishek Shah 2024</strong>
+  <b><strong>&copy; Abhishek Shah 2024</strong></b>
 </p>
