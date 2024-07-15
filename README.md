@@ -8,6 +8,7 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hi 👋, I'm Abhishek Shah</h1>
 <h3 align="center"> 😎 AI/ML Engineer | Full Stack | Python Dev | Data Science | NLP | LLMs | Explorer </h3>
 
+## 
 ---
 
 <!---
@@ -204,7 +205,7 @@ I am deeply passionate about robotics and actively contribute to various project
 
 [View in Large](https://github.com/abhiverse01/abhiverse01/blob/main/AbhishekShahResume.pdf)
 
-
+##  
 ---
 
 <p align="center">
