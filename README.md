@@ -16,7 +16,7 @@ Profile Views Counter
 ## 
 <div align="center">
     <p color: #ff4500;" font-style: italic;">
-      <h4><i> "Live, Love, Glory, Peace" − Abhishek Shah </i></h4>
+      <h3><i> "Observin' the momentary chaos in the Universe" − Abhishek Shah </i></h3>
     </p>
 </div>
 
