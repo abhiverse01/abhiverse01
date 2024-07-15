@@ -34,7 +34,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left">
   <img src="https://github.com/abhiverse01-org/.github/blob/main/abhiverseroboticslogo.png" alt="abhiverse-robotics-logo" width="30" height="30" style="border-radius:50;">
-  <span style="font-size: 40px; vertical-align: middle; margin-left: 10px;"><strong>Abhiverse-Robotics</strong></span>
+  <h2><span style="font-size: 40px; vertical-align: middle; margin-left: 10px;"><strong>Abhiverse-Robotics</strong></span></h2>
 </p>
 
 I am deeply passionate about robotics and actively contribute to various projects in this field through my organization, [abhiverse-robotics](https://github.com/abhiverse-org).
