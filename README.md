@@ -15,11 +15,6 @@ Profile Views Counter
 ## 
 
 <!---
-Profile Views Counter
---->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhiverse01&label=Profile%20views&color=0e75b6&style=flat" alt="abhiverse01" /> </p>
-
-<!---
 Blogging Logo
 --->
 
@@ -207,6 +202,12 @@ I am deeply passionate about robotics and actively contribute to various project
 </div>
 
 [View in Large](https://github.com/abhiverse01/abhiverse01/blob/main/AbhishekShahResume.pdf)
+
+
+<!---
+Profile Views Counter
+--->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhiverse01&label=Profile%20views&color=0e75b6&style=flat" alt="abhiverse01" /> </p>
 
 ##  
 <p align="center">
