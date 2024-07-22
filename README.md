@@ -47,7 +47,6 @@ Blogging Logo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhiverse01)
 
-![Lines of code](https://img.shields.io/badge/Lines%20of%20code-2.8%20million-blue)
 
 ## Robotics Enthusiast
 
@@ -197,6 +196,8 @@ I am deeply passionate about robotics and actively contribute to various project
 <p align = "center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=abhiverse01&show_icons=true&locale=en" alt="abhiverse01" />
 </p>
+
+![Lines of code](https://img.shields.io/badge/Lines%20of%20code-2.8%20million-blue)
 
 ## My Contributions
 
