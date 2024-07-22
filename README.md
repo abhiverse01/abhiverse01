@@ -47,6 +47,8 @@ Blogging Logo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhiverse01)
 
+![Lines of code](https://img.shields.io/badge/Lines%20of%20code-2.8%20million-blue)
+
 ## Robotics Enthusiast
 
 <p align="left">
