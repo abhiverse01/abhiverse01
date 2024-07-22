@@ -20,8 +20,9 @@ Profile Views Counter
     </p>
 </div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhiverse01&layout=compact)
-![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=abhiverse01&theme=react-dark)
+## Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhiverse01)
+
 
 ## About Me
 <!---
