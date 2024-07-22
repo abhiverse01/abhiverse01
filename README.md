@@ -20,6 +20,9 @@ Profile Views Counter
     </p>
 </div>
 
+**Most Used Languages:**
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhiverse01&layout=compact)
+
 
 ## About Me
 <!---
