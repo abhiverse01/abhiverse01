@@ -20,8 +20,6 @@ Profile Views Counter
     </p>
 </div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhiverse01)
-
 
 ## About Me
 <!---
@@ -46,6 +44,8 @@ Blogging Logo
 - 😎 Visit my portfolio site **[abhishek-shah-portfolio](abhishekshah.vercel.app)**
 
 - 📃 Check out my digital resume **[abhishek-shah-html-resume](abhishekshahhtmlresume.vercel.app)**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhiverse01)
 
 ## Robotics Enthusiast
 
