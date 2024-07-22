@@ -185,6 +185,11 @@ I am deeply passionate about robotics and actively contribute to various project
   <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
 </div>
 
+### Featured Projects
+- **[RS Systems @InflancerTechnology](https://github.com/abhiverse01/RS-Systems)**: A recommendation system with advanced AI features.
+- **[Abhiverse Robotics](https://github.com/abhiverse-org/abhiverse-robotics)**: Innovative robotics solutions and simulations.
+
+
 ## Most Used Languages
 
 <p align = "center">
