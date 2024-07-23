@@ -1,3 +1,9 @@
+#  
+<p align="center">
+  <b><strong>&copy; Abhishek Shah | 2024</strong></b>
+</p>
+#
+
 ![logo](https://github.com/abhiverse01/abhiverse01/blob/main/1688909204206.jpeg)
 <!---
 abhiverse01/abhiverse01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -220,7 +226,7 @@ Profile Views Counter
 --->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhiverse01&label=Profile%20views&color=0e75b6&style=flat" alt="abhiverse01" /> </p>
 
-##  
+# 
 <p align="center">
   <b><strong>&copy; Abhishek Shah | 2024</strong></b>
 </p>
