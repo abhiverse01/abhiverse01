@@ -24,31 +24,39 @@ Profile Views Counter
 
 
 ## About Me
-<!---
-Blogging Logo
---->
+
+<!--- Blogging Logo --->
 <img align="right" alt="coding" width="400" src="https://github.com/abhiverse01/abhiverse01/blob/main/blogging.png">
 
-- 👀 I’m interested in **Artificial Intelligence, Development, DevOps, Code and the Cosmos.**
+### 👀 Interests
+I’m passionate about **Artificial Intelligence, Development, DevOps, Code, and the Cosmos.**
 
-- 🔭 I’m currently working on **RS Systems @InflancerTechnology as well as Open Source and Freelance Projects**
+### 🔭 Current Work
+I’m currently working on **Recommendation Systems @InflancerTechnology** as well as contributing to **Open Source** and **Freelance Projects**.
 
-- 🌱 I’m currently learning **Advanced AI Engineer Aspects & MLOps**
+### 🌱 Learning
+I’m deepening my knowledge in **Advanced AI Engineering** and **MLOps**.
 
-- 👯 I’m looking to collaborate on **Python, R, Django, Flask, AI, ML, NLP, and LLM related Projects.**
+### 👯 Collaboration
+I’m open to collaborating on projects involving **Python, R, Django, Flask, AI, ML, NLP, and LLM**.
 
-- 👨‍💻 All of my projects are available at **[github.com/abhiverse01](github.com/abhiverse01)**
+### 👨‍💻 Projects
+All my projects are on my [GitHub](https://github.com/abhiverse01).
 
-- 📝 I regularly write articles on **[Medium](Medium)**
+### 📝 Writing
+I regularly share my thoughts and insights on [Medium](https://medium.com/@abhiverse01).
 
-- 📫 Reach me @ **www.abhishekshah007@gmail.com** or **abhishek@inflancer.com**
-
-- 😎 Visit my portfolio site **[abhishek-shah-portfolio](abhishekshah.vercel.app)**
-
-- 📃 Check out my digital resume **[abhishek-shah-html-resume](abhishekshahhtmlresume.vercel.app)**
+### 📫 Contact
+Feel free to reach out to me at:
+- **Email:** [abhishekshah007@gmail.com](mailto:abhishekshah007@gmail.com) or [abhishek@inflancer.com](mailto:abhishek@inflancer.com)
+- **Portfolio:** [Visit My Portfolio](https://abhishekshah.vercel.app)
+- **Resume:** [Check My Digital Resume](https://abhishekshahhtmlresume.vercel.app)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhiverse01)
 
+<!-- Dynamic Badge Section -->
+![GitHub Followers](https://img.shields.io/github/followers/abhiverse01?style=social)
+![GitHub Stars](https://img.shields.io/github/stars/abhiverse01?style=social)
 
 ## Robotics Enthusiast
 
