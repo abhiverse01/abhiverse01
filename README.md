@@ -211,7 +211,7 @@ I am deeply passionate about robotics and actively contribute to various project
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhiverse01&" alt="abhiverse01" />
 </p>
 
-## My Resume
+## Resume
 
 <div align="center">
   <img src="https://github.com/abhiverse01/abhiverse01/blob/main/AbhishekShahResume-1.png" alt="resume-first" width="480">
@@ -220,6 +220,16 @@ I am deeply passionate about robotics and actively contribute to various project
 
 [View in Large](https://github.com/abhiverse01/abhiverse01/blob/main/AbhishekShahResume.pdf)
 
+
+<details>
+  <summary><h1>Resume</h1></summary>
+  <ul>
+    <div align="center">
+      <img src="https://github.com/abhiverse01/abhiverse01/blob/main/AbhishekShahResume-1.png" alt="resume-first" width="480">
+      <img src="https://github.com/abhiverse01/abhiverse01/blob/main/AbhishekShahResume-2.png" alt="resume-second" width="480">
+    </div>
+  </ul>
+</details>
 
 <!---
 Profile Views Counter
