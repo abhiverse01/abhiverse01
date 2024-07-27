@@ -192,12 +192,12 @@ I am deeply passionate about robotics and actively contribute to various project
   <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
 </div>
 
-## Most Used Languages
+## Summary: Used Languages
 
 <p align = "center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhiverse01&show_icons=true&locale=en&layout=compact" alt="abhiverse01" /></p>
 
-## My GitHub Stats
+## GitHub Stats
 
 <p align = "center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=abhiverse01&show_icons=true&locale=en" alt="abhiverse01" />
@@ -205,14 +205,10 @@ I am deeply passionate about robotics and actively contribute to various project
 
 ![Lines of code](https://img.shields.io/badge/Lines%20of%20code-2.8%20million-blue)
 
-## My Contributions
+## Contributions
 
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhiverse01&" alt="abhiverse01" />
-</p>
-
-<p align="center">
-[GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abhiverse01)(https://git.io/streak-stats)
 </p>
 
 ## My Resume
