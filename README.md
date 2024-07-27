@@ -66,7 +66,7 @@ I am deeply passionate about robotics and actively contribute to various project
 
 ### About abhiverse-robotics
 - We focus on developing innovative robotics solutions and simulations.
-- Our projects include autonomous systems, robotic process automation, and advanced robotics simulations.
+- Our projects include **autonomous systems,** **robotic process automation,** and **advanced robotics simulations**.
 
 ### Get Involved
 - 🚀 Check Out my Organization for further details **[abhiverse-robotics](https://github.com/abhiverse-org).**
