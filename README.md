@@ -84,7 +84,7 @@ I am deeply passionate about robotics and actively contribute to various project
 ![Llama](https://img.shields.io/badge/llama-%230077B5.svg?style=for-the-badge&logo=llama&logoColor=white)
 ![DistilBERT](https://img.shields.io/badge/DistilBERT-%2300C7B7.svg?style=for-the-badge&logo=distilbert&logoColor=white)
 ![FlanT5](https://img.shields.io/badge/FlanT5-%23F7DF1E.svg?style=for-the-badge&logo=flant5&logoColor=white)
-![Grok](https://img.shields.io/badge/Grok-%23E34F26.svg?style=for-the-badge&logo=grok&logoColor=white)
+![GroQ](https://img.shields.io/badge/Grok-%23E34F26.svg?style=for-the-badge&logo=grok&logoColor=white)
 ![Salesforce](https://img.shields.io/badge/Salesforce-%2300A1E0.svg?style=for-the-badge&logo=salesforce&logoColor=white)
 ![TinyLlama](https://img.shields.io/badge/TinyLlama-%2334A853.svg?style=for-the-badge&logo=TinyLlama&logoColor=white)
 
