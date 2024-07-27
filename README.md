@@ -23,7 +23,7 @@ Profile Views Counter
 </div>
 
 
-## About Me
+## 🤝 About Me
 <!---
 Blogging Logo
 --->
@@ -54,7 +54,7 @@ Blogging Logo
 ![GitHub Followers](https://img.shields.io/github/followers/abhiverse01?style=social)
 ![GitHub Stars](https://img.shields.io/github/stars/abhiverse01?style=social)
 
-## Robotics Enthusiast
+## 🤘 Robotics Enthusiast
 
 <p align="left">
   <span style="font-size: 40; vertical-align: middle; margin-left: 10;"><strong><b>Abhiverse-Robotics</b></strong></span>
@@ -71,7 +71,7 @@ I am deeply passionate about robotics and actively contribute to various project
 ### Get Involved
 - 🚀 Check Out my Organization for further details **[abhiverse-robotics](https://github.com/abhiverse-org).**
 
-## Connect With Me
+## 🪢 Connect With Me
 <p align="left">
 <a href="https://dev.to/abhiverse01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="abhiverse01" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/abhiverse01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhiverse01" height="30" width="40" /></a>
@@ -80,7 +80,7 @@ I am deeply passionate about robotics and actively contribute to various project
 <a href="https://medium.com/@abhiverse01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@abhiverse01" height="30" width="40" /></a>
 </p>
 
-## LLMs I've Worked With:
+## 🤗 LLMs I've Worked With:
 ![Llama](https://img.shields.io/badge/llama-%230077B5.svg?style=for-the-badge&logo=llama&logoColor=white)
 ![DistilBERT](https://img.shields.io/badge/DistilBERT-%2300C7B7.svg?style=for-the-badge&logo=distilbert&logoColor=white)
 ![FlanT5](https://img.shields.io/badge/FlanT5-%23F7DF1E.svg?style=for-the-badge&logo=flant5&logoColor=white)
@@ -89,7 +89,7 @@ I am deeply passionate about robotics and actively contribute to various project
 ![TinyLlama](https://img.shields.io/badge/TinyLlama-%2334A853.svg?style=for-the-badge&logo=TinyLlama&logoColor=white)
 
 
-## Languages and Tools
+## ⚒️ Languages and Tools
 
 <div align="justify" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
   <a href="https://backbonejs.org" target="_blank" rel="noreferrer">
@@ -145,7 +145,7 @@ I am deeply passionate about robotics and actively contribute to various project
   </a>
 </div>
 
-## Technologies I've Mastered
+## ⚙️ Technologies I've Mastered
 
 <div align= "justify" style="display: flex; flex-wrap: wrap; justify-content: space-between;">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
@@ -192,12 +192,12 @@ I am deeply passionate about robotics and actively contribute to various project
   <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
 </div>
 
-## Summary: Used Languages
+## 🧑‍💻 Summary: Used Languages
 
 <p align = "center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhiverse01&show_icons=true&locale=en&layout=compact" alt="abhiverse01" /></p>
 
-## GitHub Stats
+## 💯 GitHub Stats
 
 <p align = "center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=abhiverse01&show_icons=true&locale=en" alt="abhiverse01" />
@@ -205,13 +205,14 @@ I am deeply passionate about robotics and actively contribute to various project
 
 ![Lines of code](https://img.shields.io/badge/Lines%20of%20code-2.8%20million-blue)
 
-## Contributions
+## 📝 Contributions
 
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhiverse01&" alt="abhiverse01" />
 </p>
 
-## Resume
+
+## 📑 Resume
 
 <div align="center">
   <img src="https://github.com/abhiverse01/abhiverse01/blob/main/AbhishekShahResume-1.png" alt="resume-first" width="480">
@@ -219,8 +220,6 @@ I am deeply passionate about robotics and actively contribute to various project
 </div>
 
 [View in Large](https://github.com/abhiverse01/abhiverse01/blob/main/AbhishekShahResume.pdf)
-
-#
 
 <!---
 Profile Views Counter
