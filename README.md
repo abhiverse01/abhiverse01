@@ -222,7 +222,7 @@ I am deeply passionate about robotics and actively contribute to various project
 
 
 <details>
-  <summary><h1>Resume</h1></summary>
+  <summary><h2>Resume</h2></summary>
   <ul>
     <div align="center">
       <img src="https://github.com/abhiverse01/abhiverse01/blob/main/AbhishekShahResume-1.png" alt="resume-first" width="480">
