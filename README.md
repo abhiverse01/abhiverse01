@@ -213,15 +213,10 @@ I am deeply passionate about robotics and actively contribute to various project
 
 ## Resume
 
-<details>
-  <summary><h2>Resume</h2></summary>
-  <ul>
-    <div align="center">
-      <img src="https://github.com/abhiverse01/abhiverse01/blob/main/AbhishekShahResume-1.png" alt="resume-first" width="480">
-      <img src="https://github.com/abhiverse01/abhiverse01/blob/main/AbhishekShahResume-2.png" alt="resume-second" width="480">
-    </div>
-  </ul>
-</details>
+<div align="center">
+  <img src="https://github.com/abhiverse01/abhiverse01/blob/main/AbhishekShahResume-1.png" alt="resume-first" width="480">
+  <img src="https://github.com/abhiverse01/abhiverse01/blob/main/AbhishekShahResume-2.png" alt="resume-second" width="480">
+</div>
 
 [View in Large](https://github.com/abhiverse01/abhiverse01/blob/main/AbhishekShahResume.pdf)
 
