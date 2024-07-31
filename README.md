@@ -221,7 +221,6 @@ I am deeply passionate about robotics and actively contribute to various project
 <br/>
 
 [View in Large](https://github.com/abhiverse01/abhiverse01/blob/main/AbhishekShahResume.pdf)
-
 <br/>
 <!---
 Profile Views Counter
