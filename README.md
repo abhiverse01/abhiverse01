@@ -219,7 +219,8 @@ I am deeply passionate about robotics and actively contribute to various project
   <img src="https://github.com/abhiverse01/abhiverse01/blob/main/AbhishekShahResume-2.png" alt="resume-second" width="480">
 </div>
 <br/>
-[View in Large](https://github.com/abhiverse01/abhiverse01/blob/main/AbhishekShahResume.pdf)
+
+(https://github.com/abhiverse01/abhiverse01/blob/main/AbhishekShahResume.pdf)[View in Large]
 <br/>
 <!---
 Profile Views Counter
