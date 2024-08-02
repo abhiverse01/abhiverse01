@@ -1,6 +1,6 @@
 #
 
-<img src="https://github.com/abhiverse01/abhiverse01/blob/main/headname.png" alt="banner">
+<img src="https://github.com/abhiverse01/abhiverse01/blob/main/headname.gif" alt="banner">
 
 ![logo](https://github.com/abhiverse01/abhiverse01/blob/main/1688909204206.jpeg)
 <!---
