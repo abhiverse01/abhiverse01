@@ -1,5 +1,7 @@
 #
 
+<img src="https://github.com/abhiverse01/abhiverse01/blob/main/headname.png" alt="banner">
+
 ![logo](https://github.com/abhiverse01/abhiverse01/blob/main/1688909204206.jpeg)
 <!---
 abhiverse01/abhiverse01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,8 +13,6 @@ You can click the Preview link to take a look at your changes.
 Profile Views Counter
 --->
 <img src="https://komarev.com/ghpvc/?username=abhiverse01&label=Profile%20views&color=0e75b6&style=flat" alt="abhiverse01" />
-
-<img src="https://github.com/abhiverse01/abhiverse01/blob/main/headname.png" alt="banner">
 
 
 <h3 align="center"> 😎 AI/ML Engineer | Full Stack | Python Dev | Data Science | NLP | LLMs | Explorer </h3>
