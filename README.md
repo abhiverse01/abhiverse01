@@ -13,7 +13,7 @@ Profile Views Counter
 <img src="https://komarev.com/ghpvc/?username=abhiverse01&label=Profile%20views&color=0e75b6&style=flat" alt="abhiverse01" />
 
 <div align="center">
-    <img src="https://github.com/abhiverse01/abhiverse01/blob/main/headername.png" alt="banner">
+    <img src="https://github.com/abhiverse01/abhiverse01/blob/main/headname.png" alt="banner">
 </div>
 
 <h1 align="center">Hi 👋, I'm Abhishek Shah</h1>
