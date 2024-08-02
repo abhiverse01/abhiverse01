@@ -12,11 +12,9 @@ Profile Views Counter
 --->
 <img src="https://komarev.com/ghpvc/?username=abhiverse01&label=Profile%20views&color=0e75b6&style=flat" alt="abhiverse01" />
 
-<div align="center">
-    <img src="https://github.com/abhiverse01/abhiverse01/blob/main/headname.png" alt="banner">
-</div>
+<img src="https://github.com/abhiverse01/abhiverse01/blob/main/headname.png" alt="banner">
 
-<h1 align="center">Hi 👋, I'm Abhishek Shah</h1>
+
 <h3 align="center"> 😎 AI/ML Engineer | Full Stack | Python Dev | Data Science | NLP | LLMs | Explorer </h3>
 
 ## 
