@@ -89,13 +89,6 @@ I am deeply passionate about robotics and actively contribute to various project
   - 📦 **[Project Mirror](https://github.com/abhiverse01/Project-Mirror)** - Developed and deployed an Android package for screen mirroring ![Android](https://img.shields.io/badge/Android-Project%20Mirror-brightgreen)
 
 ## 🎯 Achievement Highlights
-- **ACES-Deltathon 2023**: Participated in a national-level software hackathon, where I showcased my skills in problem-solving and innovation.
-- **AI/ML Bootcamp 2023**: Contributed as an ML Sub-Mentor, helping to train the next generation of AI/ML enthusiasts.
-- **Delta Afterevents**: Organized a successful data science competition on Kaggle, encouraging participation and learning.
-- **Project Mirror**: Created an Android package for mirroring mobile screens on desktops, addressing a key user need in the tech community.
-- **Open Source Contributions**: Actively contributing to various open-source projects, continuously learning, and giving back to the community.
-
-## 🎯 Achievement Highlights
 
 ### 🏆 ACES-Deltathon 2023
 > **Participated in a national-level software hackathon**, showcasing problem-solving and innovation skills.
