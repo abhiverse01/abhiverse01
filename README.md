@@ -95,6 +95,38 @@ I am deeply passionate about robotics and actively contribute to various project
 - **Project Mirror**: Created an Android package for mirroring mobile screens on desktops, addressing a key user need in the tech community.
 - **Open Source Contributions**: Actively contributing to various open-source projects, continuously learning, and giving back to the community.
 
+## 🎯 Achievement Highlights
+
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+
+  <div style="background-color: #f9f9f9; border-radius: 8px; padding: 16px; margin: 8px; width: 48%; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+    <h3>🏆 ACES-Deltathon 2023</h3>
+    <p>Participated in a national-level software hackathon, where I showcased my skills in problem-solving and innovation.</p>
+  </div>
+
+  <div style="background-color: #f9f9f9; border-radius: 8px; padding: 16px; margin: 8px; width: 48%; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+    <h3>🦸‍♂️ AI/ML Bootcamp 2023</h3>
+    <p>Contributed as an ML Sub-Mentor, helping to train the next generation of AI/ML enthusiasts.</p>
+  </div>
+
+  <div style="background-color: #f9f9f9; border-radius: 8px; padding: 16px; margin: 8px; width: 48%; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+    <h3>🏗️ Delta Afterevents</h3>
+    <p>Organized a successful data science competition on Kaggle, encouraging participation and learning.</p>
+  </div>
+
+  <div style="background-color: #f9f9f9; border-radius: 8px; padding: 16px; margin: 8px; width: 48%; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+    <h3>📦 Project Mirror</h3>
+    <p>Created an Android package for mirroring mobile screens on desktops, addressing a key user need in the tech community.</p>
+  </div>
+
+  <div style="background-color: #f9f9f9; border-radius: 8px; padding: 16px; margin: 8px; width: 48%; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+    <h3>🌍 Open Source Contributions</h3>
+    <p>Actively contributing to various open-source projects, continuously learning, and giving back to the community.</p>
+  </div>
+
+</div>
+
+
 
 ## 🪢 Connect With Me
 <p align="left">
