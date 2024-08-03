@@ -111,10 +111,23 @@ I am deeply passionate about robotics and actively contribute to various project
 
 ---
 
+### 👯‍♂️ ACES-Deltathon Volunteer
+> **Volunteered to manage the event**, managing the hackathon arrangements, resource usage processing, mentoring participants with AI issues.
+> 
+> [Volunteering](https://img.shields.io/badge/Volunteering-Community--Event-yellow)
+---
+
 ### 📦 Project Mirror
 > **Developed an Android package for screen mirroring** on desktops, addressing key user needs in the tech community.
 >
 > ![Android Badge](https://img.shields.io/badge/Android-Project%20Mirror-brightgreen)
+
+---
+
+### 📕 ML Learning Resource Repo
+> **Building and upgrading on GitHub!**, the entire ML learning journey that could become one useful resource for both a beginner and an expert in starting or revising the ML concepts, projects and tips to become an effective ML personnel.
+> 
+> [GitHub](https://img.shields.io/badge/ML%20Repo-Active--Development-red)
 
 ---
 
@@ -127,43 +140,50 @@ I am deeply passionate about robotics and actively contribute to various project
 ## 🌟 Achievements Timeline & Highlights
 
 - **2023**
-  > 🏆 **[ACES-Deltathon](https://github.com/abhiverse01/ACES-Deltathon)**  
-  > Participated in National Level Software Hackathon conducted in ERC, showcasing problem-solving and innovation skills.  
-  > ![Hackathon Badge](https://img.shields.io/badge/Hackathon-Top%20Participant-orange)
+> 🏆 **[ACES-Deltathon](https://github.com/abhiverse01/ACES-Deltathon)**
+> Participated in National Level Software Hackathon conducted in ERC, showcasing problem-solving and innovation skills.
+>   
+> ![Hackathon Badge](https://img.shields.io/badge/Hackathon-Top%20Participant-orange)
 
-  ---
+---
 
-  > 🦸‍♂️ **[AI/ML Bootcamp](https://github.com/abhiverse01/AI-ML-Bootcamp)**  
-  > Served as an ML Sub-Mentor, training college juniors on AI, ML & Data Science.  
-  > ![Mentorship](https://img.shields.io/badge/Mentorship-ML%20Sub--Mentor-blue)
+> 🦸‍♂️ **[AI/ML Bootcamp](https://github.com/abhiverse01/AI-ML-Bootcamp)**  
+> Served as an ML Sub-Mentor, training college juniors on AI, ML & Data Science.
+> 
+> ![Mentorship](https://img.shields.io/badge/Mentorship-ML%20Sub--Mentor-blue)
   
 - **2022**
-  > 🏗️ **[Delta Afterevents](https://kaggle.com/abhiverse01/delta-afterevents)**  
-  > Hosted a data science competition on Kaggle, encouraging participation and learning.  
-  > ![Kaggle Badge](https://img.shields.io/badge/Kaggle-Competition-green)
+> 🏗️ **[Delta Afterevents](https://kaggle.com/abhiverse01/delta-afterevents)**  
+> Hosted a data science competition on Kaggle, encouraging participation and learning.
+>   
+> ![Kaggle Badge](https://img.shields.io/badge/Kaggle-Competition-green)
 
-  ---
+---
 
-  > 👯‍♂️ **[ACES-Deltathon](https://github.com/abhiverse01/ACES-Deltathon)**  
-  > Volunteered to manage the event, contributing to its successful execution.  
-  > ![Volunteering Badge](https://img.shields.io/badge/Volunteering-Community--Event-yellow)
+> 👯‍♂️ **[ACES-Deltathon](https://github.com/abhiverse01/ACES-Deltathon)**  
+> Volunteered to manage the event, contributing to its successful execution.
+> 
+> ![Volunteering Badge](https://img.shields.io/badge/Volunteering-Community--Event-yellow)
 
-  ---
+---
 
-  > 🌍 **[Open Source Projects](https://github.com/abhiverse01/Open-Source-Projects)**  
-  > Ongoing contributions to various open-source projects, continuously learning, and giving back to the community.  
-  > ![Open Source Badge](https://img.shields.io/badge/Open%20Source-Contributor-brightgreen)
+> 🌍 **[Open Source Projects](https://github.com/abhiverse01/Open-Source-Projects)**  
+> Ongoing contributions to various open-source projects, continuously learning, and giving back to the community.
+>  
+> ![Open Source Badge](https://img.shields.io/badge/Open%20Source-Contributor-brightgreen)
   
 - **Ongoing**
-  > 📕 **[ML Learning Resource Repo](https://github.com/abhiverse01/ML-Learning-Resource-Repo)**  
-  > Actively building and upgrading a comprehensive ML Learning Resource repository on GitHub.  
-  > ![GitHub Badge](https://img.shields.io/badge/ML%20Repo-Active--Development-red)
+> 📕 **[ML Learning Resource Repo](https://github.com/abhiverse01/ML-Learning-Resource-Repo)**  
+> Actively building and upgrading a comprehensive ML Learning Resource repository on GitHub.
+> 
+> ![GitHub Badge](https://img.shields.io/badge/ML%20Repo-Active--Development-red)
 
-  ---
+---
 
-  > 📦 **[Project Mirror](https://github.com/abhiverse01/Project-Mirror)**  
-  > Developed and deployed an Android package for screen mirroring on desktops, addressing key user needs in the tech community.  
-  > ![Android Badge](https://img.shields.io/badge/Android-Project%20Mirror-brightgreen)
+> 📦 **[Project Mirror](https://github.com/abhiverse01/Project-Mirror)**  
+> Developed and deployed an Android package for screen mirroring on desktops, addressing key user needs in the tech community.
+> 
+> ![Android Badge](https://img.shields.io/badge/Android-Project%20Mirror-brightgreen)
 
 
 
