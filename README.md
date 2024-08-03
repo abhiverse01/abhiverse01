@@ -73,6 +73,29 @@ I am deeply passionate about robotics and actively contribute to various project
 ### Get Involved
 - 🚀 Check Out my Organization for further details **[abhiverse-robotics](https://github.com/abhiverse-org).**
 
+## 🌟 Achievements Timeline & Highlights
+
+- **2023**
+  - 🏆 **[ACES-Deltathon](https://github.com/abhiverse01/ACES-Deltathon)** - Participated in National Level Software Hackathon conducted in ERC ![Hackathon Badge](https://img.shields.io/badge/Hackathon-Top%20Participant-orange)
+  - 🦸‍♂️ **[AI/ML Bootcamp](https://github.com/abhiverse01/AI-ML-Bootcamp)** - ML Sub-Mentor training college juniors on AI, ML & Data Science ![Mentorship](https://img.shields.io/badge/Mentorship-ML%20Sub--Mentor-blue)
+  
+- **2022**
+  - 🏗️ **[Delta Afterevents](https://kaggle.com/abhiverse01/delta-afterevents)** - Hosted a data science competition on Kaggle ![Kaggle](https://img.shields.io/badge/Kaggle-Competition-green)
+  - 👯‍♂️ **[ACES-Deltathon](https://github.com/abhiverse01/ACES-Deltathon)** - Volunteered to manage the event ![Volunteering](https://img.shields.io/badge/Volunteering-Community--Event-yellow)
+  - 🌍 **[Open Source Projects](https://github.com/abhiverse01/Open-Source-Projects)** - Ongoing contributions ![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-brightgreen)
+  
+- **Ongoing**
+  - 📕 **[ML Learning Resource Repo](https://github.com/abhiverse01/ML-Learning-Resource-Repo)** - Building and upgrading on GitHub ![GitHub](https://img.shields.io/badge/ML%20Repo-Active--Development-red)
+  - 📦 **[Project Mirror](https://github.com/abhiverse01/Project-Mirror)** - Developed and deployed an Android package for screen mirroring ![Android](https://img.shields.io/badge/Android-Project%20Mirror-brightgreen)
+
+## 🎯 Achievement Highlights
+- **ACES-Deltathon 2023**: Participated in a national-level software hackathon, where I showcased my skills in problem-solving and innovation.
+- **AI/ML Bootcamp 2023**: Contributed as an ML Sub-Mentor, helping to train the next generation of AI/ML enthusiasts.
+- **Delta Afterevents**: Organized a successful data science competition on Kaggle, encouraging participation and learning.
+- **Project Mirror**: Created an Android package for mirroring mobile screens on desktops, addressing a key user need in the tech community.
+- **Open Source Contributions**: Actively contributing to various open-source projects, continuously learning, and giving back to the community.
+
+
 ## 🪢 Connect With Me
 <p align="left">
 <a href="https://dev.to/abhiverse01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="abhiverse01" height="30" width="40" /></a>
