@@ -97,34 +97,38 @@ I am deeply passionate about robotics and actively contribute to various project
 
 ## 🎯 Achievement Highlights
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+### 🏆 ACES-Deltathon 2023
+> **Participated in a national-level software hackathon**, showcasing problem-solving and innovation skills.
+>
+> ![Hackathon Badge](https://img.shields.io/badge/Hackathon-Top%20Participant-orange)
 
-  <div style="background-color: #f9f9f9; border-radius: 8px; padding: 16px; margin: 8px; width: 48%; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-    <h3>🏆 ACES-Deltathon 2023</h3>
-    <p>Participated in a national-level software hackathon, where I showcased my skills in problem-solving and innovation.</p>
-  </div>
+---
 
-  <div style="background-color: #f9f9f9; border-radius: 8px; padding: 16px; margin: 8px; width: 48%; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-    <h3>🦸‍♂️ AI/ML Bootcamp 2023</h3>
-    <p>Contributed as an ML Sub-Mentor, helping to train the next generation of AI/ML enthusiasts.</p>
-  </div>
+### 🦸‍♂️ AI/ML Bootcamp 2023
+> **ML Sub-Mentor** - Trained the next generation of AI/ML enthusiasts at the AI/ML Bootcamp.
+>
+> ![Mentorship Badge](https://img.shields.io/badge/Mentorship-ML%20Sub--Mentor-blue)
 
-  <div style="background-color: #f9f9f9; border-radius: 8px; padding: 16px; margin: 8px; width: 48%; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-    <h3>🏗️ Delta Afterevents</h3>
-    <p>Organized a successful data science competition on Kaggle, encouraging participation and learning.</p>
-  </div>
+---
 
-  <div style="background-color: #f9f9f9; border-radius: 8px; padding: 16px; margin: 8px; width: 48%; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-    <h3>📦 Project Mirror</h3>
-    <p>Created an Android package for mirroring mobile screens on desktops, addressing a key user need in the tech community.</p>
-  </div>
+### 🏗️ Delta Afterevents
+> **Hosted a data science competition on Kaggle**, encouraging participation and learning in the data science community.
+>
+> ![Kaggle Badge](https://img.shields.io/badge/Kaggle-Competition-green)
 
-  <div style="background-color: #f9f9f9; border-radius: 8px; padding: 16px; margin: 8px; width: 48%; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-    <h3>🌍 Open Source Contributions</h3>
-    <p>Actively contributing to various open-source projects, continuously learning, and giving back to the community.</p>
-  </div>
+---
 
-</div>
+### 📦 Project Mirror
+> **Developed an Android package for screen mirroring** on desktops, addressing key user needs in the tech community.
+>
+> ![Android Badge](https://img.shields.io/badge/Android-Project%20Mirror-brightgreen)
+
+---
+
+### 🌍 Open Source Contributions
+> **Actively contributing to various open-source projects**, continuously learning, and giving back to the community.
+>
+> ![Open Source Badge](https://img.shields.io/badge/Open%20Source-Contributor-brightgreen)
 
 
 
