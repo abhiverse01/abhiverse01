@@ -51,64 +51,6 @@ Blogging Logo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhiverse01)
 
-
-## 👋 Hey there! I'm Abhishek Shah
-
-<div style="display: flex; align-items: center; justify-content: space-between;">
-
-<div style="flex: 1;">
-<p>A passionate AI/ML Engineer with a deep interest in development, DevOps, and exploring the wonders of the cosmos.</p>
-
-<ul>
-  <li>🌌 I’m interested in <strong>Artificial Intelligence, Development, DevOps, Code, and the Cosmos.</strong></li>
-  <li>🔭 I’m currently working on <strong>RS Systems @InflancerTechnology</strong> as well as <strong>Open Source and Freelance Projects.</strong></li>
-  <li>🌱 I’m currently learning <strong>Advanced AI Engineer Aspects & MLOps.</strong></li>
-  <li>👯 I’m looking to collaborate on <strong>Python, R, Django, Flask, AI, ML, NLP, and LLM related Projects.</strong></li>
-  <li>👨‍💻 All of my projects are available at <a href="https://github.com/abhiverse01"><strong>github.com/abhiverse01</strong></a></li>
-  <li>📝 I regularly write articles on <a href="https://medium.com/@abhiverse01"><strong>Medium</strong></a></li>
-  <li>📫 Reach me at <a href="mailto:abhishekshah007@gmail.com"><strong>abhishekshah007@gmail.com</strong></a> or <a href="mailto:abhishek@inflancer.com"><strong>abhishek@inflancer.com</strong></a></li>
-  <li>😎 Visit my <a href="https://abhishekshah.vercel.app"><strong>portfolio site</strong></a> to see my work and projects.</li>
-  <li>📃 Check out my <a href="https://abhishekshahhtmlresume.vercel.app"><strong>digital resume</strong></a> for a detailed overview of my experience.</li>
-  <li>🎸 In my free time, I enjoy playing the guitar and exploring astrophotography.</li>
-</ul>
-</div>
-
-<div style="flex: 1; text-align: right;">
-<img align="right" alt="coding" width="400" src="https://github.com/abhiverse01/abhiverse01/blob/main/blogging.png">
-</div>
-
-</div>
-
-## 🛠️ Tech Stack
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
-  <div style="flex: 1; margin-right: 10px;">
-    <ul>
-      <li><strong>Languages</strong>: Python, R, JavaScript</li>
-      <li><strong>Frameworks</strong>: Django, Flask, TensorFlow</li>
-    </ul>
-  </div>
-  <div style="flex: 1;">
-    <ul>
-      <li><strong>Tools</strong>: Docker, Kubernetes, Git</li>
-    </ul>
-  </div>
-</div>
-
-## 🌐 Connect with Me
-<div style="display: flex; justify-content: flex-start;">
-  <a href="https://linkedin.com/in/abhiverse01" style="margin-right: 10px;">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://twitter.com/abhiverse01" style="margin-right: 10px;">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-  </a>
-  <a href="https://github.com/abhiverse01">
-    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-</div>
-
-
-
 <!-- Dynamic Badge Section -->
 ![GitHub Followers](https://img.shields.io/github/followers/abhiverse01?style=social)
 ![GitHub Stars](https://img.shields.io/github/stars/abhiverse01?style=social)
