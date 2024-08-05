@@ -295,7 +295,7 @@ I am deeply passionate about robotics and actively contribute to various project
 
 <details>
   <summary style="font-size: 1.5em; cursor: pointer; display: flex; align-items: center;">
-    <img src="https://img.icons8.com/ios-glyphs/30/000000/expand-arrow.png" alt="Expand Arrow" style="margin-right: 10px;"/> Expand to view all certifications
+     Expand to view all certifications
   </summary>
   <div style="margin-top: 20px;">
 
