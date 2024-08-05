@@ -290,6 +290,289 @@ I am deeply passionate about robotics and actively contribute to various project
 
 [View in Large](https://github.com/abhiverse01/abhiverse01/blob/main/AbhishekShahResume.pdf)
 <br/>
+
+
+### Licenses & Certifications
+
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+
+<div style="flex: 1; min-width: 30%; max-width: 30%; margin: 10px; padding: 15px; border: 1px solid #ddd; border-radius: 10px;">
+<img src="https://s3.amazonaws.com/Saylor-Logos/Saylor_Academy_Logo.png" alt="Saylor Academy" width="50"/>
+<h3>PSYCH101: Introduction to Psychology</h3>
+<p><strong>Issuer:</strong> Saylor Academy</p>
+<p><strong>Issued:</strong> Aug 2024</p>
+<p><strong>Credential ID:</strong> 8173289785AS</p>
+<a href="your-link-here">Show Credential</a>
+</div>
+
+<div style="flex: 1; min-width: 30%; max-width: 30%; margin: 10px; padding: 15px; border: 1px solid #ddd; border-radius: 10px;">
+<img src="https://www.greatlearning.in/images/logo/logo-nav.svg" alt="Great Learning" width="50"/>
+<h3>Apache Kafka Basics</h3>
+<p><strong>Issuer:</strong> Great Learning</p>
+<p><strong>Issued:</strong> Jul 2024</p>
+<p><strong>Credential ID:</strong> 65313</p>
+<a href="your-link-here">Show Credential</a>
+<p><strong>Skills:</strong> Apache Kafka · Stream Processing</p>
+</div>
+
+<div style="flex: 1; min-width: 30%; max-width: 30%; margin: 10px; padding: 15px; border: 1px solid #ddd; border-radius: 10px;">
+<img src="https://www.deeplearning.ai/wp-content/uploads/2020/06/deeplearning.ai_.png" alt="DeepLearning.AI" width="50"/>
+<h3>ChatGPT Prompt Engineering for Developers</h3>
+<p><strong>Issuer:</strong> DeepLearning.AI</p>
+<p><strong>Issued:</strong> Jul 2024</p>
+<p><strong>Credential ID:</strong> 793b76ad-ec97-4cfc-ad52-eb3484a6b2cb</p>
+<a href="your-link-here">Show Credential</a>
+<p><strong>Skills:</strong> Prompt Engineering · AI Prompting</p>
+</div>
+
+<div style="flex: 1; min-width: 30%; max-width: 30%; margin: 10px; padding: 15px; border: 1px solid #ddd; border-radius: 10px;">
+<img src="https://www.greatlearning.in/images/logo/logo-nav.svg" alt="Great Learning" width="50"/>
+<h3>NLP Project-based Learning</h3>
+<p><strong>Issuer:</strong> Great Learning</p>
+<p><strong>Issued:</strong> Jul 2024</p>
+<p><strong>Credential ID:</strong> 49362</p>
+<a href="your-link-here">Show Credential</a>
+<p><strong>Skills:</strong> Natural Language Processing (NLP) · Machine Learning · Statistical Data Analysis</p>
+</div>
+
+<div style="flex: 1; min-width: 30%; max-width: 30%; margin: 10px; padding: 15px; border: 1px solid #ddd; border-radius: 10px;">
+<img src="https://s3.amazonaws.com/Saylor-Logos/Saylor_Academy_Logo.png" alt="Saylor Academy" width="50"/>
+<h3>CS302: Software Engineering</h3>
+<p><strong>Issuer:</strong> Saylor Academy</p>
+<p><strong>Issued:</strong> Jun 2024</p>
+<p><strong>Credential ID:</strong> 0252344638AS</p>
+<a href="your-link-here">Show Credential</a>
+<p><strong>Skills:</strong> Software Development · SDLC · Software Engineering Practices</p>
+</div>
+
+<div style="flex: 1; min-width: 30%; max-width: 30%; margin: 10px; padding: 15px; border: 1px solid #ddd; border-radius: 10px;">
+<img src="https://buildspace.so/preview.png" alt="Buildspace" width="50"/>
+<h3>Cohort Member</h3>
+<p><strong>Issuer:</strong> Buildspace</p>
+<p><strong>Issued:</strong> Jun 2024</p>
+<p><strong>Credential ID:</strong> axSA1MHtvWgtyqyUAHJdlaYykU</p>
+<a href="your-link-here">Show Credential</a>
+<p><strong>Skills:</strong> Machine Learning · Software Engineering</p>
+</div>
+
+<div style="flex: 1; min-width: 30%; max-width: 30%; margin: 10px; padding: 15px; border: 1px solid #ddd; border-radius: 10px;">
+<img src="https://www.simplilearn.com/ice9/assets/logo_black.svg" alt="Simplilearn" width="50"/>
+<h3>Django for Python and Data Science</h3>
+<p><strong>Issuer:</strong> Simplilearn</p>
+<p><strong>Issued:</strong> Jun 2024</p>
+<p><strong>Credential ID:</strong> 6734769</p>
+<a href="your-link-here">Show Credential</a>
+<p><strong>Skills:</strong> Django · Python (Programming Language) · Data Science</p>
+</div>
+
+<div style="flex: 1; min-width: 30%; max-width: 30%; margin: 10px; padding: 15px; border: 1px solid #ddd; border-radius: 10px;">
+<img src="https://www.udemy.com/staticx/udemy/images/v7/logo-udemy.svg" alt="Udemy" width="50"/>
+<h3>A Crash Course in Writing Well</h3>
+<p><strong>Issuer:</strong> Udemy</p>
+<p><strong>Issued:</strong> May 2024</p>
+<p><strong>Credential ID:</strong> UC-d8c56706-9879-4d50-933a-bdc45ce2521f</p>
+<a href="your-link-here">Show Credential</a>
+<p><strong>Skills:</strong> Web Content Writing · Academic Writing</p>
+</div>
+
+<div style="flex: 1; min-width: 30%; max-width: 30%; margin: 10px; padding: 15px; border: 1px solid #ddd; border-radius: 10px;">
+<img src="https://www.greatlearning.in/images/logo/logo-nav.svg" alt="Great Learning" width="50"/>
+<h3>Applied Machine Learning Algorithms</h3>
+<p><strong>Issuer:</strong> Great Learning</p>
+<p><strong>Issued:</strong> May 2024</p>
+<p><strong>Credential ID:</strong> 56698</p>
+<a href="your-link-here">Show Credential</a>
+<p><strong>Skills:</strong> Machine Learning · SVM · K-Nearest Neighbors (KNN) · Random Forest · Decision Trees · Logistic Regression · ML Algorithms</p>
+</div>
+
+<div style="flex: 1; min-width: 30%; max-width: 30%; margin: 10px; padding: 15px; border: 1px solid #ddd; border-radius: 10px;">
+<img src="https://www.greatlearning.in/images/logo/logo-nav.svg" alt="Great Learning" width="50"/>
+<h3>Artificial Intelligence Fundamentals</h3>
+<p><strong>Issuer:</strong> Great Learning</p>
+<p><strong>Issued:</strong> May 2024</p>
+<p><strong>Credential ID:</strong> 84191</p>
+<a href="your-link-here">Show Credential</a>
+<p><strong>Skills:</strong> AI · Neural Networks · Deep Learning</p>
+</div>
+
+<div style="flex: 1; min-width: 30%; max-width: 30%; margin: 10px; padding: 15px; border: 1px solid #ddd; border-radius: 10px;">
+<img src="https://s3.amazonaws.com/Saylor-Logos/Saylor_Academy_Logo.png" alt="Saylor Academy" width="50"/>
+<h3>CS250: Python for Data Science</h3>
+<p><strong>Issuer:</strong> Saylor Academy</p>
+<p><strong>Issued:</strong> May 2024</p>
+<p><strong>Credential ID:</strong> 4096728099AS</p>
+<a href="your-link-here">Show Credential</a>
+<p><strong>Skills:</strong> Data Science · NumPy · Pandas · Matplotlib</p>
+</div>
+
+<div style="flex: 1; min-width: 30%; max-width: 30%; margin: 10px; padding: 15px; border: 1px solid #ddd; border-radius: 10px;">
+<img src="https://www.udemy.com/staticx/udemy/images/v7/logo-udemy.svg" alt="Udemy" width="50"/>
+<h3>File and Folder Management using Power Shell</h3>
+<p><strong>Issuer:</strong> Udemy</p>
+<p><strong>Issued:</strong> May 2024</p>
+<p><strong>Credential ID:</strong> UC-53bcbab4-7ce6-4de3-b569-b5fac60bd35c</p>
+<a href="your-link-here">Show Credential</a>
+<p><strong>Skills:</strong> File Management · Powershell</p>
+</div>
+
+<div style="flex: 1; min-width: 30%; max-width: 30%; margin: 10px; padding: 15px; border: 1px solid #ddd; border-radius: 10px;">
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Google_Analytics_logo.png" alt="Google Analytics 4" width="50"/>
+<h3>Google Analytics Individual Qualification</h3>
+<p><strong>Issuer:</strong> Google Analytics 4</p>
+<p><strong>Issued:</strong> May 2024</p>
+<p><strong>Credential ID:</strong> Nd5MirS5SSe8OEA1bDZf6A</p>
+<a href="your-link-here">Show Credential</a>
+<p><strong>Skills:</strong> Analytical Skills · Data Analysis</p>
+</div>
+
+<div style="flex: 1; min-width: 30%; max-width: 30%; margin: 10px; padding: 15px; border: 1px solid #ddd; border-radius: 10px;">
+<img src="https://www.greatlearning.in/images/logo/logo-nav.svg" alt="Great Learning" width="50"/>
+<h3>Probability Distributions for Machine Learning</h3>
+<p><strong>Issuer:</strong> Great Learning</p>
+<p><strong>Issued:</strong> May 2024</p>
+<p><strong>Credential ID:</strong> 34995</p>
+<a href="your-link-here">Show Credential</a>
+<p><strong>Skills:</strong> Applied Probability · Machine Learning · Probability Distribution</p>
+</div>
+
+<div style="flex: 1; min-width: 30%; max-width: 30%; margin: 10px; padding: 15px; border: 1px solid #ddd; border-radius: 10px;">
+<img src="https://www.greatlearning.in/images/logo/logo-nav.svg" alt="Great Learning" width="50"/>
+<h3>Tensorflow with Python</h3>
+<p><strong>Issuer:</strong> Great Learning</p>
+<p><strong>Issued:</strong> May 2024</p>
+<p><strong>Credential ID:</strong> 56698</p>
+<a href="your-link-here">Show Credential</a>
+<p><strong>Skills:</strong> Convolutional Neural Networks (CNN) · TensorFlow · Python</p>
+</div>
+
+<div style="flex: 1; min-width: 30%; max-width: 30%; margin: 10px; padding: 15px; border: 1px solid #ddd; border-radius: 10px;">
+<img src="https://www.udemy.com/staticx/udemy/images/v7/logo-udemy.svg" alt="Udemy" width="50"/>
+<h3>PyScript Fundamentals 101</h3>
+<p><strong>Issuer:</strong> Udemy</p>
+<p><strong>Issued:</strong> Feb 2024</p>
+<p><strong>Credential ID:</strong> UC-59ba06cd-9bee-47b4-80cd-c07a67764cd2</p>
+<a href="your-link-here">Show Credential</a>
+<p><strong>Skills:</strong> Pyscript · Python · Web Development</p>
+</div>
+
+<div style="flex: 1; min-width: 30%; max-width: 30%; margin: 10px; padding: 15px; border: 1px solid #ddd; border-radius: 10px;">
+<img src="https://your-academy-logo-here.com/logo.png" alt="Association of Computer Engineering Students(ACES)" width="50"/>
+<h3>AI/ML Mentorship Recognition</h3>
+<p><strong>Issuer:</strong> Association of Computer Engineering Students(ACES)</p>
+<p><strong>Issued:</strong> Jan 2024</p>
+<a href="your-link-here">Show Credential</a>
+<p><strong>Skills:</strong> NumPy · Artificial Intelligence (AI) · Panda · Presentations · Machine Learning · Natural Language Processing (NLP)</p>
+</div>
+
+<div style="flex: 1; min-width: 30%; max-width: 30%; margin: 10px; padding: 15px; border: 1px solid #ddd; border-radius: 10px;">
+<img src="https://mindluster.com/images/logo.png" alt="MindLuster" width="50"/>
+<h3>Exploring Docker</h3>
+<p><strong>Issuer:</strong> MindLuster</p>
+<p><strong>Issued:</strong> Nov 2023</p>
+<p><strong>Credential ID:</strong> 13907665933</p>
+<a href="your-link-here">Show Credential</a>
+<p><strong>Skills:</strong> Docker</p>
+</div>
+
+<div style="flex: 1; min-width: 30%; max-width: 30%; margin: 10px; padding: 15px; border: 1px solid #ddd; border-radius: 10px;">
+<img src="https://www.udemy.com/staticx/udemy/images/v7/logo-udemy.svg" alt="Udemy" width="50"/>
+<h3>Unlocking the power of ChatGPT in Data Science: A-Z Guide</h3>
+<p><strong>Issuer:</strong> Udemy</p>
+<p><strong>Issued:</strong> Nov 2023</p>
+<p><strong>Credential ID:</strong> UC-e261495f-ff30-4f2c-9a9e-d4b0312ecf67</p>
+<a href="your-link-here">Show Credential</a>
+<p><strong>Skills:</strong> AI · Python · Machine Learning</p>
+</div>
+
+<div style="flex: 1; min-width: 30%; max-width: 30%; margin: 10px; padding: 15px; border: 1px solid #ddd; border-radius: 10px;">
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/Coursera_logo.png" alt="Coursera" width="50"/>
+<h3>Introduction to Generative AI</h3>
+<p><strong>Issuer:</strong> Coursera</p>
+<p><strong>Issued:</strong> Oct 2023</p>
+<p><strong>Credential ID:</strong> 2RYNBVE7PTXH</p>
+<a href="your-link-here">Show Credential</a>
+<p><strong>Skills:</strong> LLMs · Large Language Models (LLM) · Python · Generative AI</p>
+</div>
+
+<div style="flex: 1; min-width: 30%; max-width: 30%; margin: 10px; padding: 15px; border: 1px solid #ddd; border-radius: 10px;">
+<img src="https://www.udemy.com/staticx/udemy/images/v7/logo-udemy.svg" alt="Udemy" width="50"/>
+<h3>Python GUI | Practical Projects in Python: Build 3 Projects</h3>
+<p><strong>Issuer:</strong> Udemy</p>
+<p><strong>Issued:</strong> Sep 2023</p>
+<p><strong>Credential ID:</strong> UC-10786951-f40b-4fe4-8843-4a5cec87a6cf</p>
+<a href="your-link-here">Show Credential</a>
+<p><strong>Skills:</strong> Python Developer · PyQt · GUI</p>
+</div>
+
+<div style="flex: 1; min-width: 30%; max-width: 30%; margin: 10px; padding: 15px; border: 1px solid #ddd; border-radius: 10px;">
+<img src="https://www.udemy.com/staticx/udemy/images/v7/logo-udemy.svg" alt="Udemy" width="50"/>
+<h3>Python Programming - From Basics to Advanced Level</h3>
+<p><strong>Issuer:</strong> Udemy</p>
+<p><strong>Issued:</strong> Sep 2023</p>
+<p><strong>Credential ID:</strong> UC-4dc55380-13e1-4120-adbc-e5a6baed124f</p>
+<a href="your-link-here">Show Credential</a>
+<p><strong>Skills:</strong> Python Developer · Beautiful Soup · Decorators · Regular Expressions</p>
+</div>
+
+<div style="flex: 1; min-width: 30%; max-width: 30%; margin: 10px; padding: 15px; border: 1px solid #ddd; border-radius: 10px;">
+<img src="https://teaching.com/images/teaching-logo.svg" alt="Teaching.com" width="50"/>
+<h3>Expert-Level Typing</h3>
+<p><strong>Issuer:</strong> Teaching.com</p>
+<p><strong>Issued:</strong> Aug 2023</p>
+<p><strong>Credential ID:</strong> 256049629-118126774</p>
+<a href="your-link-here">Show Credential</a>
+<p><strong>Skills:</strong> Content Development</p>
+</div>
+
+<div style="flex: 1; min-width: 30%; max-width: 30%; margin: 10px; padding: 15px; border: 1px solid #ddd; border-radius: 10px;">
+<img src="https://d92mrp7hetgfk.cloudfront.net/images/sites/misc/hackerrank-logo/original.png" alt="HackerRank" width="50"/>
+<h3>Introduction to Programming Using Python</h3>
+<p><strong>Issuer:</strong> HackerRank</p>
+<p><strong>Issued:</strong> Jul 2023</p>
+<p><strong>Credential ID:</strong> 99D47D1E0846</p>
+<a href="your-link-here">Show Credential</a>
+<p><strong>Skills:</strong> Python (Programming Language)</p>
+</div>
+
+<div style="flex: 1; min-width: 30%; max-width: 30%; margin: 10px; padding: 15px; border: 1px solid #ddd; border-radius: 10px;">
+<img src="https://your-academy-logo-here.com/logo.png" alt="Association of Computer Engineering Students(ACES)" width="50"/>
+<h3>Delta Hackathon</h3>
+<p><strong>Issuer:</strong> Association of Computer Engineering Students(ACES)</p>
+<p><strong>Issued:</strong> Jun 2023</p>
+<a href="your-link-here">Show Credential</a>
+<p><strong>Skills:</strong> Hackathon · Coding Challenge</p>
+</div>
+
+<div style="flex: 1; min-width: 30%; max-width: 30%; margin: 10px; padding: 15px; border: 1px solid #ddd; border-radius: 10px;">
+<img src="https://www.deeplearning.ai/wp-content/uploads/2020/06/deeplearning.ai_.png" alt="DeepLearning.AI" width="50"/>
+<h3>Fine-Tuning Large Language Models</h3>
+<p><strong>Issuer:</strong> DeepLearning.AI</p>
+<p><strong>Issued:</strong> Jun 2022</p>
+<a href="your-link-here">Show Credential</a>
+<p><strong>Skills:</strong> LLM · Fine Tuning</p>
+</div>
+
+<div style="flex: 1; min-width: 30%; max-width: 30%; margin: 10px; padding: 15px; border: 1px solid #ddd; border-radius: 10px;">
+<img src="https://your-academy-logo-here.com/logo.png" alt="CodSoft" width="50"/>
+<h3>Machine Learning Intern</h3>
+<p><strong>Issuer:</strong> CodSoft</p>
+<p><strong>Issued:</strong> Oct 2023 · Expired Nov 2023</p>
+<p><strong>Credential ID:</strong> aa7a224</p>
+<a href="your-link-here">Show Credential</a>
+<p><strong>Skills:</strong> NumPy · Scikit-Learn · LLMs · Convolutional Neural Networks (CNN) · AI · Python · Machine Learning</p>
+</div>
+
+<div style="flex: 1; min-width: 30%; max-width: 30%; margin: 10px; padding: 15px; border: 1px solid #ddd; border-radius: 10px;">
+<img src="https://www.deeplearning.ai/wp-content/uploads/2020/06/deeplearning.ai_.png" alt="DeepLearning.AI" width="50"/>
+<h3>Introduction to On-Device AI</h3>
+<p><strong>Issuer:</strong> DeepLearning.AI</p>
+<a href="your-link-here">Show Credential</a>
+<p><strong>Skills:</strong> Artificial Intelligence (AI) · On-Device AI</p>
+</div>
+
+</div>
+
+
 <!---
 Profile Views Counter
 --->
