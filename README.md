@@ -380,7 +380,7 @@ I am deeply passionate about robotics and actively contribute to various project
 >
 > **Skills:** Django · Python (Programming Language) · Data Science
 >
-> ![Django Badge](https://img.shields.io/badge/Simplilearn-Django%20for%20Python%20and%20Data%20Science-blue)
+> ![Django Badge](https://img.shields.io/badge/Simplilearn-Django%20for%20Python%20and%20Data%20Science-green)
 
 ---
 
@@ -393,7 +393,7 @@ I am deeply passionate about robotics and actively contribute to various project
 >
 > **Skills:** Web Content Writing · Academic Writing
 >
-> ![Writing Badge](https://img.shields.io/badge/Udemy-A%20Crash%20Course%20in%20Writing%20Well-blue)
+> ![Writing Badge](https://img.shields.io/badge/Udemy-A%20Crash%20Course%20in%20Writing%20Well-red)
 
 ---
 
@@ -406,7 +406,7 @@ I am deeply passionate about robotics and actively contribute to various project
 >
 > **Skills:** Machine Learning · SVM · K-Nearest Neighbors (KNN) · Random Forest · Decision Trees · Logistic Regression · ML Algorithms
 >
-> ![Machine Learning Badge](https://img.shields.io/badge/Great%20Learning-Applied%20Machine%20Learning%20Algorithms-blue)
+> ![Machine Learning Badge](https://img.shields.io/badge/Great%20Learning-Applied%20Machine%20Learning%20Algorithms-white)
 
 ---
 
