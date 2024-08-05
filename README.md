@@ -75,17 +75,17 @@ I am deeply passionate about robotics and actively contribute to various project
 ## 🌟 Achievements Timeline & Highlights
 
 - **2023**
-  - 🏆 **[ACES-Deltathon](https://github.com/abhiverse01/ACES-Deltathon)** - Participated in National Level Software Hackathon conducted in ERC ![Hackathon Badge](https://img.shields.io/badge/Hackathon-Top%20Participant-orange)
-  - 🦸‍♂️ **[AI/ML Bootcamp](https://github.com/abhiverse01/AI-ML-Bootcamp)** - ML Sub-Mentor training college juniors on AI, ML & Data Science ![Mentorship](https://img.shields.io/badge/Mentorship-ML%20Sub--Mentor-blue)
+  - 🏆 **[ACES-Deltathon](https://github.com/abhiverse01/ACES-Deltathon)** - Participated in National Level Software Hackathon conducted in ERC 
+  - 🦸‍♂️ **[AI/ML Bootcamp](https://github.com/abhiverse01/AI-ML-Bootcamp)** - ML Sub-Mentor training college juniors on AI, ML & Data Science 
   
 - **2022**
-  - 🏗️ **[Delta Afterevents](https://kaggle.com/abhiverse01/delta-afterevents)** - Hosted a data science competition on Kaggle ![Kaggle](https://img.shields.io/badge/Kaggle-Competition-green)
-  - 👯‍♂️ **[ACES-Deltathon](https://github.com/abhiverse01/ACES-Deltathon)** - Volunteered to manage the event ![Volunteering](https://img.shields.io/badge/Volunteering-Community--Event-yellow)
-  - 🌍 **[Open Source Projects](https://github.com/abhiverse01/Open-Source-Projects)** - Ongoing contributions ![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-brightgreen)
+  - 🏗️ **[Delta Afterevents](https://kaggle.com/abhiverse01/delta-afterevents)** - Hosted a data science competition on Kaggle
+  - 👯‍♂️ **[ACES-Deltathon](https://github.com/abhiverse01/ACES-Deltathon)** - Volunteered to manage the event 
+  - 🌍 **[Open Source Projects](https://github.com/abhiverse01/Open-Source-Projects)** - Ongoing contributions 
   
 - **Ongoing**
-  - 📕 **[ML Learning Resource Repo](https://github.com/abhiverse01/ML-Learning-Resource-Repo)** - Building and upgrading on GitHub ![GitHub](https://img.shields.io/badge/ML%20Repo-Active--Development-red)
-  - 📦 **[Project Mirror](https://github.com/abhiverse01/Project-Mirror)** - Developed and deployed an Android package for screen mirroring ![Android](https://img.shields.io/badge/Android-Project%20Mirror-brightgreen)
+  - 📕 **[ML Learning Resource Repo](https://github.com/abhiverse01/ML-Learning-Resource-Repo)** - Building and upgrading on GitHub 
+  - 📦 **[Project Mirror](https://github.com/abhiverse01/Project-Mirror)** - Developed and deployed an Android package for screen mirroring
 
 ## 🎯 Achievement Highlights
 
@@ -111,7 +111,7 @@ I am deeply passionate about robotics and actively contribute to various project
 ---
 
 ### 👯‍♂️ ACES-Deltathon Volunteer
-> **Volunteered to manage the event**, managing the hackathon arrangements, resource usage processing, mentoring participants with AI issues.
+> **Volunteered to manage the event**, managing the hackathon arrangements, resource usage processing, and mentoring participants with AI issues.
 > 
 > [Volunteering](https://img.shields.io/badge/Volunteering-Community--Event-yellow)
 ---
@@ -302,7 +302,7 @@ I am deeply passionate about robotics and actively contribute to various project
 >
 > **Credential ID:** 8173289785AS
 >
-> ![PSYCH101 Badge](https://img.shields.io/badge/Saylor%20Academy-PSYCH101%3A%20Introduction%20to%20Psychology-blue)
+> ![PSYCH101 Badge](https://img.shields.io/badge/Saylor%20Academy-PSYCH101%3A%20Introduction%20to%20Psychology-pink)
 
 ---
 
@@ -315,7 +315,7 @@ I am deeply passionate about robotics and actively contribute to various project
 >
 > **Skills:** Apache Kafka · Stream Processing
 >
-> ![Apache Kafka Badge](https://img.shields.io/badge/Great%20Learning-Apache%20Kafka%20Basics-blue)
+> ![Apache Kafka Badge](https://img.shields.io/badge/Great%20Learning-Apache%20Kafka%20Basics-white)
 
 ---
 
@@ -328,7 +328,7 @@ I am deeply passionate about robotics and actively contribute to various project
 >
 > **Skills:** Prompt Engineering · AI Prompting
 >
-> ![ChatGPT Badge](https://img.shields.io/badge/DeepLearning.AI-ChatGPT%20Prompt%20Engineering%20for%20Developers-blue)
+> ![ChatGPT Badge](https://img.shields.io/badge/DeepLearning.AI-ChatGPT%20Prompt%20Engineering%20for%20Developers-yellow)
 
 ---
 
@@ -341,7 +341,7 @@ I am deeply passionate about robotics and actively contribute to various project
 >
 > **Skills:** Natural Language Processing (NLP) · Machine Learning · Statistical Data Analysis
 >
-> ![NLP Badge](https://img.shields.io/badge/Great%20Learning-NLP%20Project--based%20Learning-blue)
+> ![NLP Badge](https://img.shields.io/badge/Great%20Learning-NLP%20Project--based%20Learning-red)
 
 ---
 
@@ -367,7 +367,7 @@ I am deeply passionate about robotics and actively contribute to various project
 >
 > **Skills:** Machine Learning · Software Engineering
 >
-> ![Cohort Member Badge](https://img.shields.io/badge/Buildspace-Cohort%20Member-blue)
+> ![Cohort Member Badge](https://img.shields.io/badge/Buildspace-Cohort%20Member-green)
 
 ---
 
@@ -393,7 +393,7 @@ I am deeply passionate about robotics and actively contribute to various project
 >
 > **Skills:** Web Content Writing · Academic Writing
 >
-> ![Writing Badge](https://img.shields.io/badge/Udemy-A%20Crash%20Course%20in%20Writing%20Well-red)
+> ![Writing Badge](https://img.shields.io/badge/Udemy-A%20Crash%20Course%20in%20Writing%20Well-yellow)
 
 ---
 
@@ -419,7 +419,7 @@ I am deeply passionate about robotics and actively contribute to various project
 >
 > **Skills:** AI · Neural Networks · Deep Learning
 >
-> ![AI Badge](https://img.shields.io/badge/Great%20Learning-Artificial%20Intelligence%20Fundamentals-blue)
+> ![AI Badge](https://img.shields.io/badge/Great%20Learning-Artificial%20Intelligence%20Fundamentals-red)
 
 ---
 
@@ -432,7 +432,7 @@ I am deeply passionate about robotics and actively contribute to various project
 >
 > **Skills:** Data Science · NumPy · Pandas · Matplotlib
 >
-> ![Python Badge](https://img.shields.io/badge/Saylor%20Academy-CS250%3A%20Python%20for%20Data%20Science-blue)
+> ![Python Badge](https://img.shields.io/badge/Saylor%20Academy-CS250%3A%20Python%20for%20Data%20Science-green)
 
 ---
 
@@ -458,7 +458,7 @@ I am deeply passionate about robotics and actively contribute to various project
 >
 > **Skills:** Analytical Skills · Data Analysis
 >
-> ![Google Analytics Badge](https://img.shields.io/badge/Google%20Analytics%204-Google%20Analytics%20Individual%20Qualification-blue)
+> ![Google Analytics Badge](https://img.shields.io/badge/Google%20Analytics%204-Google%20Analytics%20Individual%20Qualification-lightgreen)
 
 ---
 
@@ -471,7 +471,7 @@ I am deeply passionate about robotics and actively contribute to various project
 >
 > **Skills:** Applied Probability · Machine Learning · Probability Distribution
 >
-> ![Probability Badge](https://img.shields.io/badge/Great%20Learning-Probability%20Distributions%20for%20Machine%20Learning-blue)
+> ![Probability Badge](https://img.shields.io/badge/Great%20Learning-Probability%20Distributions%20for%20Machine%20Learning-white)
 
 ---
 
@@ -484,7 +484,7 @@ I am deeply passionate about robotics and actively contribute to various project
 >
 > **Skills:** Convolutional Neural Networks (CNN) · TensorFlow · Python
 >
-> ![TensorFlow Badge](https://img.shields.io/badge/Great%20Learning-Tensorflow%20with%20Python-blue)
+> ![TensorFlow Badge](https://img.shields.io/badge/Great%20Learning-Tensorflow%20with%20Python-green)
 
 ---
 
@@ -497,7 +497,7 @@ I am deeply passionate about robotics and actively contribute to various project
 >
 > **Skills:** Pyscript · Python · Web Development
 >
-> ![PyScript Badge](https://img.shields.io/badge/Udemy-PyScript%20Fundamentals%20101-blue)
+> ![PyScript Badge](https://img.shields.io/badge/Udemy-PyScript%20Fundamentals%20101-green)
 
 ---
 
@@ -547,7 +547,7 @@ I am deeply passionate about robotics and actively contribute to various project
 >
 > **Skills:** LLMs · Large Language Models (LLM) · Python · Generative AI
 >
-> ![Generative AI Badge](https://img.shields.io/badge/Coursera-Introduction%20to%20Generative%20AI-blue)
+> ![Generative AI Badge](https://img.shields.io/badge/Coursera-Introduction%20to%20Generative%20AI-red)
 
 ---
 
@@ -560,7 +560,7 @@ I am deeply passionate about robotics and actively contribute to various project
 >
 > **Skills:** Python Developer · PyQt · GUI
 >
-> ![Python GUI Badge](https://img.shields.io/badge/Udemy-Python%20GUI%20%7C%20Practical%20Projects%20in%20Python%3A%20Build%203%20Projects-blue)
+> ![Python GUI Badge](https://img.shields.io/badge/Udemy-Python%20GUI%20%7C%20Practical%20Projects%20in%20Python%3A%20Build%203%20Projects-green)
 
 ---
 
@@ -643,10 +643,8 @@ I am deeply passionate about robotics and actively contribute to various project
 >
 > **Skills:** Artificial Intelligence (AI) · On-Device AI
 >
-> ![On-Device AI Badge](https://img.shields.io/badge/DeepLearning.AI-Introduction%20to%20On--Device%20AI-blue)
+> ![On-Device AI Badge](https://img.shields.io/badge/DeepLearning.AI-Introduction%20to%20On--Device%20AI-red)
 
-
-</detail>
 
 <!---
 Profile Views Counter
