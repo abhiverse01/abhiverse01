@@ -358,10 +358,6 @@ I am deeply passionate about robotics and actively contribute to various project
 
 ---
 
-<details>
-<summary>show 23 more ...</summary>
-<div>
-
 ### 🚀 Cohort Member
 > **Issuer:** Buildspace
 >
@@ -649,7 +645,7 @@ I am deeply passionate about robotics and actively contribute to various project
 >
 > ![On-Device AI Badge](https://img.shields.io/badge/DeepLearning.AI-Introduction%20to%20On--Device%20AI-blue)
 
-</div>
+
 </detail>
 
 <!---
