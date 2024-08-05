@@ -645,6 +645,372 @@ I am deeply passionate about robotics and actively contribute to various project
 >
 > ![On-Device AI Badge](https://img.shields.io/badge/DeepLearning.AI-Introduction%20to%20On--Device%20AI-red)
 
+---
+
+
+## 🏆 Licenses & Certifications
+
+<details>
+  <summary style="font-size: 1.5em; cursor: pointer; display: flex; align-items: center;">
+    <img src="https://img.icons8.com/ios-glyphs/30/000000/expand-arrow.png" alt="Expand Arrow" style="margin-right: 10px;"/> Expand to view all certifications
+  </summary>
+  <div style="margin-top: 20px;">
+
+---
+
+### 🧠 PSYCH101: Introduction to Psychology
+> **Issuer:** Saylor Academy
+>
+> **Issued:** Aug 2024
+>
+> **Credential ID:** 8173289785AS
+>
+> ![PSYCH101 Badge](https://img.shields.io/badge/Saylor%20Academy-PSYCH101%3A%20Introduction%20to%20Psychology-pink)
+
+---
+
+### ⚙️ Apache Kafka Basics
+> **Issuer:** Great Learning
+>
+> **Issued:** Jul 2024
+>
+> **Credential ID:** 65313
+>
+> **Skills:** Apache Kafka · Stream Processing
+>
+> ![Apache Kafka Badge](https://img.shields.io/badge/Great%20Learning-Apache%20Kafka%20Basics-white)
+
+---
+
+### 💡 ChatGPT Prompt Engineering for Developers
+> **Issuer:** DeepLearning.AI
+>
+> **Issued:** Jul 2024
+>
+> **Credential ID:** 793b76ad-ec97-4cfc-ad52-eb3484a6b2cb
+>
+> **Skills:** Prompt Engineering · AI Prompting
+>
+> ![ChatGPT Badge](https://img.shields.io/badge/DeepLearning.AI-ChatGPT%20Prompt%20Engineering%20for%20Developers-yellow)
+
+---
+
+### 🧠 NLP Project-based Learning
+> **Issuer:** Great Learning
+>
+> **Issued:** Jul 2024
+>
+> **Credential ID:** 49362
+>
+> **Skills:** Natural Language Processing (NLP) · Machine Learning · Statistical Data Analysis
+>
+> ![NLP Badge](https://img.shields.io/badge/Great%20Learning-NLP%20Project--based%20Learning-red)
+
+---
+
+### 💻 CS302: Software Engineering
+> **Issuer:** Saylor Academy
+>
+> **Issued:** Jun 2024
+>
+> **Credential ID:** 0252344638AS
+>
+> **Skills:** Software Development · SDLC · Software Engineering Practices
+>
+> ![Software Engineering Badge](https://img.shields.io/badge/Saylor%20Academy-CS302%3A%20Software%20Engineering-blue)
+
+---
+
+### 🚀 Cohort Member
+> **Issuer:** Buildspace
+>
+> **Issued:** Jun 2024
+>
+> **Credential ID:** axSA1MHtvWgtyqyUAHJdlaYykU
+>
+> **Skills:** Machine Learning · Software Engineering
+>
+> ![Cohort Member Badge](https://img.shields.io/badge/Buildspace-Cohort%20Member-green)
+
+---
+
+### 🐍 Django for Python and Data Science
+> **Issuer:** Simplilearn
+>
+> **Issued:** Jun 2024
+>
+> **Credential ID:** 6734769
+>
+> **Skills:** Django · Python (Programming Language) · Data Science
+>
+> ![Django Badge](https://img.shields.io/badge/Simplilearn-Django%20for%20Python%20and%20Data%20Science-green)
+
+---
+
+### ✍️ A Crash Course in Writing Well
+> **Issuer:** Udemy
+>
+> **Issued:** May 2024
+>
+> **Credential ID:** UC-d8c56706-9879-4d50-933a-bdc45ce2521f
+>
+> **Skills:** Web Content Writing · Academic Writing
+>
+> ![Writing Badge](https://img.shields.io/badge/Udemy-A%20Crash%20Course%20in%20Writing%20Well-yellow)
+
+---
+
+### 🤖 Applied Machine Learning Algorithms
+> **Issuer:** Great Learning
+>
+> **Issued:** May 2024
+>
+> **Credential ID:** 56698
+>
+> **Skills:** Machine Learning · SVM · K-Nearest Neighbors (KNN) · Random Forest · Decision Trees · Logistic Regression · ML Algorithms
+>
+> ![Machine Learning Badge](https://img.shields.io/badge/Great%20Learning-Applied%20Machine%20Learning%20Algorithms-white)
+
+---
+
+### 🧠 Artificial Intelligence Fundamentals
+> **Issuer:** Great Learning
+>
+> **Issued:** May 2024
+>
+> **Credential ID:** 84191
+>
+> **Skills:** AI · Neural Networks · Deep Learning
+>
+> ![AI Badge](https://img.shields.io/badge/Great%20Learning-Artificial%20Intelligence%20Fundamentals-red)
+
+---
+
+### 🐍 CS250: Python for Data Science
+> **Issuer:** Saylor Academy
+>
+> **Issued:** May 2024
+>
+> **Credential ID:** 4096728099AS
+>
+> **Skills:** Data Science · NumPy · Pandas · Matplotlib
+>
+> ![Python Badge](https://img.shields.io/badge/Saylor%20Academy-CS250%3A%20Python%20for%20Data%20Science-green)
+
+---
+
+### 💻 File and Folder Management using Power Shell
+> **Issuer:** Udemy
+>
+> **Issued:** May 2024
+>
+> **Credential ID:** UC-53bcbab4-7ce6-4de3-b569-b5fac60bd35c
+>
+> **Skills:** File Management · Powershell
+>
+> ![Power Shell Badge](https://img.shields.io/badge/Udemy-File%20and%20Folder%20Management%20using%20Power%20Shell-blue)
+
+---
+
+### 📊 Google Analytics Individual Qualification
+> **Issuer:** Google Analytics 4
+>
+> **Issued:** May 2024
+>
+> **Credential ID:** Nd5MirS5SSe8OEA1bDZf6A
+>
+> **Skills:** Analytical Skills · Data Analysis
+>
+> ![Google Analytics Badge](https://img.shields.io/badge/Google%20Analytics%204-Google%20Analytics%20Individual%20Qualification-lightgreen)
+
+---
+
+### 📈 Probability Distributions for Machine Learning
+> **Issuer:** Great Learning
+>
+> **Issued:** May 2024
+>
+> **Credential ID:** 34995
+>
+> **Skills:** Applied Probability · Machine Learning · Probability Distribution
+>
+> ![Probability Badge](https://img.shields.io/badge/Great%20Learning-Probability%20Distributions%20for%20Machine%20Learning-white)
+
+---
+
+### 🐍 Tensorflow with Python
+> **Issuer:** Great Learning
+>
+> **Issued:** May 2024
+>
+> **Credential ID:** 56698
+>
+> **Skills:** Convolutional Neural Networks (CNN) · TensorFlow · Python
+>
+> ![TensorFlow Badge](https://img.shields.io/badge/Great%20Learning-Tensorflow%20with%20Python-green)
+
+---
+
+### 🐍 PyScript Fundamentals 101
+> **Issuer:** Udemy
+>
+> **Issued:** Feb 2024
+>
+> **Credential ID:** UC-59ba06cd-9bee-47b4-80cd-c07a67764cd2
+>
+> **Skills:** Pyscript · Python · Web Development
+>
+> ![PyScript Badge](https://img.shields.io/badge/Udemy-PyScript%20Fundamentals%20101-green)
+
+---
+
+### 🤖 AI/ML Mentorship Recognition
+> **Issuer:** Association of Computer Engineering Students (ACES)
+>
+> **Issued:** Jan 2024
+>
+> **Skills:** NumPy · Artificial Intelligence (AI) · Panda · Presentations · Machine Learning · Natural Language Processing (NLP)
+>
+> ![Mentorship Badge](https://img.shields.io/badge/ACES-AI%2FML%20Mentorship%20Recognition-blue)
+
+---
+
+### 🐳 Exploring Docker
+> **Issuer:** MindLuster
+>
+> **Issued:** Nov 2023
+>
+> **Credential ID:** 13907665933
+>
+> **Skills:** Docker
+>
+> ![Docker Badge](https://img.shields.io/badge/MindLuster-Exploring%20Docker-blue)
+
+---
+
+### 🤖 Unlocking the power of ChatGPT in Data Science: A-Z Guide
+> **Issuer:** Udemy
+>
+> **Issued:** Nov 2023
+>
+> **Credential ID:** UC-e261495f-ff30-4f2c-9a9e-d4b0312ecf67
+>
+> **Skills:** AI · Python · Machine Learning
+>
+> ![ChatGPT Badge](https://img.shields.io/badge/Udemy-Unlocking%20the%20power%20of%20ChatGPT%20in%20Data%20Science%3A%20A--Z%20Guide-blue)
+
+---
+
+### 🧠 Introduction to Generative AI
+> **Issuer:** Coursera
+>
+> **Issued:** Oct 2023
+>
+> **Credential ID:** 2RYNBVE7PTXH
+>
+> **Skills:** LLMs · Large Language Models (LLM) · Python · Generative AI
+>
+> ![Generative AI Badge](https://img.shields.io/badge/Coursera-Introduction%20to%20Generative%20AI-red)
+
+---
+
+### 🐍 Python GUI | Practical Projects in Python: Build 3 Projects
+> **Issuer:** Udemy
+>
+> **Issued:** Sep 2023
+>
+> **Credential ID:** UC-10786951-f40b-4fe4-8843-4a5cec87a6cf
+>
+> **Skills:** Python Developer · PyQt · GUI
+>
+> ![Python GUI Badge](https://img.shields.io/badge/Udemy-Python%20GUI%20%7C%20Practical%20Projects%20in%20Python%3A%20Build%203%20Projects-green)
+
+---
+
+### 🐍 Python Programming - From Basics to Advanced Level
+> **Issuer:** Udemy
+>
+> **Issued:** Sep 2023
+>
+> **Credential ID:** UC-4dc55380-13e1-4120-adbc-e5a6baed124f
+>
+> **Skills:** Python Developer · Beautiful Soup · Decorators · Regular Expressions
+>
+> ![Python Programming Badge](https://img.shields.io/badge/Udemy-Python%20Programming%20--%20From%20Basics%20to%20Advanced%20Level-blue)
+
+---
+
+### 🧑‍💻 Expert-Level Typing
+> **Issuer:** Teaching.com
+>
+> **Issued:** Aug 2023
+>
+> **Credential ID:** 256049629-118126774
+>
+> **Skills:** Content Development
+>
+> ![Typing Badge](https://img.shields.io/badge/Teaching.com-Expert--Level%20Typing-blue)
+
+---
+
+### 🐍 Introduction to Programming Using Python
+> **Issuer:** HackerRank
+>
+> **Issued:** Jul 2023
+>
+> **Credential ID:** 99D47D1E0846
+>
+> **Skills:** Python (Programming Language)
+>
+> ![Programming Badge](https://img.shields.io/badge/HackerRank-Introduction%20to%20Programming%20Using%20Python-blue)
+
+---
+
+### 🧑‍💻 Delta Hackathon
+> **Issuer:** Association of Computer Engineering Students (ACES)
+>
+> **Issued:** Jun 2023
+>
+> **Skills:** Hackathon · Coding Challenge
+>
+> ![Hackathon Badge](https://img.shields.io/badge/ACES-Delta%20Hackathon-blue)
+
+---
+
+### 🤖 Fine-Tuning Large Language Models
+> **Issuer:** DeepLearning.AI
+>
+> **Issued:** Jun 2022
+>
+> **Skills:** LLM · Fine Tuning
+>
+> ![LLM Badge](https://img.shields.io/badge/DeepLearning.AI-Fine--Tuning%20Large%20Language%20Models-blue)
+
+---
+
+### 🤖 Machine Learning Intern
+> **Issuer:** CodSoft
+>
+> **Issued:** Oct 2023 · Expired Nov 2023
+>
+> **Credential ID:** aa7a224
+>
+> **Skills:** NumPy · Scikit-Learn · LLMs · CNN · AI · Python · Machine Learning
+>
+> ![Intern Badge](https://img.shields.io/badge/CodSoft-Machine%20Learning%20Intern-blue)
+
+---
+
+### 🧠 Introduction to On-Device AI
+> **Issuer:** DeepLearning.AI
+>
+> **Skills:** Artificial Intelligence (AI) · On-Device AI
+>
+> ![On-Device AI Badge](https://img.shields.io/badge/DeepLearning.AI-Introduction%20to%20On--Device%20AI-red)
+
+  </div>
+</details>
+
 
 <!---
 Profile Views Counter
