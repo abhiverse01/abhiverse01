@@ -439,6 +439,235 @@ I am deeply passionate about robotics and actively contribute to various project
 </div>
 
 
+<h2 align="center">🏆 Licenses & Certifications</h2>
+
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+
+  <div style="width: 300px; background-color: #f0f0f0; border-radius: 10px; padding: 15px; margin: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <img src="https://s3.amazonaws.com/Saylor-Logos/Saylor_Academy_Logo.png" alt="Saylor Academy" width="50" style="float: right;"/>
+    <h3 style="margin-top: 0;">PSYCH101: Introduction to Psychology</h3>
+    <p><strong>Issuer:</strong> Saylor Academy</p>
+    <p><strong>Issued:</strong> Aug 2024</p>
+    <a href="https://www.linkedin.com/in/abhiverse01" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #0077B5; color: white; text-decoration: none; border-radius: 5px;">View Credential</a>
+  </div>
+
+  <div style="width: 300px; background-color: #f0f0f0; border-radius: 10px; padding: 15px; margin: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <img src="https://www.greatlearning.in/images/logo/logo-nav.svg" alt="Great Learning" width="50" style="float: right;"/>
+    <h3 style="margin-top: 0;">Apache Kafka Basics</h3>
+    <p><strong>Issuer:</strong> Great Learning</p>
+    <p><strong>Issued:</strong> Jul 2024</p>
+    <a href="https://www.linkedin.com/in/abhiverse01" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #0077B5; color: white; text-decoration: none; border-radius: 5px;">View Credential</a>
+  </div>
+
+  <div style="width: 300px; background-color: #f0f0f0; border-radius: 10px; padding: 15px; margin: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <img src="https://www.deeplearning.ai/wp-content/uploads/2020/06/deeplearning.ai_.png" alt="DeepLearning.AI" width="50" style="float: right;"/>
+    <h3 style="margin-top: 0;">ChatGPT Prompt Engineering for Developers</h3>
+    <p><strong>Issuer:</strong> DeepLearning.AI</p>
+    <p><strong>Issued:</strong> Jul 2024</p>
+    <a href="https://www.linkedin.com/in/abhiverse01" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #0077B5; color: white; text-decoration: none; border-radius: 5px;">View Credential</a>
+  </div>
+
+  <div style="width: 300px; background-color: #f0f0f0; border-radius: 10px; padding: 15px; margin: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <img src="https://www.greatlearning.in/images/logo/logo-nav.svg" alt="Great Learning" width="50" style="float: right;"/>
+    <h3 style="margin-top: 0;">NLP Project-based Learning</h3>
+    <p><strong>Issuer:</strong> Great Learning</p>
+    <p><strong>Issued:</strong> Jul 2024</p>
+    <a href="https://www.linkedin.com/in/abhiverse01" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #0077B5; color: white; text-decoration: none; border-radius: 5px;">View Credential</a>
+  </div>
+
+  <div style="width: 300px; background-color: #f0f0f0; border-radius: 10px; padding: 15px; margin: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <img src="https://s3.amazonaws.com/Saylor-Logos/Saylor_Academy_Logo.png" alt="Saylor Academy" width="50" style="float: right;"/>
+    <h3 style="margin-top: 0;">CS302: Software Engineering</h3>
+    <p><strong>Issuer:</strong> Saylor Academy</p>
+    <p><strong>Issued:</strong> Jun 2024</p>
+    <a href="https://www.linkedin.com/in/abhiverse01" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #0077B5; color: white; text-decoration: none; border-radius: 5px;">View Credential</a>
+  </div>
+
+  <div style="width: 300px; background-color: #f0f0f0; border-radius: 10px; padding: 15px; margin: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <img src="https://buildspace.so/preview.png" alt="Buildspace" width="50" style="float: right;"/>
+    <h3 style="margin-top: 0;">Cohort Member</h3>
+    <p><strong>Issuer:</strong> Buildspace</p>
+    <p><strong>Issued:</strong> Jun 2024</p>
+    <a href="https://www.linkedin.com/in/abhiverse01" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #0077B5; color: white; text-decoration: none; border-radius: 5px;">View Credential</a>
+  </div>
+
+  <div style="width: 300px; background-color: #f0f0f0; border-radius: 10px; padding: 15px; margin: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <img src="https://www.simplilearn.com/ice9/assets/logo_black.svg" alt="Simplilearn" width="50" style="float: right;"/>
+    <h3 style="margin-top: 0;">Django for Python and Data Science</h3>
+    <p><strong>Issuer:</strong> Simplilearn</p>
+    <p><strong>Issued:</strong> Jun 2024</p>
+    <a href="https://www.linkedin.com/in/abhiverse01" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #0077B5; color: white; text-decoration: none; border-radius: 5px;">View Credential</a>
+  </div>
+
+  <div style="width: 300px; background-color: #f0f0f0; border-radius: 10px; padding: 15px; margin: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <img src="https://www.udemy.com/staticx/udemy/images/v7/logo-udemy.svg" alt="Udemy" width="50" style="float: right;"/>
+    <h3 style="margin-top: 0;">A Crash Course in Writing Well</h3>
+    <p><strong>Issuer:</strong> Udemy</p>
+    <p><strong>Issued:</strong> May 2024</p>
+    <a href="https://www.linkedin.com/in/abhiverse01" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #0077B5; color: white; text-decoration: none; border-radius: 5px;">View Credential</a>
+  </div>
+
+  <div style="width: 300px; background-color: #f0f0f0; border-radius: 10px; padding: 15px; margin: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <img src="https://www.greatlearning.in/images/logo/logo-nav.svg" alt="Great Learning" width="50" style="float: right;"/>
+    <h3 style="margin-top: 0;">Applied Machine Learning Algorithms</h3>
+    <p><strong>Issuer:</strong> Great Learning</p>
+    <p><strong>Issued:</strong> May 2024</p>
+    <a href="https://www.linkedin.com/in/abhiverse01" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #0077B5; color: white; text-decoration: none; border-radius: 5px;">View Credential</a>
+  </div>
+
+  <div style="width: 300px; background-color: #f0f0f0; border-radius: 10px; padding: 15px; margin: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <img src="https://www.greatlearning.in/images/logo/logo-nav.svg" alt="Great Learning" width="50" style="float: right;"/>
+    <h3 style="margin-top: 0;">Artificial Intelligence Fundamentals</h3>
+    <p><strong>Issuer:</strong> Great Learning</p>
+    <p><strong>Issued:</strong> May 2024</p>
+    <a href="https://www.linkedin.com/in/abhiverse01" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #0077B5; color: white; text-decoration: none; border-radius: 5px;">View Credential</a>
+  </div>
+
+  <div style="width: 300px; background-color: #f0f0f0; border-radius: 10px; padding: 15px; margin: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <img src="https://s3.amazonaws.com/Saylor-Logos/Saylor_Academy_Logo.png" alt="Saylor Academy" width="50" style="float: right;"/>
+    <h3 style="margin-top: 0;">CS250: Python for Data Science</h3>
+    <p><strong>Issuer:</strong> Saylor Academy</p>
+    <p><strong>Issued:</strong> May 2024</p>
+    <a href="https://www.linkedin.com/in/abhiverse01" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #0077B5; color: white; text-decoration: none; border-radius: 5px;">View Credential</a>
+  </div>
+
+  <div style="width: 300px; background-color: #f0f0f0; border-radius: 10px; padding: 15px; margin: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <img src="https://www.udemy.com/staticx/udemy/images/v7/logo-udemy.svg" alt="Udemy" width="50" style="float: right;"/>
+    <h3 style="margin-top: 0;">File and Folder Management using Power Shell</h3>
+    <p><strong>Issuer:</strong> Udemy</p>
+    <p><strong>Issued:</strong> May 2024</p>
+    <a href="https://www.linkedin.com/in/abhiverse01" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #0077B5; color: white; text-decoration: none; border-radius: 5px;">View Credential</a>
+  </div>
+
+  <div style="width: 300px; background-color: #f0f0f0; border-radius: 10px; padding: 15px; margin: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Google_Analytics_logo.png" alt="Google Analytics 4" width="50" style="float: right;"/>
+    <h3 style="margin-top: 0;">Google Analytics Individual Qualification</h3>
+    <p><strong>Issuer:</strong> Google Analytics 4</p>
+    <p><strong>Issued:</strong> May 2024</p>
+    <a href="https://www.linkedin.com/in/abhiverse01" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #0077B5; color: white; text-decoration: none; border-radius: 5px;">View Credential</a>
+  </div>
+
+  <div style="width: 300px; background-color: #f0f0f0; border-radius: 10px; padding: 15px; margin: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <img src="https://www.greatlearning.in/images/logo/logo-nav.svg" alt="Great Learning" width="50" style="float: right;"/>
+    <h3 style="margin-top: 0;">Probability Distributions for Machine Learning</h3>
+    <p><strong>Issuer:</strong> Great Learning</p>
+    <p><strong>Issued:</strong> May 2024</p>
+    <a href="https://www.linkedin.com/in/abhiverse01" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #0077B5; color: white; text-decoration: none; border-radius: 5px;">View Credential</a>
+  </div>
+
+  <div style="width: 300px; background-color: #f0f0f0; border-radius: 10px; padding: 15px; margin: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <img src="https://www.greatlearning.in/images/logo/logo-nav.svg" alt="Great Learning" width="50" style="float: right;"/>
+    <h3 style="margin-top: 0;">Tensorflow with Python</h3>
+    <p><strong>Issuer:</strong> Great Learning</p>
+    <p><strong>Issued:</strong> May 2024</p>
+    <a href="https://www.linkedin.com/in/abhiverse01" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #0077B5; color: white; text-decoration: none; border-radius: 5px;">View Credential</a>
+  </div>
+
+<div style="width: 300px; background-color: #f0f0f0; border-radius: 10px; padding: 15px; margin: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <img src="https://www.udemy.com/staticx/udemy/images/v7/logo-udemy.svg" alt="Udemy" width="50" style="float: right;"/>
+    <h3 style="margin-top: 0;">PyScript Fundamentals 101</h3>
+    <p><strong>Issuer:</strong> Udemy</p>
+    <p><strong>Issued:</strong> Feb 2024</p>
+    <a href="https://www.linkedin.com/in/abhiverse01" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #0077B5; color: white; text-decoration: none; border-radius: 5px;">View Credential</a>
+  </div>
+
+  <div style="width: 300px; background-color: #f0f0f0; border-radius: 10px; padding: 15px; margin: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <img src="https://your-academy-logo-here.com/logo.png" alt="ACES" width="50" style="float: right;"/>
+    <h3 style="margin-top: 0;">AI/ML Mentorship Recognition</h3>
+    <p><strong>Issuer:</strong> Association of Computer Engineering Students(ACES)</p>
+    <p><strong>Issued:</strong> Jan 2024</p>
+    <a href="https://www.linkedin.com/in/abhiverse01" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #0077B5; color: white; text-decoration: none; border-radius: 5px;">View Credential</a>
+  </div>
+
+  <div style="width: 300px; background-color: #f0f0f0; border-radius: 10px; padding: 15px; margin: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <img src="https://mindluster.com/images/logo.png" alt="MindLuster" width="50" style="float: right;"/>
+    <h3 style="margin-top: 0;">Exploring Docker</h3>
+    <p><strong>Issuer:</strong> MindLuster</p>
+    <p><strong>Issued:</strong> Nov 2023</p>
+    <a href="https://www.linkedin.com/in/abhiverse01" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #0077B5; color: white; text-decoration: none; border-radius: 5px;">View Credential</a>
+  </div>
+
+  <div style="width: 300px; background-color: #f0f0f0; border-radius: 10px; padding: 15px; margin: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <img src="https://www.udemy.com/staticx/udemy/images/v7/logo-udemy.svg" alt="Udemy" width="50" style="float: right;"/>
+    <h3 style="margin-top: 0;">Unlocking the power of ChatGPT in Data Science: A-Z Guide</h3>
+    <p><strong>Issuer:</strong> Udemy</p>
+    <p><strong>Issued:</strong> Nov 2023</p>
+    <a href="https://www.linkedin.com/in/abhiverse01" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #0077B5; color: white; text-decoration: none; border-radius: 5px;">View Credential</a>
+  </div>
+
+  <div style="width: 300px; background-color: #f0f0f0; border-radius: 10px; padding: 15px; margin: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/Coursera_logo.png" alt="Coursera" width="50" style="float: right;"/>
+    <h3 style="margin-top: 0;">Introduction to Generative AI</h3>
+    <p><strong>Issuer:</strong> Coursera</p>
+    <p><strong>Issued:</strong> Oct 2023</p>
+    <a href="https://www.linkedin.com/in/abhiverse01" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #0077B5; color: white; text-decoration: none; border-radius: 5px;">View Credential</a>
+  </div>
+
+  <div style="width: 300px; background-color: #f0f0f0; border-radius: 10px; padding: 15px; margin: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <img src="https://www.udemy.com/staticx/udemy/images/v7/logo-udemy.svg" alt="Udemy" width="50" style="float: right;"/>
+    <h3 style="margin-top: 0;">Python GUI | Practical Projects in Python: Build 3 Projects</h3>
+    <p><strong>Issuer:</strong> Udemy</p>
+    <p><strong>Issued:</strong> Sep 2023</p>
+    <a href="https://www.linkedin.com/in/abhiverse01" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #0077B5; color: white; text-decoration: none; border-radius: 5px;">View Credential</a>
+  </div>
+
+  <div style="width: 300px; background-color: #f0f0f0; border-radius: 10px; padding: 15px; margin: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <img src="https://www.udemy.com/staticx/udemy/images/v7/logo-udemy.svg" alt="Udemy" width="50" style="float: right;"/>
+    <h3 style="margin-top: 0;">Python Programming - From Basics to Advanced Level</h3>
+    <p><strong>Issuer:</strong> Udemy</p>
+    <p><strong>Issued:</strong> Sep 2023</p>
+    <a href="https://www.linkedin.com/in/abhiverse01" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #0077B5; color: white; text-decoration: none; border-radius: 5px;">View Credential</a>
+  </div>
+
+  <div style="width: 300px; background-color: #f0f0f0; border-radius: 10px; padding: 15px; margin: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <img src="https://teaching.com/images/teaching-logo.svg" alt="Teaching.com" width="50" style="float: right;"/>
+    <h3 style="margin-top: 0;">Expert-Level Typing</h3>
+    <p><strong>Issuer:</strong> Teaching.com</p>
+    <p><strong>Issued:</strong> Aug 2023</p>
+    <a href="https://www.linkedin.com/in/abhiverse01" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #0077B5; color: white; text-decoration: none; border-radius: 5px;">View Credential</a>
+  </div>
+
+  <div style="width: 300px; background-color: #f0f0f0; border-radius: 10px; padding: 15px; margin: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <img src="https://d92mrp7hetgfk.cloudfront.net/images/sites/misc/hackerrank-logo/original.png" alt="HackerRank" width="50" style="float: right;"/>
+    <h3 style="margin-top: 0;">Introduction to Programming Using Python</h3>
+    <p><strong>Issuer:</strong> HackerRank</p>
+    <p><strong>Issued:</strong> Jul 2023</p>
+    <a href="https://www.linkedin.com/in/abhiverse01" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #0077B5; color: white; text-decoration: none; border-radius: 5px;">View Credential</a>
+  </div>
+
+  <div style="width: 300px; background-color: #f0f0f0; border-radius: 10px; padding: 15px; margin: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <img src="https://your-academy-logo-here.com/logo.png" alt="ACES" width="50" style="float: right;"/>
+    <h3 style="margin-top: 0;">Delta Hackathon</h3>
+    <p><strong>Issuer:</strong> Association of Computer Engineering Students(ACES)</p>
+    <p><strong>Issued:</strong> Jun 2023</p>
+    <a href="https://www.linkedin.com/in/abhiverse01" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #0077B5; color: white; text-decoration: none; border-radius: 5px;">View Credential</a>
+  </div>
+
+  <div style="width: 300px; background-color: #f0f0f0; border-radius: 10px; padding: 15px; margin: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <img src="https://www.deeplearning.ai/wp-content/uploads/2020/06/deeplearning.ai_.png" alt="DeepLearning.AI" width="50" style="float: right;"/>
+    <h3 style="margin-top: 0;">Fine-Tuning Large Language Models</h3>
+    <p><strong>Issuer:</strong> DeepLearning.AI</p>
+    <p><strong>Issued:</strong> Jun 2022</p>
+    <a href="https://www.linkedin.com/in/abhiverse01" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #0077B5; color: white; text-decoration: none; border-radius: 5px;">View Credential</a>
+  </div>
+
+  <div style="width: 300px; background-color: #f0f0f0; border-radius: 10px; padding: 15px; margin: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <img src="https://your-academy-logo-here.com/logo.png" alt="CodSoft" width="50" style="float: right;"/>
+    <h3 style="margin-top: 0;">Machine Learning Intern</h3>
+    <p><strong>Issuer:</strong> CodSoft</p>
+    <p><strong>Issued:</strong> Oct 2023 · Expired Nov 2023</p>
+    <a href="https://www.linkedin.com/in/abhiverse01" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #0077B5; color: white; text-decoration: none; border-radius: 5px;">View Credential</a>
+  </div>
+
+  <div style="width: 300px; background-color: #f0f0f0; border-radius: 10px; padding: 15px; margin: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <img src="https://www.deeplearning.ai/wp-content/uploads/2020/06/deeplearning.ai_.png" alt="DeepLearning.AI" width="50" style="float: right;"/>
+    <h3 style="margin-top: 0;">Introduction to On-Device AI</h3>
+    <p><strong>Issuer:</strong> DeepLearning.AI</p>
+    <a href="https://www.linkedin.com/in/abhiverse01" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #0077B5; color: white; text-decoration: none; border-radius: 5px;">View Credential</a>
+  </div>
+
+</div>
+
 <!---
 Profile Views Counter
 --->
