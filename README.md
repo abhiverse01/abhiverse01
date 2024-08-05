@@ -438,235 +438,152 @@ I am deeply passionate about robotics and actively contribute to various project
 
 </div>
 
+## Licenses & Certifications
 
-<h2 align="center">🏆 Licenses & Certifications</h2>
+<div align="center">
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+<!-- PSYCH101: Introduction to Psychology -->
+<a href="https://www.linkedin.com/in/your-profile" target="_blank">
+  <img src="https://img.shields.io/badge/Saylor%20Academy-PSYCH101%3A%20Introduction%20to%20Psychology-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" alt="PSYCH101: Introduction to Psychology" />
+</a>
 
-  <div style="width: 300px; background-color: #f0f0f0; border-radius: 10px; padding: 15px; margin: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-    <img src="https://s3.amazonaws.com/Saylor-Logos/Saylor_Academy_Logo.png" alt="Saylor Academy" width="50" style="float: right;"/>
-    <h3 style="margin-top: 0;">PSYCH101: Introduction to Psychology</h3>
-    <p><strong>Issuer:</strong> Saylor Academy</p>
-    <p><strong>Issued:</strong> Aug 2024</p>
-    <a href="https://www.linkedin.com/in/abhiverse01" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #0077B5; color: white; text-decoration: none; border-radius: 5px;">View Credential</a>
-  </div>
+<!-- Apache Kafka Basics -->
+<a href="https://www.linkedin.com/in/your-profile" target="_blank">
+  <img src="https://img.shields.io/badge/Great%20Learning-Apache%20Kafka%20Basics-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" alt="Apache Kafka Basics" />
+</a>
 
-  <div style="width: 300px; background-color: #f0f0f0; border-radius: 10px; padding: 15px; margin: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-    <img src="https://www.greatlearning.in/images/logo/logo-nav.svg" alt="Great Learning" width="50" style="float: right;"/>
-    <h3 style="margin-top: 0;">Apache Kafka Basics</h3>
-    <p><strong>Issuer:</strong> Great Learning</p>
-    <p><strong>Issued:</strong> Jul 2024</p>
-    <a href="https://www.linkedin.com/in/abhiverse01" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #0077B5; color: white; text-decoration: none; border-radius: 5px;">View Credential</a>
-  </div>
+<!-- ChatGPT Prompt Engineering for Developers -->
+<a href="https://www.linkedin.com/in/your-profile" target="_blank">
+  <img src="https://img.shields.io/badge/DeepLearning.AI-ChatGPT%20Prompt%20Engineering%20for%20Developers-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" alt="ChatGPT Prompt Engineering for Developers" />
+</a>
 
-  <div style="width: 300px; background-color: #f0f0f0; border-radius: 10px; padding: 15px; margin: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-    <img src="https://www.deeplearning.ai/wp-content/uploads/2020/06/deeplearning.ai_.png" alt="DeepLearning.AI" width="50" style="float: right;"/>
-    <h3 style="margin-top: 0;">ChatGPT Prompt Engineering for Developers</h3>
-    <p><strong>Issuer:</strong> DeepLearning.AI</p>
-    <p><strong>Issued:</strong> Jul 2024</p>
-    <a href="https://www.linkedin.com/in/abhiverse01" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #0077B5; color: white; text-decoration: none; border-radius: 5px;">View Credential</a>
-  </div>
+<!-- NLP Project-based Learning -->
+<a href="https://www.linkedin.com/in/your-profile" target="_blank">
+  <img src="https://img.shields.io/badge/Great%20Learning-NLP%20Project--based%20Learning-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" alt="NLP Project-based Learning" />
+</a>
 
-  <div style="width: 300px; background-color: #f0f0f0; border-radius: 10px; padding: 15px; margin: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-    <img src="https://www.greatlearning.in/images/logo/logo-nav.svg" alt="Great Learning" width="50" style="float: right;"/>
-    <h3 style="margin-top: 0;">NLP Project-based Learning</h3>
-    <p><strong>Issuer:</strong> Great Learning</p>
-    <p><strong>Issued:</strong> Jul 2024</p>
-    <a href="https://www.linkedin.com/in/abhiverse01" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #0077B5; color: white; text-decoration: none; border-radius: 5px;">View Credential</a>
-  </div>
+<!-- CS302: Software Engineering -->
+<a href="https://www.linkedin.com/in/your-profile" target="_blank">
+  <img src="https://img.shields.io/badge/Saylor%20Academy-CS302%3A%20Software%20Engineering-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" alt="CS302: Software Engineering" />
+</a>
 
-  <div style="width: 300px; background-color: #f0f0f0; border-radius: 10px; padding: 15px; margin: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-    <img src="https://s3.amazonaws.com/Saylor-Logos/Saylor_Academy_Logo.png" alt="Saylor Academy" width="50" style="float: right;"/>
-    <h3 style="margin-top: 0;">CS302: Software Engineering</h3>
-    <p><strong>Issuer:</strong> Saylor Academy</p>
-    <p><strong>Issued:</strong> Jun 2024</p>
-    <a href="https://www.linkedin.com/in/abhiverse01" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #0077B5; color: white; text-decoration: none; border-radius: 5px;">View Credential</a>
-  </div>
+<!-- Cohort Member -->
+<a href="https://www.linkedin.com/in/your-profile" target="_blank">
+  <img src="https://img.shields.io/badge/Buildspace-Cohort%20Member-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" alt="Cohort Member" />
+</a>
 
-  <div style="width: 300px; background-color: #f0f0f0; border-radius: 10px; padding: 15px; margin: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-    <img src="https://buildspace.so/preview.png" alt="Buildspace" width="50" style="float: right;"/>
-    <h3 style="margin-top: 0;">Cohort Member</h3>
-    <p><strong>Issuer:</strong> Buildspace</p>
-    <p><strong>Issued:</strong> Jun 2024</p>
-    <a href="https://www.linkedin.com/in/abhiverse01" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #0077B5; color: white; text-decoration: none; border-radius: 5px;">View Credential</a>
-  </div>
+<!-- Django for Python and Data Science -->
+<a href="https://www.linkedin.com/in/your-profile" target="_blank">
+  <img src="https://img.shields.io/badge/Simplilearn-Django%20for%20Python%20and%20Data%20Science-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" alt="Django for Python and Data Science" />
+</a>
 
-  <div style="width: 300px; background-color: #f0f0f0; border-radius: 10px; padding: 15px; margin: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-    <img src="https://www.simplilearn.com/ice9/assets/logo_black.svg" alt="Simplilearn" width="50" style="float: right;"/>
-    <h3 style="margin-top: 0;">Django for Python and Data Science</h3>
-    <p><strong>Issuer:</strong> Simplilearn</p>
-    <p><strong>Issued:</strong> Jun 2024</p>
-    <a href="https://www.linkedin.com/in/abhiverse01" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #0077B5; color: white; text-decoration: none; border-radius: 5px;">View Credential</a>
-  </div>
+<!-- A Crash Course in Writing Well -->
+<a href="https://www.linkedin.com/in/your-profile" target="_blank">
+  <img src="https://img.shields.io/badge/Udemy-A%20Crash%20Course%20in%20Writing%20Well-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" alt="A Crash Course in Writing Well" />
+</a>
 
-  <div style="width: 300px; background-color: #f0f0f0; border-radius: 10px; padding: 15px; margin: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-    <img src="https://www.udemy.com/staticx/udemy/images/v7/logo-udemy.svg" alt="Udemy" width="50" style="float: right;"/>
-    <h3 style="margin-top: 0;">A Crash Course in Writing Well</h3>
-    <p><strong>Issuer:</strong> Udemy</p>
-    <p><strong>Issued:</strong> May 2024</p>
-    <a href="https://www.linkedin.com/in/abhiverse01" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #0077B5; color: white; text-decoration: none; border-radius: 5px;">View Credential</a>
-  </div>
+<!-- Applied Machine Learning Algorithms -->
+<a href="https://www.linkedin.com/in/your-profile" target="_blank">
+  <img src="https://img.shields.io/badge/Great%20Learning-Applied%20Machine%20Learning%20Algorithms-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" alt="Applied Machine Learning Algorithms" />
+</a>
 
-  <div style="width: 300px; background-color: #f0f0f0; border-radius: 10px; padding: 15px; margin: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-    <img src="https://www.greatlearning.in/images/logo/logo-nav.svg" alt="Great Learning" width="50" style="float: right;"/>
-    <h3 style="margin-top: 0;">Applied Machine Learning Algorithms</h3>
-    <p><strong>Issuer:</strong> Great Learning</p>
-    <p><strong>Issued:</strong> May 2024</p>
-    <a href="https://www.linkedin.com/in/abhiverse01" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #0077B5; color: white; text-decoration: none; border-radius: 5px;">View Credential</a>
-  </div>
+<!-- Artificial Intelligence Fundamentals -->
+<a href="https://www.linkedin.com/in/your-profile" target="_blank">
+  <img src="https://img.shields.io/badge/Great%20Learning-Artificial%20Intelligence%20Fundamentals-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" alt="Artificial Intelligence Fundamentals" />
+</a>
 
-  <div style="width: 300px; background-color: #f0f0f0; border-radius: 10px; padding: 15px; margin: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-    <img src="https://www.greatlearning.in/images/logo/logo-nav.svg" alt="Great Learning" width="50" style="float: right;"/>
-    <h3 style="margin-top: 0;">Artificial Intelligence Fundamentals</h3>
-    <p><strong>Issuer:</strong> Great Learning</p>
-    <p><strong>Issued:</strong> May 2024</p>
-    <a href="https://www.linkedin.com/in/abhiverse01" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #0077B5; color: white; text-decoration: none; border-radius: 5px;">View Credential</a>
-  </div>
+<!-- CS250: Python for Data Science -->
+<a href="https://www.linkedin.com/in/your-profile" target="_blank">
+  <img src="https://img.shields.io/badge/Saylor%20Academy-CS250%3A%20Python%20for%20Data%20Science-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" alt="CS250: Python for Data Science" />
+</a>
 
-  <div style="width: 300px; background-color: #f0f0f0; border-radius: 10px; padding: 15px; margin: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-    <img src="https://s3.amazonaws.com/Saylor-Logos/Saylor_Academy_Logo.png" alt="Saylor Academy" width="50" style="float: right;"/>
-    <h3 style="margin-top: 0;">CS250: Python for Data Science</h3>
-    <p><strong>Issuer:</strong> Saylor Academy</p>
-    <p><strong>Issued:</strong> May 2024</p>
-    <a href="https://www.linkedin.com/in/abhiverse01" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #0077B5; color: white; text-decoration: none; border-radius: 5px;">View Credential</a>
-  </div>
+<!-- File and Folder Management using Power Shell -->
+<a href="https://www.linkedin.com/in/your-profile" target="_blank">
+  <img src="https://img.shields.io/badge/Udemy-File%20and%20Folder%20Management%20using%20Power%20Shell-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" alt="File and Folder Management using Power Shell" />
+</a>
 
-  <div style="width: 300px; background-color: #f0f0f0; border-radius: 10px; padding: 15px; margin: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-    <img src="https://www.udemy.com/staticx/udemy/images/v7/logo-udemy.svg" alt="Udemy" width="50" style="float: right;"/>
-    <h3 style="margin-top: 0;">File and Folder Management using Power Shell</h3>
-    <p><strong>Issuer:</strong> Udemy</p>
-    <p><strong>Issued:</strong> May 2024</p>
-    <a href="https://www.linkedin.com/in/abhiverse01" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #0077B5; color: white; text-decoration: none; border-radius: 5px;">View Credential</a>
-  </div>
+<!-- Google Analytics Individual Qualification -->
+<a href="https://www.linkedin.com/in/your-profile" target="_blank">
+  <img src="https://img.shields.io/badge/Google%20Analytics%204-Google%20Analytics%20Individual%20Qualification-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" alt="Google Analytics Individual Qualification" />
+</a>
 
-  <div style="width: 300px; background-color: #f0f0f0; border-radius: 10px; padding: 15px; margin: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Google_Analytics_logo.png" alt="Google Analytics 4" width="50" style="float: right;"/>
-    <h3 style="margin-top: 0;">Google Analytics Individual Qualification</h3>
-    <p><strong>Issuer:</strong> Google Analytics 4</p>
-    <p><strong>Issued:</strong> May 2024</p>
-    <a href="https://www.linkedin.com/in/abhiverse01" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #0077B5; color: white; text-decoration: none; border-radius: 5px;">View Credential</a>
-  </div>
+<!-- Probability Distributions for Machine Learning -->
+<a href="https://www.linkedin.com/in/your-profile" target="_blank">
+  <img src="https://img.shields.io/badge/Great%20Learning-Probability%20Distributions%20for%20Machine%20Learning-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" alt="Probability Distributions for Machine Learning" />
+</a>
 
-  <div style="width: 300px; background-color: #f0f0f0; border-radius: 10px; padding: 15px; margin: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-    <img src="https://www.greatlearning.in/images/logo/logo-nav.svg" alt="Great Learning" width="50" style="float: right;"/>
-    <h3 style="margin-top: 0;">Probability Distributions for Machine Learning</h3>
-    <p><strong>Issuer:</strong> Great Learning</p>
-    <p><strong>Issued:</strong> May 2024</p>
-    <a href="https://www.linkedin.com/in/abhiverse01" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #0077B5; color: white; text-decoration: none; border-radius: 5px;">View Credential</a>
-  </div>
+<!-- Tensorflow with Python -->
+<a href="https://www.linkedin.com/in/your-profile" target="_blank">
+  <img src="https://img.shields.io/badge/Great%20Learning-Tensorflow%20with%20Python-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" alt="Tensorflow with Python" />
+</a>
 
-  <div style="width: 300px; background-color: #f0f0f0; border-radius: 10px; padding: 15px; margin: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-    <img src="https://www.greatlearning.in/images/logo/logo-nav.svg" alt="Great Learning" width="50" style="float: right;"/>
-    <h3 style="margin-top: 0;">Tensorflow with Python</h3>
-    <p><strong>Issuer:</strong> Great Learning</p>
-    <p><strong>Issued:</strong> May 2024</p>
-    <a href="https://www.linkedin.com/in/abhiverse01" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #0077B5; color: white; text-decoration: none; border-radius: 5px;">View Credential</a>
-  </div>
+<!-- PyScript Fundamentals 101 -->
+<a href="https://www.linkedin.com/in/your-profile" target="_blank">
+  <img src="https://img.shields.io/badge/Udemy-PyScript%20Fundamentals%20101-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" alt="PyScript Fundamentals 101" />
+</a>
 
-<div style="width: 300px; background-color: #f0f0f0; border-radius: 10px; padding: 15px; margin: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-    <img src="https://www.udemy.com/staticx/udemy/images/v7/logo-udemy.svg" alt="Udemy" width="50" style="float: right;"/>
-    <h3 style="margin-top: 0;">PyScript Fundamentals 101</h3>
-    <p><strong>Issuer:</strong> Udemy</p>
-    <p><strong>Issued:</strong> Feb 2024</p>
-    <a href="https://www.linkedin.com/in/abhiverse01" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #0077B5; color: white; text-decoration: none; border-radius: 5px;">View Credential</a>
-  </div>
+<!-- AI/ML Mentorship Recognition -->
+<a href="https://www.linkedin.com/in/your-profile" target="_blank">
+  <img src="https://img.shields.io/badge/ACES-AI%2FML%20Mentorship%20Recognition-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" alt="AI/ML Mentorship Recognition" />
+</a>
 
-  <div style="width: 300px; background-color: #f0f0f0; border-radius: 10px; padding: 15px; margin: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-    <img src="https://your-academy-logo-here.com/logo.png" alt="ACES" width="50" style="float: right;"/>
-    <h3 style="margin-top: 0;">AI/ML Mentorship Recognition</h3>
-    <p><strong>Issuer:</strong> Association of Computer Engineering Students(ACES)</p>
-    <p><strong>Issued:</strong> Jan 2024</p>
-    <a href="https://www.linkedin.com/in/abhiverse01" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #0077B5; color: white; text-decoration: none; border-radius: 5px;">View Credential</a>
-  </div>
+<!-- Exploring Docker -->
+<a href="https://www.linkedin.com/in/your-profile" target="_blank">
+  <img src="https://img.shields.io/badge/MindLuster-Exploring%20Docker-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" alt="Exploring Docker" />
+</a>
 
-  <div style="width: 300px; background-color: #f0f0f0; border-radius: 10px; padding: 15px; margin: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-    <img src="https://mindluster.com/images/logo.png" alt="MindLuster" width="50" style="float: right;"/>
-    <h3 style="margin-top: 0;">Exploring Docker</h3>
-    <p><strong>Issuer:</strong> MindLuster</p>
-    <p><strong>Issued:</strong> Nov 2023</p>
-    <a href="https://www.linkedin.com/in/abhiverse01" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #0077B5; color: white; text-decoration: none; border-radius: 5px;">View Credential</a>
-  </div>
+<!-- Unlocking the power of ChatGPT in Data Science: A-Z Guide -->
+<a href="https://www.linkedin.com/in/your-profile" target="_blank">
+  <img src="https://img.shields.io/badge/Udemy-Unlocking%20the%20power%20of%20ChatGPT%20in%20Data%20Science%3A%20A--Z%20Guide-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" alt="Unlocking the power of ChatGPT in Data Science: A-Z Guide" />
+</a>
 
-  <div style="width: 300px; background-color: #f0f0f0; border-radius: 10px; padding: 15px; margin: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-    <img src="https://www.udemy.com/staticx/udemy/images/v7/logo-udemy.svg" alt="Udemy" width="50" style="float: right;"/>
-    <h3 style="margin-top: 0;">Unlocking the power of ChatGPT in Data Science: A-Z Guide</h3>
-    <p><strong>Issuer:</strong> Udemy</p>
-    <p><strong>Issued:</strong> Nov 2023</p>
-    <a href="https://www.linkedin.com/in/abhiverse01" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #0077B5; color: white; text-decoration: none; border-radius: 5px;">View Credential</a>
-  </div>
+<!-- Introduction to Generative AI -->
+<a href="https://www.linkedin.com/in/your-profile" target="_blank">
+  <img src="https://img.shields.io/badge/Coursera-Introduction%20to%20Generative%20AI-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" alt="Introduction to Generative AI" />
+</a>
 
-  <div style="width: 300px; background-color: #f0f0f0; border-radius: 10px; padding: 15px; margin: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/Coursera_logo.png" alt="Coursera" width="50" style="float: right;"/>
-    <h3 style="margin-top: 0;">Introduction to Generative AI</h3>
-    <p><strong>Issuer:</strong> Coursera</p>
-    <p><strong>Issued:</strong> Oct 2023</p>
-    <a href="https://www.linkedin.com/in/abhiverse01" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #0077B5; color: white; text-decoration: none; border-radius: 5px;">View Credential</a>
-  </div>
+<!-- Python GUI | Practical Projects in Python: Build 3 Projects -->
+<a href="https://www.linkedin.com/in/your-profile" target="_blank">
+  <img src="https://img.shields.io/badge/Udemy-Python%20GUI%20%7C%20Practical%20Projects%20in%20Python%3A%20Build%203%20Projects-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" alt="Python GUI | Practical Projects in Python: Build 3 Projects" />
+</a>
 
-  <div style="width: 300px; background-color: #f0f0f0; border-radius: 10px; padding: 15px; margin: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-    <img src="https://www.udemy.com/staticx/udemy/images/v7/logo-udemy.svg" alt="Udemy" width="50" style="float: right;"/>
-    <h3 style="margin-top: 0;">Python GUI | Practical Projects in Python: Build 3 Projects</h3>
-    <p><strong>Issuer:</strong> Udemy</p>
-    <p><strong>Issued:</strong> Sep 2023</p>
-    <a href="https://www.linkedin.com/in/abhiverse01" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #0077B5; color: white; text-decoration: none; border-radius: 5px;">View Credential</a>
-  </div>
+<!-- Python Programming - From Basics to Advanced Level -->
+<a href="https://www.linkedin.com/in/your-profile" target="_blank">
+  <img src="https://img.shields.io/badge/Udemy-Python%20Programming%20--%20From%20Basics%20to%20Advanced%20Level-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" alt="Python Programming - From Basics to Advanced Level" />
+</a>
 
-  <div style="width: 300px; background-color: #f0f0f0; border-radius: 10px; padding: 15px; margin: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-    <img src="https://www.udemy.com/staticx/udemy/images/v7/logo-udemy.svg" alt="Udemy" width="50" style="float: right;"/>
-    <h3 style="margin-top: 0;">Python Programming - From Basics to Advanced Level</h3>
-    <p><strong>Issuer:</strong> Udemy</p>
-    <p><strong>Issued:</strong> Sep 2023</p>
-    <a href="https://www.linkedin.com/in/abhiverse01" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #0077B5; color: white; text-decoration: none; border-radius: 5px;">View Credential</a>
-  </div>
+<!-- Expert-Level Typing -->
+<a href="https://www.linkedin.com/in/your-profile" target="_blank">
+  <img src="https://img.shields.io/badge/Teaching.com-Expert--Level%20Typing-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" alt="Expert-Level Typing" />
+</a>
 
-  <div style="width: 300px; background-color: #f0f0f0; border-radius: 10px; padding: 15px; margin: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-    <img src="https://teaching.com/images/teaching-logo.svg" alt="Teaching.com" width="50" style="float: right;"/>
-    <h3 style="margin-top: 0;">Expert-Level Typing</h3>
-    <p><strong>Issuer:</strong> Teaching.com</p>
-    <p><strong>Issued:</strong> Aug 2023</p>
-    <a href="https://www.linkedin.com/in/abhiverse01" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #0077B5; color: white; text-decoration: none; border-radius: 5px;">View Credential</a>
-  </div>
+<!-- Introduction to Programming Using Python -->
+<a href="https://www.linkedin.com/in/your-profile" target="_blank">
+  <img src="https://img.shields.io/badge/HackerRank-Introduction%20to%20Programming%20Using%20Python-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" alt="Introduction to Programming Using Python" />
+</a>
 
-  <div style="width: 300px; background-color: #f0f0f0; border-radius: 10px; padding: 15px; margin: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-    <img src="https://d92mrp7hetgfk.cloudfront.net/images/sites/misc/hackerrank-logo/original.png" alt="HackerRank" width="50" style="float: right;"/>
-    <h3 style="margin-top: 0;">Introduction to Programming Using Python</h3>
-    <p><strong>Issuer:</strong> HackerRank</p>
-    <p><strong>Issued:</strong> Jul 2023</p>
-    <a href="https://www.linkedin.com/in/abhiverse01" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #0077B5; color: white; text-decoration: none; border-radius: 5px;">View Credential</a>
-  </div>
+<!-- Delta Hackathon -->
+<a href="https://www.linkedin.com/in/your-profile" target="_blank">
+  <img src="https://img.shields.io/badge/ACES-Delta%20Hackathon-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" alt="Delta Hackathon" />
+</a>
 
-  <div style="width: 300px; background-color: #f0f0f0; border-radius: 10px; padding: 15px; margin: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-    <img src="https://your-academy-logo-here.com/logo.png" alt="ACES" width="50" style="float: right;"/>
-    <h3 style="margin-top: 0;">Delta Hackathon</h3>
-    <p><strong>Issuer:</strong> Association of Computer Engineering Students(ACES)</p>
-    <p><strong>Issued:</strong> Jun 2023</p>
-    <a href="https://www.linkedin.com/in/abhiverse01" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #0077B5; color: white; text-decoration: none; border-radius: 5px;">View Credential</a>
-  </div>
+<!-- Fine-Tuning Large Language Models -->
+<a href="https://www.linkedin.com/in/your-profile" target="_blank">
+  <img src="https://img.shields.io/badge/DeepLearning.AI-Fine--Tuning%20Large%20Language%20Models-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" alt="Fine-Tuning Large Language Models" />
+</a>
 
-  <div style="width: 300px; background-color: #f0f0f0; border-radius: 10px; padding: 15px; margin: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-    <img src="https://www.deeplearning.ai/wp-content/uploads/2020/06/deeplearning.ai_.png" alt="DeepLearning.AI" width="50" style="float: right;"/>
-    <h3 style="margin-top: 0;">Fine-Tuning Large Language Models</h3>
-    <p><strong>Issuer:</strong> DeepLearning.AI</p>
-    <p><strong>Issued:</strong> Jun 2022</p>
-    <a href="https://www.linkedin.com/in/abhiverse01" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #0077B5; color: white; text-decoration: none; border-radius: 5px;">View Credential</a>
-  </div>
+<!-- Machine Learning Intern -->
+<a href="https://www.linkedin.com/in/your-profile" target="_blank">
+  <img src="https://img.shields.io/badge/CodSoft-Machine%20Learning%20Intern-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" alt="Machine Learning Intern" />
+</a>
 
-  <div style="width: 300px; background-color: #f0f0f0; border-radius: 10px; padding: 15px; margin: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-    <img src="https://your-academy-logo-here.com/logo.png" alt="CodSoft" width="50" style="float: right;"/>
-    <h3 style="margin-top: 0;">Machine Learning Intern</h3>
-    <p><strong>Issuer:</strong> CodSoft</p>
-    <p><strong>Issued:</strong> Oct 2023 · Expired Nov 2023</p>
-    <a href="https://www.linkedin.com/in/abhiverse01" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #0077B5; color: white; text-decoration: none; border-radius: 5px;">View Credential</a>
-  </div>
-
-  <div style="width: 300px; background-color: #f0f0f0; border-radius: 10px; padding: 15px; margin: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-    <img src="https://www.deeplearning.ai/wp-content/uploads/2020/06/deeplearning.ai_.png" alt="DeepLearning.AI" width="50" style="float: right;"/>
-    <h3 style="margin-top: 0;">Introduction to On-Device AI</h3>
-    <p><strong>Issuer:</strong> DeepLearning.AI</p>
-    <a href="https://www.linkedin.com/in/abhiverse01" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #0077B5; color: white; text-decoration: none; border-radius: 5px;">View Credential</a>
-  </div>
+<!-- Introduction to On-Device AI -->
+<a href="https://www.linkedin.com/in/your-profile" target="_blank">
+  <img src="https://img.shields.io/badge/DeepLearning.AI-Introduction%20to%20On--Device%20AI-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" alt="Introduction to On-Device AI" />
+</a>
 
 </div>
+
 
 <!---
 Profile Views Counter
