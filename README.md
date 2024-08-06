@@ -32,22 +32,31 @@ Blogging Logo
 <img align="right" alt="coding" width="400" src="https://github.com/abhiverse01/abhiverse01/blob/main/blogging.png">
 
 - 👀 I’m interested in **Artificial Intelligence, Development, DevOps, Code and the Cosmos.**
+- --
 
 - 🔭 I’m currently working on **RS Systems @InflancerTechnology as well as Open Source and Freelance Projects**
+- --
 
 - 🌱 I’m currently learning **Advanced AI Engineer Aspects & MLOps**
+- --
 
 - 👯 I’m looking to collaborate on **Python, R, Django, Flask, AI, ML, NLP, and LLM related Projects.**
+- --
 
 - 👨‍💻 All of my projects are available at **[github.com/abhiverse01](github.com/abhiverse01)**
+- --
 
 - 📝 I regularly write articles on **[Medium](Medium)**
+- --
 
 - 📫 Reach me @ **www.abhishekshah007@gmail.com** or **abhishek@inflancer.com**
+- --
 
 - 😎 Visit my portfolio site **[abhishek-shah-portfolio](abhishekshah.vercel.app)**
+- --
 
 - 📃 Check out my digital resume **[abhishek-shah-html-resume](abhishekshahhtmlresume.vercel.app)**
+- --
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhiverse01)
 
