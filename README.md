@@ -75,8 +75,8 @@ I am deeply passionate about robotics and actively contribute to various project
 ## 🌟 Achievements Timeline & Highlights
 
 - **2023**
-  - 🏆 **[ACES-Deltathon](https://github.com/abhiverse01/ACES-Deltathon)** - Participated in National Level Software Hackathon conducted in ERC
-  - 🦸‍♂️ **[AI/ML Bootcamp](https://github.com/abhiverse01/AI-ML-Bootcamp)** - ML Sub-Mentor training college juniors on AI, ML & Data Science 
+  - | 🏆 **[ACES-Deltathon](https://github.com/abhiverse01/ACES-Deltathon)** - Participated in National Level Software Hackathon conducted in ERC
+  - | 🦸‍♂️ **[AI/ML Bootcamp](https://github.com/abhiverse01/AI-ML-Bootcamp)** - ML Sub-Mentor training college juniors on AI, ML & Data Science 
   
 - **2022**
    - 🏗️ **[Delta Afterevents](https://kaggle.com/abhiverse01/delta-afterevents)** - Hosted a data science competition on Kaggle
