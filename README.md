@@ -386,7 +386,7 @@ I am deeply passionate about robotics and actively contribute to various project
     <div style="display: flex; flex-direction: column; align-items: center;"><br/>
         <table align="center" width="100%" style="max-width: 800px; margin: 0 auto; table-layout: auto; border-spacing: 10px;">
         <tr>
-            <td align="left" style="padding: 10px; width: 50%;>
+            <td align="left" style="padding: 10px; width: 50%;">
             <h3>🧠 PSYCH101: Introduction to Psychology</h3>
             <p><strong>Issuer:</strong> Saylor Academy<br>
                 <strong>Issued:</strong> Aug 2024<br>
@@ -395,7 +395,7 @@ I am deeply passionate about robotics and actively contribute to various project
             </td>
         </tr>
         <tr>
-            <td align="left" style="padding: 10px; width: 50%>
+            <td align="left" style="padding: 10px; width: 50%">
             <h3>⚙️ Apache Kafka Basics</h3>
             <p><strong>Issuer:</strong> Great Learning<br>
                 <strong>Issued:</strong> Jul 2024<br>
@@ -405,7 +405,7 @@ I am deeply passionate about robotics and actively contribute to various project
             </td>
         </tr>
         <tr>
-            <td align="left" style="padding: 10px; width: 50%>
+            <td align="left" style="padding: 10px; width: 50%">
             <h3>💡 ChatGPT Prompt Engineering for Developers</h3>
             <p><strong>Issuer:</strong> DeepLearning.AI<br>
                 <strong>Issued:</strong> Jul 2024<br>
@@ -415,7 +415,7 @@ I am deeply passionate about robotics and actively contribute to various project
             </td>
         </tr>
         <tr>
-            <td align="left" style="padding: 10px; width: 50%>
+            <td align="left" style="padding: 10px; width: 50%">
             <h3>🧠 NLP Project-based Learning</h3>
             <p><strong>Issuer:</strong> Great Learning<br>
                 <strong>Issued:</strong> Jul 2024<br>
@@ -425,7 +425,7 @@ I am deeply passionate about robotics and actively contribute to various project
             </td>
         </tr>
         <tr>
-            <td align="left" style="padding: 10px; width: 50%>
+            <td align="left" style="padding: 10px; width: 50%">
             <h3>💻 CS302: Software Engineering</h3>
             <p><strong>Issuer:</strong> Saylor Academy<br>
                 <strong>Issued:</strong> Jun 2024<br>
@@ -435,7 +435,7 @@ I am deeply passionate about robotics and actively contribute to various project
             </td>
         </tr>
         <tr>
-            <td align="left" style="padding: 10px; width: 50%>
+            <td align="left" style="padding: 10px; width: 50%">
             <h3>🚀 Cohort Member</h3>
             <p><strong>Issuer:</strong> Buildspace<br>
                 <strong>Issued:</strong> Jun 2024<br>
@@ -445,7 +445,7 @@ I am deeply passionate about robotics and actively contribute to various project
             </td>
         </tr>
         <tr>
-            <td align="left" style="padding: 10px; width: 50%>
+            <td align="left" style="padding: 10px; width: 50%">
             <h3>🐍 Django for Python and Data Science</h3>
             <p><strong>Issuer:</strong> Simplilearn<br>
                 <strong>Issued:</strong> Jun 2024<br>
@@ -455,7 +455,7 @@ I am deeply passionate about robotics and actively contribute to various project
             </td>
         </tr>
         <tr>
-            <td align="left" style="padding: 10px; width: 50%>
+            <td align="left" style="padding: 10px; width: 50%">
             <h3>✍️ A Crash Course in Writing Well</h3>
             <p><strong>Issuer:</strong> Udemy<br>
                 <strong>Issued:</strong> May 2024<br>
@@ -465,7 +465,7 @@ I am deeply passionate about robotics and actively contribute to various project
             </td>
         </tr>
         <tr>
-            <td align="left" style="padding: 10px; width: 50%>
+            <td align="left" style="padding: 10px; width: 50%">
             <h3>🤖 Applied Machine Learning Algorithms</h3>
             <p><strong>Issuer:</strong> Great Learning<br>
                 <strong>Issued:</strong> May 2024<br>
@@ -475,7 +475,7 @@ I am deeply passionate about robotics and actively contribute to various project
             </td>
         </tr>
         <tr>
-            <td align="left" style="padding: 10px; width: 50%>
+            <td align="left" style="padding: 10px; width: 50%">
             <h3>🧠 Artificial Intelligence Fundamentals</h3>
             <p><strong>Issuer:</strong> Great Learning<br>
                 <strong>Issued:</strong> May 2024<br>
@@ -485,7 +485,7 @@ I am deeply passionate about robotics and actively contribute to various project
             </td>
         </tr>
         <tr>
-            <td align="left" style="padding: 10px; width: 50%>
+            <td align="left" style="padding: 10px; width: 50%">
             <h3>🐍 CS250: Python for Data Science</h3>
             <p><strong>Issuer:</strong> Saylor Academy<br>
                 <strong>Issued:</strong> May 2024<br>
@@ -495,7 +495,7 @@ I am deeply passionate about robotics and actively contribute to various project
             </td>
         </tr>
         <tr>
-            <td align="left" style="padding: 10px; width: 50%>
+            <td align="left" style="padding: 10px; width: 50%">
             <h3>💻 File and Folder Management using Power Shell</h3>
             <p><strong>Issuer:</strong> Udemy<br>
                 <strong>Issued:</strong> May 2024<br>
@@ -505,7 +505,7 @@ I am deeply passionate about robotics and actively contribute to various project
             </td>
         </tr>
         <tr>
-            <td align="left" style="padding: 10px; width: 50%>
+            <td align="left" style="padding: 10px; width: 50%">
             <h3>📊 Google Analytics Individual Qualification</h3>
             <p><strong>Issuer:</strong> Google Analytics 4<br>
                 <strong>Issued:</strong> May 2024<br>
@@ -515,7 +515,7 @@ I am deeply passionate about robotics and actively contribute to various project
             </td>
         </tr>
         <tr>
-          <td align="left" style="padding: 10px; width: 50%>
+          <td align="left" style="padding: 10px; width: 50%">
             <h3>📈 Probability Distributions for Machine Learning</h3>
             <p><strong>Issuer:</strong> Great Learning<br>
                 <strong>Issued:</strong> May 2024<br>
@@ -525,7 +525,7 @@ I am deeply passionate about robotics and actively contribute to various project
             </td>
         </tr>
         <tr>
-            <td align="left" style="padding: 10px; width: 50%>
+            <td align="left" style="padding: 10px; width: 50%">
             <h3>🐍 Tensorflow with Python</h3>
             <p><strong>Issuer:</strong> Great Learning<br>
                 <strong>Issued:</strong> May 2024<br>
@@ -535,7 +535,7 @@ I am deeply passionate about robotics and actively contribute to various project
             </td>
         </tr>
         <tr>
-            <td align="left" style="padding: 10px; width: 50%>
+            <td align="left" style="padding: 10px; width: 50%">
             <h3>🐍 PyScript Fundamentals 101</h3>
             <p><strong>Issuer:</strong> Udemy<br>
                 <strong>Issued:</strong> Feb 2024<br>
@@ -545,7 +545,7 @@ I am deeply passionate about robotics and actively contribute to various project
             </td>
         </tr>
         <tr>
-            <td align="left" style="padding: 10px; width: 50%>
+            <td align="left" style="padding: 10px; width: 50%">
             <h3>🤖 AI/ML Mentorship Recognition</h3>
             <p><strong>Issuer:</strong> Association of Computer Engineering Students (ACES)<br>
                 <strong>Issued:</strong> Jan 2024<br>
@@ -554,7 +554,7 @@ I am deeply passionate about robotics and actively contribute to various project
             </td>
         </tr>
         <tr>
-            <td align="left" style="padding: 10px; width: 50%>
+            <td align="left" style="padding: 10px; width: 50%">
             <h3>🐳 Exploring Docker</h3>
             <p><strong>Issuer:</strong> MindLuster<br>
                 <strong>Issued:</strong> Nov 2023<br>
@@ -564,7 +564,7 @@ I am deeply passionate about robotics and actively contribute to various project
             </td>
         </tr>
         <tr>
-            <td align="left" style="padding: 10px; width: 50%>
+            <td align="left" style="padding: 10px; width: 50%">
             <h3>🤖 Unlocking the power of ChatGPT in Data Science: A-Z Guide</h3>
             <p><strong>Issuer:</strong> Udemy<br>
                 <strong>Issued:</strong> Nov 2023<br>
@@ -574,7 +574,7 @@ I am deeply passionate about robotics and actively contribute to various project
             </td>
         </tr>
         <tr>
-            <td align="left" style="padding: 10px; width: 50%>
+            <td align="left" style="padding: 10px; width: 50%">
             <h3>🧠 Introduction to Generative AI</h3>
             <p><strong>Issuer:</strong> Coursera<br>
                 <strong>Issued:</strong> Oct 2023<br>
@@ -584,7 +584,7 @@ I am deeply passionate about robotics and actively contribute to various project
             </td>
         </tr>
         <tr>
-            <td align="left" style="padding: 10px; width: 50%>
+            <td align="left" style="padding: 10px; width: 50%">
             <h3>🐍 Python GUI | Practical Projects in Python: Build 3 Projects</h3>
             <p><strong>Issuer:</strong> Udemy<br>
                 <strong>Issued:</strong> Sep 2023<br>
@@ -594,7 +594,7 @@ I am deeply passionate about robotics and actively contribute to various project
             </td>
         </tr>
         <tr>
-            <td align="left" style="padding: 10px; width: 50%>
+            <td align="left" style="padding: 10px; width: 50%">
             <h3>🐍 Python Programming - From Basics to Advanced Level</h3>
             <p><strong>Issuer:</strong> Udemy<br>
                 <strong>Issued:</strong> Sep 2023<br>
@@ -604,7 +604,7 @@ I am deeply passionate about robotics and actively contribute to various project
             </td>
         </tr>
         <tr>
-            <td align="left" style="padding: 10px; width: 50%>
+            <td align="left" style="padding: 10px; width: 50%">
             <h3>🧑‍💻 Expert-Level Typing</h3>
             <p><strong>Issuer:</strong> Teaching.com<br>
                 <strong>Issued:</strong> Aug 2023<br>
@@ -614,7 +614,7 @@ I am deeply passionate about robotics and actively contribute to various project
             </td>
         </tr>
         <tr>
-            <td align="left" style="padding: 10px; width: 50%>
+            <td align="left" style="padding: 10px; width: 50%">
             <h3>🐍 Introduction to Programming Using Python</h3>
             <p><strong>Issuer:</strong> HackerRank<br>
                 <strong>Issued:</strong> Jul 2023<br>
@@ -624,7 +624,7 @@ I am deeply passionate about robotics and actively contribute to various project
             </td>
         </tr>
         <tr>
-            <td align="left" style="padding: 10px; width: 50%>
+            <td align="left" style="padding: 10px; width: 50%">
             <h3>🧑‍💻 Delta Hackathon</h3>
             <p><strong>Issuer:</strong> Association of Computer Engineering Students (ACES)<br>
                 <strong>Issued:</strong> Jun 2023<br>
@@ -633,7 +633,7 @@ I am deeply passionate about robotics and actively contribute to various project
             </td>
         </tr>
         <tr>
-            <td align="left" style="padding: 10px; width: 50%>
+            <td align="left" style="padding: 10px; width: 50%">
             <h3>🤖 Fine-Tuning Large Language Models</h3>
             <p><strong>Issuer:</strong> DeepLearning.AI<br>
                 <strong>Issued:</strong> Jun 2022<br>
@@ -642,7 +642,7 @@ I am deeply passionate about robotics and actively contribute to various project
             </td>
         </tr>
         <tr>
-            <td align="left" style="padding: 10px; width: 50%>
+            <td align="left" style="padding: 10px; width: 50%">
             <h3>🤖 Machine Learning Intern</h3>
             <p><strong>Issuer:</strong> CodSoft<br>
                 <strong>Issued:</strong> Oct 2023 · Expired Nov 2023<br>
@@ -652,7 +652,7 @@ I am deeply passionate about robotics and actively contribute to various project
             </td>
         </tr>
         <tr>
-            <td align="left" style="padding: 10px; width: 50%>
+            <td align="left" style="padding: 10px; width: 50%">
             <h3>🧠 Introduction to On-Device AI</h3>
             <p><strong>Issuer:</strong> DeepLearning.AI<br>
                 <strong>Skills:</strong> Artificial Intelligence (AI) · On-Device AI</p>
