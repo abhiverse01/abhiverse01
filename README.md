@@ -666,6 +666,58 @@ I am deeply passionate about robotics and actively contribute to various project
 </details>
 
 
+
+<h2 align="left">🏆 Licenses & Certifications</h2>
+
+<details>
+  <summary style="font-size: 1.5em; cursor: pointer; display: flex; align-items: center;">
+    Expand to view all certifications
+  </summary>
+  <div style="margin-top: 20px; padding: 0 20px;">
+    <div style="display: flex; flex-direction: column; align-items: center;">
+      <table align="center" width="100%" style="max-width: 800px; margin: 0 auto; table-layout: auto; border-spacing: 10px;">
+        <tr>
+          <td align="left" style="padding: 10px; width: 50%;">
+            <h3>🧠 PSYCH101: Introduction to Psychology</h3>
+            <p><strong>Issuer:</strong> Saylor Academy<br>
+               <strong>Issued:</strong> Aug 2024<br>
+               <strong>Credential ID:</strong> 8173289785AS</p>
+            <img src="https://img.shields.io/badge/Saylor%20Academy-PSYCH101%3A%20Introduction%20to%20Psychology-pink" alt="PSYCH101 Badge" />
+          </td>
+          <td align="left" style="padding: 10px; width: 50%;">
+            <h3>⚙️ Apache Kafka Basics</h3>
+            <p><strong>Issuer:</strong> Great Learning<br>
+               <strong>Issued:</strong> Jul 2024<br>
+               <strong>Credential ID:</strong> 65313<br>
+               <strong>Skills:</strong> Apache Kafka · Stream Processing</p>
+            <img src="https://img.shields.io/badge/Great%20Learning-Apache%20Kafka%20Basics-white" alt="Apache Kafka Badge" />
+          </td>
+        </tr>
+        <tr>
+          <td align="left" style="padding: 10px; width: 50%;">
+            <h3>💡 ChatGPT Prompt Engineering for Developers</h3>
+            <p><strong>Issuer:</strong> DeepLearning.AI<br>
+               <strong>Issued:</strong> Jul 2024<br>
+               <strong>Credential ID:</strong> 793b76ad-ec97-4cfc-ad52-eb3484a6b2cb<br>
+               <strong>Skills:</strong> Prompt Engineering · AI Prompting</p>
+            <img src="https://img.shields.io/badge/DeepLearning.AI-ChatGPT%20Prompt%20Engineering%20for%20Developers-yellow" alt="ChatGPT Badge" />
+          </td>
+          <td align="left" style="padding: 10px; width: 50%;">
+            <h3>🧠 NLP Project-based Learning</h3>
+            <p><strong>Issuer:</strong> Great Learning<br>
+               <strong>Issued:</strong> Jul 2024<br>
+               <strong>Credential ID:</strong> 49362<br>
+               <strong>Skills:</strong> Natural Language Processing (NLP) · Machine Learning · Statistical Data Analysis</p>
+            <img src="https://img.shields.io/badge/Great%20Learning-NLP%20Project--based%20Learning-red" alt="NLP Badge" />
+          </td>
+        </tr>
+        <!-- Continue adding more certification blocks as needed -->
+      </table>
+    </div>
+  </div>
+</details>
+
+
 <!---
 Profile Views Counter
 --->
