@@ -275,6 +275,7 @@ I am deeply passionate about robotics and actively contribute to various project
 </div>
 
 
+<br/>
 ![Lines of code](https://img.shields.io/badge/Lines%20of%20code-2.8%20million-blue)
 
 ## 📝 Contributions
