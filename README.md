@@ -51,18 +51,6 @@ Blogging Logo
 - 📃 Check out my digital resume **[abhishek-shah-html-resume](abhishekshahhtmlresume.vercel.app)**
 - --
 
----
-
-<div style="display: flex; flex-direction: column; align-items: center; font-size: 1.1em;">
-  <p>👨‍💻 All of my projects are available at <strong><a href="https://github.com/abhiverse01" target="_blank" rel="noreferrer">github.com/abhiverse01</a></strong></p>
-  <p>📝 I regularly write articles on <strong><a href="https://medium.com/@abhishekshah007" target="_blank" rel="noreferrer">Medium</a></strong></p>
-  <p>📫 Reach me @ <strong><a href="mailto:www.abhishekshah007@gmail.com">abhishekshah007@gmail.com</a></strong> or <strong><a href="mailto:abhishek@inflancer.com">abhishek@inflancer.com</a></strong></p>
-  <p>😎 Visit my portfolio site <strong><a href="https://abhishekshah.vercel.app" target="_blank" rel="noreferrer">abhishek-shah-portfolio</a></strong></p>
-  <p>📃 Check out my digital resume <strong><a href="https://abhishekshahhtmlresume.vercel.app" target="_blank" rel="noreferrer">abhishek-shah-html-resume</a></strong></p>
-</div>
-
----
-
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhiverse01)
 
@@ -178,6 +166,31 @@ I am deeply passionate about robotics and actively contribute to various project
 ![GroQ](https://img.shields.io/badge/Grok-%23E34F26.svg?style=for-the-badge&logo=grok&logoColor=white)
 ![Salesforce](https://img.shields.io/badge/Salesforce-%2300A1E0.svg?style=for-the-badge&logo=salesforce&logoColor=white)
 ![TinyLlama](https://img.shields.io/badge/TinyLlama-%2334A853.svg?style=for-the-badge&logo=TinyLlama&logoColor=white)
+
+<h2 align="center">🤗 LLMs I've Worked With</h2>
+
+<table align="center" width="100%" style="max-width: 800px;">
+  <tr>
+    <td align="center" width="20%">
+      <img src="https://img.shields.io/badge/llama-%230077B5.svg?style=for-the-badge&logo=llama&logoColor=white" alt="Llama" />
+    </td>
+    <td align="center" width="20%">
+      <img src="https://img.shields.io/badge/DistilBERT-%2300C7B7.svg?style=for-the-badge&logo=distilbert&logoColor=white" alt="DistilBERT" />
+    </td>
+    <td align="center" width="20%">
+      <img src="https://img.shields.io/badge/FlanT5-%23F7DF1E.svg?style=for-the-badge&logo=flant5&logoColor=white" alt="FlanT5" />
+    </td>
+    <td align="center" width="20%">
+      <img src="https://img.shields.io/badge/Grok-%23E34F26.svg?style=for-the-badge&logo=grok&logoColor=white" alt="Grok" />
+    </td>
+    <td align="center" width="20%">
+      <img src="https://img.shields.io/badge/Salesforce-%2300A1E0.svg?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce" />
+    </td>
+    <td align="center" width="20%">
+      <img src="https://img.shields.io/badge/TinyLlama-%2334A853.svg?style=for-the-badge&logo=TinyLlama&logoColor=white" alt="TinyLlama" />
+    </td>
+  </tr>
+</table>
 
 
 ## ⚒️ Languages and Tools
