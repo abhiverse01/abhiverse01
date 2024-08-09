@@ -356,6 +356,16 @@ I am deeply passionate about robotics and actively contribute to various project
 
 #
 
+<div style="text-align: center; margin-top: 20px;">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/abhiverse01/abhiverse01/blob/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/abhiverse01/abhiverse01/blob/output/github-snake.svg" />
+    <img alt="github-snake" src="https://github.com/abhiverse01/abhiverse01/blob/output/ocean.gif" style="max-width: 100%; height: auto;" />
+  </picture>
+</div>
+
+#
+
 <div style="text-align: center;">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/abhiverse01/abhiverse01/blob/output/github-snake-dark.svg" />
