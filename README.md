@@ -89,54 +89,6 @@ I am deeply passionate about robotics and actively contribute to various project
    - 📕 **[ML Learning Resource Repo](https://github.com/abhiverse01/ML-Learning-Resource-Repo)** - Building and upgrading on GitHub
    - 📦 **[Project Mirror](https://github.com/abhiverse01/Project-Mirror)** - Developed and deployed an Android package for screen mirroring
 
-## 🎯 Achievement Highlights
-
-### 🏆 ACES-Deltathon 2023
-> **Participated in a national-level software hackathon**, showcasing problem-solving and innovation skills.
->
-> ![Hackathon Badge](https://img.shields.io/badge/Hackathon-Top%20Participant-orange)
-
----
-
-### 🦸‍♂️ AI/ML Bootcamp 2023
-> **ML Sub-Mentor** - Trained the next generation of AI/ML enthusiasts at the AI/ML Bootcamp.
->
-> ![Mentorship Badge](https://img.shields.io/badge/Mentorship-ML%20Sub--Mentor-blue)
-
----
-
-### 🏗️ Delta Afterevents
-> **Hosted a data science competition on Kaggle**, encouraging participation and learning in the data science community.
->
-> ![Kaggle Badge](https://img.shields.io/badge/Kaggle-Competition-green)
-
----
-
-### 👯‍♂️ ACES-Deltathon Volunteer
-> **Volunteered to manage the event**, managing the hackathon arrangements, resource usage processing, and mentoring participants with AI issues.
-> 
-> [Volunteering](https://img.shields.io/badge/Volunteering-Community--Event-yellow)
----
-
-### 📦 Project Mirror
-> **Developed an Android package for screen mirroring** on desktops, addressing key user needs in the tech community.
->
-> ![Android Badge](https://img.shields.io/badge/Android-Project%20Mirror-brightgreen)
-
----
-
-### 📕 ML Learning Resource Repo
-> **Building and upgrading on GitHub!**, the entire ML learning journey that could become one useful resource for both a beginner and an expert in starting or revising the ML concepts, projects and tips to become an effective ML personnel.
-> 
-> [GitHub](https://img.shields.io/badge/ML%20Repo-Active--Development-red)
-
----
-
-### 🌍 Open Source Contributions
-> **Actively contributing to various open-source projects**, continuously learning, and giving back to the community.
->
-> ![Open Source Badge](https://img.shields.io/badge/Open%20Source-Contributor-brightgreen)
-
 
 <h2 align="center">🎯 Achievement Highlights</h2>
 
@@ -203,37 +155,37 @@ I am deeply passionate about robotics and actively contribute to various project
     <tr>
       <td align="left" width="50%">
         <h3>🏆 ACES-Deltathon 2023</h3>
-        <p><strong>Participated in a national-level software hackathon</strong> | <img src="https://img.shields.io/badge/Hackathon-Top%20Participant-orange" alt="Hackathon Badge" /></p>
+        <p><strong>Participated in a national-level software hackathon</strong> <br/> <img src="https://img.shields.io/badge/Hackathon-Top%20Participant-orange" alt="Hackathon Badge" /></p>
       </td>
       <td align="left" width="50%">
         <h3>🦸‍♂️ AI/ML Bootcamp 2023</h3>
-        <p><strong>ML Sub-Mentor</strong> | <img src="https://img.shields.io/badge/Mentorship-ML%20Sub--Mentor-blue" alt="Mentorship Badge" /></p>
+        <p><strong>ML Sub-Mentor</strong> <br/> <img src="https://img.shields.io/badge/Mentorship-ML%20Sub--Mentor-blue" alt="Mentorship Badge" /></p>
       </td>
     </tr>
     <tr>
       <td align="left" width="50%">
         <h3>🏗️ Delta Afterevents</h3>
-        <p><strong>Hosted a data science competition on Kaggle</strong> | <img src="https://img.shields.io/badge/Kaggle-Competition-green" alt="Kaggle Badge" /></p>
+        <p><strong>Hosted a data science competition on Kaggle</strong> <br/> <img src="https://img.shields.io/badge/Kaggle-Competition-green" alt="Kaggle Badge" /></p>
       </td>
       <td align="left" width="50%">
         <h3>👯‍♂️ ACES-Deltathon Volunteer</h3>
-        <p><strong>Volunteered to manage the event</strong> | <img src="https://img.shields.io/badge/Volunteering-Community--Event-yellow" alt="Volunteering Badge" /></p>
+        <p><strong>Volunteered to manage the event</strong> <br/> <img src="https://img.shields.io/badge/Volunteering-Community--Event-yellow" alt="Volunteering Badge" /></p>
       </td>
     </tr>
     <tr>
       <td align="left" width="50%">
         <h3>📦 Project Mirror</h3>
-        <p><strong>Developed an Android package for screen mirroring</strong> | <img src="https://img.shields.io/badge/Android-Project%20Mirror-brightgreen" alt="Android Badge" /></p>
+        <p><strong>Developed an Android package for screen mirroring</strong> <br/> <img src="https://img.shields.io/badge/Android-Project%20Mirror-brightgreen" alt="Android Badge" /></p>
       </td>
       <td align="left" width="50%">
         <h3>📕 ML Learning Resource Repo</h3>
-        <p><strong>Building and upgrading on GitHub!</strong> | <img src="https://img.shields.io/badge/ML%20Repo-Active--Development-red" alt="GitHub Badge" /></p>
+        <p><strong>Building and upgrading on GitHub!</strong> <br/> <img src="https://img.shields.io/badge/ML%20Repo-Active--Development-red" alt="GitHub Badge" /></p>
       </td>
     </tr>
     <tr>
       <td align="left" width="50%">
         <h3>🌍 Open Source Contributions</h3>
-        <p><strong>Actively contributing to various open-source projects</strong> | <img src="https://img.shields.io/badge/Open%20Source-Contributor-brightgreen" alt="Open Source Badge" /></p>
+        <p><strong>Actively contributing to various open-source projects</strong> <br/> <img src="https://img.shields.io/badge/Open%20Source-Contributor-brightgreen" alt="Open Source Badge" /></p>
       </td>
     </tr>
   </table>
