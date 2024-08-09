@@ -1119,8 +1119,8 @@ I am deeply passionate about robotics and actively contribute to various project
   <summary style="font-size: 1.5em; cursor: pointer; display: flex; align-items: center;">
     Expand to view all certifications
   </summary>
-  <div style="margin-top: 20px;">
-    <div style="display: flex; flex-direction: column; align-items: center;">
+  <div>
+    <div style="display: flex; flex-direction: column; align-items: center;">   
           <table align="center" width="100%" style="max-width: 800px;">
             <tr>
               <td align="left">
