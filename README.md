@@ -749,8 +749,9 @@ I am deeply passionate about robotics and actively contribute to various project
     Expand to view all certifications
   </summary>
   <div  style="margin-top: 20px; padding: 0 20px;">
-    <div style="display: flex; flex-direction: column; align-items: center;">   
-          <table align="center" width="100%" style="max-width: 760px; margin: 0 auto;">
+    <div style="display: flex; flex-direction: column; align-items: center;">
+        <br/>
+          <table align="center" width="100%" style="max-width: 840px; margin: 0 auto;">
             <tr>
               <td align="left">
                 <h3>🧠 PSYCH101: Introduction to Psychology</h3>
