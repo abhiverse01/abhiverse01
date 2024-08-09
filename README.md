@@ -14,12 +14,6 @@ Profile Views Counter
 --->
 <img src="https://komarev.com/ghpvc/?username=abhiverse01&label=Profile%20views&color=0e75b6&style=flat" alt="abhiverse01" />
 
-<p align="center" style="font-size: 18px;">
-  <img src="https://komarev.com/ghpvc/?username=abhiverse01&label=Profile%20views&color=0e75b6&style=flat" alt="abhiverse01 Profile Views" />
-</p>
-
-
-
 <h3 align="center"> 😎 AI/ML Engineer | Full Stack | Python Dev | Data Science | NLP | LLMs | Explorer </h3>
 
 ## 
@@ -666,11 +660,6 @@ Profile Views Counter
 <br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhiverse01&label=Profile%20views&color=0e75b6&style=flat" alt="abhiverse01" /> 
 </p>
-
-<p align="center" style="font-size: 18px;">
-  <img src="https://komarev.com/ghpvc/?username=abhiverse01&label=Profile%20views&color=0e75b6&style=flat" alt="abhiverse01 Profile Views" />
-</p>
-
 
 <div align="center">
     <img src="https://github.com/abhiverse01/abhiverse01/blob/main/aibanner.png" alt="banner">
