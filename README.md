@@ -215,6 +215,122 @@ I am deeply passionate about robotics and actively contribute to various project
   </a>
 </div>
 
+
+<h2 align="center">⚒️ Languages and Tools</h2>
+<div style="display: flex; align-items: flex-start; justify-content: center;">
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <a href="https://backbonejs.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/backbonejs/backbonejs-original-wordmark.svg" alt="backbonejs" width="65" height="65"/>
+      </a>
+      <br>Backbone.js
+    </td>
+    <td align="center" width="96">
+      <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="65" height="65"/>
+      </a>
+      <br>Bootstrap
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="65" height="65"/>
+      </a>
+      <br>C
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="65" height="65"/>
+      </a>
+      <br>C++
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="65" height="65"/>
+      </a>
+      <br>CSS3
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+        <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="65" height="65"/>
+      </a>
+      <br>Django
+    </td>
+    <td align="center" width="96">
+      <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="65" height="65"/>
+      </a>
+      <br>Flask
+    </td>
+    <td align="center" width="96">
+      <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="65" height="65"/>
+      </a>
+      <br>GCP
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="65" height="65"/>
+      </a>
+      <br>HTML5
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="65" height="65"/>
+      </a>
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+      <a href="https://opencv.org/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="65" height="65"/>
+      </a>
+      <br>OpenCV
+    </td>
+    <td align="center" width="96">
+      <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="65" height="65"/>
+      </a>
+      <br>Pandas
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.python.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="65" height="65"/>
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="65" height="65"/>
+      </a>
+      <br>PyTorch
+    </td>
+    <td align="center" width="96">
+      <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="65" height="65"/>
+      </a>
+      <br>Scikit-learn
+    </td>
+    <td align="center" width="96">
+      <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
+        <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="65" height="65"/>
+      </a>
+      <br>Seaborn
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="65" height="65"/>
+      </a>
+      <br>TensorFlow
+    </td>
+  </tr>
+</table>
+</div>
+
+
 ## ⚙️ Technologies I've Mastered
 
 <div align= "justify" style="display: flex; flex-wrap: wrap; justify-content: space-between;">
