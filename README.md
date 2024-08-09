@@ -281,6 +281,14 @@ I am deeply passionate about robotics and actively contribute to various project
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhiverse01&" alt="abhiverse01" />
 </p>
 
+<div style="text-align: center;">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/abhiverse01/abhiverse01/blob/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/abhiverse01/abhiverse01/blob/output/github-snake.svg" />
+    <img alt="github-snake" src="https://github.com/abhiverse01/abhiverse01/blob/output/ocean.gif" />
+  </picture>
+</div>
+
 
 ## 📑 Resume
 
