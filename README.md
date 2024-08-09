@@ -52,7 +52,7 @@ Blogging Logo
 - --
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhiverse01)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=blue)](https://linkedin.com/in/abhiverse01)
 
 <!-- Dynamic Badge Section -->
 ![GitHub Followers](https://img.shields.io/github/followers/abhiverse01?style=social)
@@ -161,12 +161,12 @@ I am deeply passionate about robotics and actively contribute to various project
 </p>
 
 ## 🤗 LLMs I've Worked With:
-![Llama](https://img.shields.io/badge/llama-%230077B5.svg?style=for-the-badge&logo=llama&logoColor=white)
-![DistilBERT](https://img.shields.io/badge/DistilBERT-%2300C7B7.svg?style=for-the-badge&logo=distilbert&logoColor=white)
-![FlanT5](https://img.shields.io/badge/FlanT5-%23F7DF1E.svg?style=for-the-badge&logo=flant5&logoColor=white)
-![GroQ](https://img.shields.io/badge/Grok-%23E34F26.svg?style=for-the-badge&logo=grok&logoColor=white)
-![Salesforce](https://img.shields.io/badge/Salesforce-%2300A1E0.svg?style=for-the-badge&logo=salesforce&logoColor=white)
-![TinyLlama](https://img.shields.io/badge/TinyLlama-%2334A853.svg?style=for-the-badge&logo=TinyLlama&logoColor=white)
+![Llama](https://img.shields.io/badge/llama-%230077B5.svg?style=for-the-badge&logo=llama&logoColor=blue)
+![DistilBERT](https://img.shields.io/badge/DistilBERT-%2300C7B7.svg?style=for-the-badge&logo=distilbert&logoColor=blue)
+![FlanT5](https://img.shields.io/badge/FlanT5-%23F7DF1E.svg?style=for-the-badge&logo=flant5&logoColor=blue)
+![GroQ](https://img.shields.io/badge/Grok-%23E34F26.svg?style=for-the-badge&logo=grok&logoColor=blue)
+![Salesforce](https://img.shields.io/badge/Salesforce-%2300A1E0.svg?style=for-the-badge&logo=salesforce&logoColor=blue)
+![TinyLlama](https://img.shields.io/badge/TinyLlama-%2334A853.svg?style=for-the-badge&logo=TinyLlama&logoColor=blue)
 
 
 ## ⚒️ Languages and Tools
@@ -288,47 +288,47 @@ I am deeply passionate about robotics and actively contribute to various project
 
 <div align= "justify" style="display: flex; flex-wrap: wrap; justify-content: space-between;">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white" alt="DigitalOcean" />
+  <img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=blue" alt="GraphQL" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=blue" alt="CSS3" />
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=blue" alt="C" />
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=blue" alt="C++" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=blue" alt="HTML5" />
+  <img src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=blue" alt="DigitalOcean" />
   <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" alt="Netlify" />
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" alt="Cloudflare" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=blue" alt="Cloudflare" />
   <img src="https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql" alt="Apollo-GraphQL" />
-  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=blue" alt="Bootstrap" />
   <img src="https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react" alt="Context-API" />
   <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastAPI" />
   <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" alt="JWT" />
-  <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" />
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
+  <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=blue" alt="NPM" />
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=blue" alt="NodeJS" />
   <img src="https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD" alt="Nodemon" />
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
-  <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
-  <img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white" alt="Apache" />
-  <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
-  <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white" alt="Sequelize" />
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres" />
-  <img src="https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white" alt="Adobe" />
-  <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="Adobe Illustrator" />
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" alt="Adobe Premiere Pro" />
-  <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="Adobe Photoshop" />
-  <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" alt="Keras" />
-  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=blue" alt="Redux" />
+  <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=blue" alt="Vite" />
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=blue" alt="TailwindCSS" />
+  <img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=blue" alt="Apache" />
+  <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=blue" alt="Nginx" />
+  <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=blue" alt="Sequelize" />
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=blue" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=blue" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=blue" alt="Postgres" />
+  <img src="https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=blue" alt="Adobe" />
+  <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=blue" alt="Adobe Illustrator" />
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=blue" alt="Figma" />
+  <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=blue" alt="Adobe Premiere Pro" />
+  <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=blue" alt="Adobe Photoshop" />
+  <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=blue" alt="Keras" />
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=blue" alt="Pandas" />
+  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=blue" alt="NumPy" />
   <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib" />
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
-  <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=blue" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=blue" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=blue" alt="Git" />
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=blue" alt="GitHub" />
+  <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=blue" alt="GitLab" />
+  <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=blue" alt="Jira" />
 </div>
 
 ## 🧑‍💻 Summary: Used Languages & 💯 GitHub Stats
@@ -399,7 +399,7 @@ I am deeply passionate about robotics and actively contribute to various project
                <strong>Issued:</strong> Jul 2024<br>
                <strong>Credential ID:</strong> 65313<br>
                <strong>Skills:</strong> Apache Kafka · Stream Processing</p>
-            <img src="https://img.shields.io/badge/Great%20Learning-Apache%20Kafka%20Basics-white" alt="Apache Kafka Badge" />
+            <img src="https://img.shields.io/badge/Great%20Learning-Apache%20Kafka%20Basics-blue" alt="Apache Kafka Badge" />
           </td>
         </tr>
         <tr>
@@ -417,7 +417,7 @@ I am deeply passionate about robotics and actively contribute to various project
                 <strong>Issued:</strong> Jul 2024<br>
                 <strong>Credential ID:</strong> 65313<br>
                 <strong>Skills:</strong> Apache Kafka · Stream Processing</p>
-            <img src="https://img.shields.io/badge/Great%20Learning-Apache%20Kafka%20Basics-white" alt="Apache Kafka Badge" />
+            <img src="https://img.shields.io/badge/Great%20Learning-Apache%20Kafka%20Basics-blue" alt="Apache Kafka Badge" />
             </td>
         </tr>
         <tr>
@@ -481,7 +481,7 @@ I am deeply passionate about robotics and actively contribute to various project
                 <strong>Issued:</strong> May 2024<br>
                 <strong>Credential ID:</strong> 56698<br>
                 <strong>Skills:</strong> Machine Learning · SVM · K-Nearest Neighbors (KNN) · Random Forest · Decision Trees · Logistic Regression · ML Algorithms</p>
-            <img src="https://img.shields.io/badge/Great%20Learning-Applied%20Machine%20Learning%20Algorithms-white" alt="Machine Learning Badge" />
+            <img src="https://img.shields.io/badge/Great%20Learning-Applied%20Machine%20Learning%20Algorithms-blue" alt="Machine Learning Badge" />
             </td>
             <td align="left" style="padding: 10px; width: 50%">
             <h3>🧠 Artificial Intelligence Fundamentals</h3>
@@ -525,7 +525,7 @@ I am deeply passionate about robotics and actively contribute to various project
                 <strong>Issued:</strong> May 2024<br>
                 <strong>Credential ID:</strong> 34995<br>
                 <strong>Skills:</strong> Applied Probability · Machine Learning · Probability Distribution</p>
-            <img src="https://img.shields.io/badge/Great%20Learning-Probability%20Distributions%20for%20Machine%20Learning-white" alt="Probability Badge" />
+            <img src="https://img.shields.io/badge/Great%20Learning-Probability%20Distributions%20for%20Machine%20Learning-blue" alt="Probability Badge" />
             </td>
         </tr>
         <tr>
