@@ -393,8 +393,6 @@ I am deeply passionate about robotics and actively contribute to various project
                 <strong>Credential ID:</strong> 8173289785AS</p>
             <img src="https://img.shields.io/badge/Saylor%20Academy-PSYCH101%3A%20Introduction%20to%20Psychology-pink" alt="PSYCH101 Badge" />
             </td>
-        </tr>
-        <tr>
             <td align="left" style="padding: 10px; width: 50%">
             <h3>⚙️ Apache Kafka Basics</h3>
             <p><strong>Issuer:</strong> Great Learning<br>
@@ -413,8 +411,6 @@ I am deeply passionate about robotics and actively contribute to various project
                 <strong>Skills:</strong> Prompt Engineering · AI Prompting</p>
             <img src="https://img.shields.io/badge/DeepLearning.AI-ChatGPT%20Prompt%20Engineering%20for%20Developers-yellow" alt="ChatGPT Badge" />
             </td>
-        </tr>
-        <tr>
             <td align="left" style="padding: 10px; width: 50%">
             <h3>🧠 NLP Project-based Learning</h3>
             <p><strong>Issuer:</strong> Great Learning<br>
@@ -433,8 +429,6 @@ I am deeply passionate about robotics and actively contribute to various project
                 <strong>Skills:</strong> Software Development · SDLC · Software Engineering Practices</p>
             <img src="https://img.shields.io/badge/Saylor%20Academy-CS302%3A%20Software%20Engineering-blue" alt="Software Engineering Badge" />
             </td>
-        </tr>
-        <tr>
             <td align="left" style="padding: 10px; width: 50%">
             <h3>🚀 Cohort Member</h3>
             <p><strong>Issuer:</strong> Buildspace<br>
@@ -453,8 +447,6 @@ I am deeply passionate about robotics and actively contribute to various project
                 <strong>Skills:</strong> Django · Python (Programming Language) · Data Science</p>
             <img src="https://img.shields.io/badge/Simplilearn-Django%20for%20Python%20and%20Data%20Science-green" alt="Django Badge" />
             </td>
-        </tr>
-        <tr>
             <td align="left" style="padding: 10px; width: 50%">
             <h3>✍️ A Crash Course in Writing Well</h3>
             <p><strong>Issuer:</strong> Udemy<br>
@@ -473,8 +465,6 @@ I am deeply passionate about robotics and actively contribute to various project
                 <strong>Skills:</strong> Machine Learning · SVM · K-Nearest Neighbors (KNN) · Random Forest · Decision Trees · Logistic Regression · ML Algorithms</p>
             <img src="https://img.shields.io/badge/Great%20Learning-Applied%20Machine%20Learning%20Algorithms-white" alt="Machine Learning Badge" />
             </td>
-        </tr>
-        <tr>
             <td align="left" style="padding: 10px; width: 50%">
             <h3>🧠 Artificial Intelligence Fundamentals</h3>
             <p><strong>Issuer:</strong> Great Learning<br>
@@ -493,8 +483,6 @@ I am deeply passionate about robotics and actively contribute to various project
                 <strong>Skills:</strong> Data Science · NumPy · Pandas · Matplotlib</p>
             <img src="https://img.shields.io/badge/Saylor%20Academy-CS250%3A%20Python%20for%20Data%20Science-green" alt="Python Badge" />
             </td>
-        </tr>
-        <tr>
             <td align="left" style="padding: 10px; width: 50%">
             <h3>💻 File and Folder Management using Power Shell</h3>
             <p><strong>Issuer:</strong> Udemy<br>
@@ -513,9 +501,7 @@ I am deeply passionate about robotics and actively contribute to various project
                 <strong>Skills:</strong> Analytical Skills · Data Analysis</p>
             <img src="https://img.shields.io/badge/Google%20Analytics%204-Google%20Analytics%20Individual%20Qualification-lightgreen" alt="Google Analytics Badge" />
             </td>
-        </tr>
-        <tr>
-          <td align="left" style="padding: 10px; width: 50%">
+            <td align="left" style="padding: 10px; width: 50%">
             <h3>📈 Probability Distributions for Machine Learning</h3>
             <p><strong>Issuer:</strong> Great Learning<br>
                 <strong>Issued:</strong> May 2024<br>
@@ -533,8 +519,6 @@ I am deeply passionate about robotics and actively contribute to various project
                 <strong>Skills:</strong> Convolutional Neural Networks (CNN) · TensorFlow · Python</p>
             <img src="https://img.shields.io/badge/Great%20Learning-Tensorflow%20with%20Python-green" alt="TensorFlow Badge" />
             </td>
-        </tr>
-        <tr>
             <td align="left" style="padding: 10px; width: 50%">
             <h3>🐍 PyScript Fundamentals 101</h3>
             <p><strong>Issuer:</strong> Udemy<br>
@@ -552,8 +536,6 @@ I am deeply passionate about robotics and actively contribute to various project
                 <strong>Skills:</strong> NumPy · Artificial Intelligence (AI) · Pandas · Presentations · Machine Learning · Natural Language Processing (NLP)</p>
             <img src="https://img.shields.io/badge/ACES-AI%2FML%20Mentorship%20Recognition-blue" alt="Mentorship Badge" />
             </td>
-        </tr>
-        <tr>
             <td align="left" style="padding: 10px; width: 50%">
             <h3>🐳 Exploring Docker</h3>
             <p><strong>Issuer:</strong> MindLuster<br>
@@ -572,8 +554,6 @@ I am deeply passionate about robotics and actively contribute to various project
                 <strong>Skills:</strong> AI · Python · Machine Learning</p>
             <img src="https://img.shields.io/badge/Udemy-Unlocking%20the%20power%20of%20ChatGPT%20in%20Data%20Science%3A%20A--Z%20Guide-blue" alt="ChatGPT Badge" />
             </td>
-        </tr>
-        <tr>
             <td align="left" style="padding: 10px; width: 50%">
             <h3>🧠 Introduction to Generative AI</h3>
             <p><strong>Issuer:</strong> Coursera<br>
@@ -592,8 +572,6 @@ I am deeply passionate about robotics and actively contribute to various project
                 <strong>Skills:</strong> Python Developer · PyQt · GUI</p>
             <img src="https://img.shields.io/badge/Udemy-Python%20GUI%20%7C%20Practical%20Projects%20in%20Python%3A%20Build%203%20Projects-green" alt="Python GUI Badge" />
             </td>
-        </tr>
-        <tr>
             <td align="left" style="padding: 10px; width: 50%">
             <h3>🐍 Python Programming - From Basics to Advanced Level</h3>
             <p><strong>Issuer:</strong> Udemy<br>
@@ -612,8 +590,6 @@ I am deeply passionate about robotics and actively contribute to various project
                 <strong>Skills:</strong> Content Development</p>
             <img src="https://img.shields.io/badge/Teaching.com-Expert--Level%20Typing-blue" alt="Typing Badge" />
             </td>
-        </tr>
-        <tr>
             <td align="left" style="padding: 10px; width: 50%">
             <h3>🐍 Introduction to Programming Using Python</h3>
             <p><strong>Issuer:</strong> HackerRank<br>
@@ -631,8 +607,6 @@ I am deeply passionate about robotics and actively contribute to various project
                 <strong>Skills:</strong> Hackathon · Coding Challenge</p>
             <img src="https://img.shields.io/badge/ACES-Delta%20Hackathon-blue" alt="Hackathon Badge" />
             </td>
-        </tr>
-        <tr>
             <td align="left" style="padding: 10px; width: 50%">
             <h3>🤖 Fine-Tuning Large Language Models</h3>
             <p><strong>Issuer:</strong> DeepLearning.AI<br>
@@ -650,8 +624,6 @@ I am deeply passionate about robotics and actively contribute to various project
                 <strong>Skills:</strong> NumPy · Scikit-Learn · LLMs · CNN · AI · Python · Machine Learning</p>
             <img src="https://img.shields.io/badge/CodSoft-Machine%20Learning%20Intern-blue" alt="Intern Badge" />
             </td>
-        </tr>
-        <tr>
             <td align="left" style="padding: 10px; width: 50%">
             <h3>🧠 Introduction to On-Device AI</h3>
             <p><strong>Issuer:</strong> DeepLearning.AI<br>
