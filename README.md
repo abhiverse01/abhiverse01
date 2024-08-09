@@ -262,7 +262,7 @@ I am deeply passionate about robotics and actively contribute to various project
   <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
 </div>
 
-#
+## 🧑‍💻 Summary: Used Languages & 💯 GitHub Stats
 
 <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
   <div style="margin: 10px;">
@@ -272,52 +272,6 @@ I am deeply passionate about robotics and actively contribute to various project
   <div style="margin: 10px;">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=abhiverse01&show_icons=true&locale=en" alt="abhiverse01" style="height: 200px;" />
   </div>
-</div>
-
-
-<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
-  <div style="display: inline-block;">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhiverse01&show_icons=true&locale=en&layout=compact" alt="abhiverse01" style="height: 200px;" />
-  </div>
-
-  <div style="display: inline-block;">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=abhiverse01&show_icons=true&locale=en" alt="abhiverse01" style="height: 200px;" />
-  </div>
-</div>
-
-<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
-  <div style="margin: 10px;">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhiverse01&show_icons=true&locale=en&layout=compact" alt="abhiverse01" style="height: 200px;" />
-  </div>
-
-  <div style="margin: 10px;">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=abhiverse01&show_icons=true&locale=en" alt="abhiverse01" style="height: 200px;" />
-  </div>
-</div>
-
-
-
-## 🧑‍💻 Summary: Used Languages
-
-<p align = "center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhiverse01&show_icons=true&locale=en&layout=compact" alt="abhiverse01" /></p>
-
-## 💯 GitHub Stats
-
-<p align = "center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=abhiverse01&show_icons=true&locale=en" alt="abhiverse01" />
-</p>
-
-
-<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
-<div>
-    <p align = "center">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhiverse01&show_icons=true&locale=en&layout=compact" alt="abhiverse01" /></p>
-</div>
-<div>
-    <p align = "center">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=abhiverse01&show_icons=true&locale=en" alt="abhiverse01" /></p>
-</div>
 </div>
 
 
