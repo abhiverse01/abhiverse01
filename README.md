@@ -264,12 +264,22 @@ I am deeply passionate about robotics and actively contribute to various project
 
 #
 
-<div style="text-align: center;">
+<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
   <div style="display: inline-block;">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhiverse01&show_icons=true&locale=en&layout=compact" alt="abhiverse01" style="height: 200px;" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhiverse01&show_icons=true&locale=en&layout=compact" alt="abhiverse01" style="height: 200px;" />
   </div>
 
   <div style="display: inline-block;">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=abhiverse01&show_icons=true&locale=en" alt="abhiverse01" style="height: 200px;" />
+  </div>
+</div>
+
+<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
+  <div style="margin: 10px;">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhiverse01&show_icons=true&locale=en&layout=compact" alt="abhiverse01" style="height: 200px;" />
+  </div>
+
+  <div style="margin: 10px;">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=abhiverse01&show_icons=true&locale=en" alt="abhiverse01" style="height: 200px;" />
   </div>
 </div>
