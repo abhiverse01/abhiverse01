@@ -262,15 +262,18 @@ I am deeply passionate about robotics and actively contribute to various project
   <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
 </div>
 
+#
+
 <div style="text-align: center;">
-  <div style="display: inline-block; height: 100%;">
+  <div style="display: inline-block;">
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhiverse01&show_icons=true&locale=en&layout=compact" alt="abhiverse01" style="height: 200px;" />
   </div>
 
-  <div style="display: inline-block; height: 100%;">
+  <div style="display: inline-block;">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=abhiverse01&show_icons=true&locale=en" alt="abhiverse01" style="height: 200px;" />
   </div>
 </div>
+
 
 
 ## 🧑‍💻 Summary: Used Languages
