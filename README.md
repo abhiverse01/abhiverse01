@@ -138,6 +138,64 @@ I am deeply passionate about robotics and actively contribute to various project
 > ![Open Source Badge](https://img.shields.io/badge/Open%20Source-Contributor-brightgreen)
 
 
+<h2 align="center">🎯 Achievement Highlights</h2>
+
+<div style="display: flex; flex-direction: column; align-items: center;">
+
+  <table align="center" width="100%" style="max-width: 800px;">
+    <tr>
+      <td align="left">
+        <h3>🏆 ACES-Deltathon 2023</h3>
+        <p><strong>Participated in a national-level software hackathon</strong>, showcasing problem-solving and innovation skills.</p>
+        <img src="https://img.shields.io/badge/Hackathon-Top%20Participant-orange" alt="Hackathon Badge" />
+      </td>
+    </tr>
+    <tr>
+      <td align="left">
+        <h3>🦸‍♂️ AI/ML Bootcamp 2023</h3>
+        <p><strong>ML Sub-Mentor</strong> - Trained the next generation of AI/ML enthusiasts at the AI/ML Bootcamp.</p>
+        <img src="https://img.shields.io/badge/Mentorship-ML%20Sub--Mentor-blue" alt="Mentorship Badge" />
+      </td>
+    </tr>
+    <tr>
+      <td align="left">
+        <h3>🏗️ Delta Afterevents</h3>
+        <p><strong>Hosted a data science competition on Kaggle</strong>, encouraging participation and learning in the data science community.</p>
+        <img src="https://img.shields.io/badge/Kaggle-Competition-green" alt="Kaggle Badge" />
+      </td>
+    </tr>
+    <tr>
+      <td align="left">
+        <h3>👯‍♂️ ACES-Deltathon Volunteer</h3>
+        <p><strong>Volunteered to manage the event</strong>, handling hackathon arrangements, resource usage, and mentoring participants with AI issues.</p>
+        <img src="https://img.shields.io/badge/Volunteering-Community--Event-yellow" alt="Volunteering Badge" />
+      </td>
+    </tr>
+    <tr>
+      <td align="left">
+        <h3>📦 Project Mirror</h3>
+        <p><strong>Developed an Android package for screen mirroring</strong> on desktops, addressing key user needs in the tech community.</p>
+        <img src="https://img.shields.io/badge/Android-Project%20Mirror-brightgreen" alt="Android Badge" />
+      </td>
+    </tr>
+    <tr>
+      <td align="left">
+        <h3>📕 ML Learning Resource Repo</h3>
+        <p><strong>Building and upgrading on GitHub!</strong> This ML resource could become invaluable for beginners and experts, covering concepts, projects, and tips.</p>
+        <img src="https://img.shields.io/badge/ML%20Repo-Active--Development-red" alt="GitHub Badge" />
+      </td>
+    </tr>
+    <tr>
+      <td align="left">
+        <h3>🌍 Open Source Contributions</h3>
+        <p><strong>Actively contributing to various open-source projects</strong>, continuously learning, and giving back to the community.</p>
+        <img src="https://img.shields.io/badge/Open%20Source-Contributor-brightgreen" alt="Open Source Badge" />
+      </td>
+    </tr>
+  </table>
+
+</div>
+
 
 
 
