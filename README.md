@@ -386,6 +386,24 @@ I am deeply passionate about robotics and actively contribute to various project
     <div style="display: flex; flex-direction: column; align-items: center;"><br/>
         <table align="center" width="100%" style="max-width: 800px; margin: 0 auto; table-layout: auto; border-spacing: 10px;">
         <tr>
+          <td align="left" style="padding: 10px; width: 50%;">
+            <h3>🧠 PSYCH101: Introduction to Psychology</h3>
+            <p><strong>Issuer:</strong> Saylor Academy<br>
+               <strong>Issued:</strong> Aug 2024<br>
+               <strong>Credential ID:</strong> 8173289785AS</p>
+            <img src="https://img.shields.io/badge/Saylor%20Academy-PSYCH101%3A%20Introduction%20to%20Psychology-pink" alt="PSYCH101 Badge" />
+          </td>
+          <td align="left" style="padding: 10px; width: 50%;">
+            <h3>⚙️ Apache Kafka Basics</h3>
+            <p><strong>Issuer:</strong> Great Learning<br>
+               <strong>Issued:</strong> Jul 2024<br>
+               <strong>Credential ID:</strong> 65313<br>
+               <strong>Skills:</strong> Apache Kafka · Stream Processing</p>
+            <img src="https://img.shields.io/badge/Great%20Learning-Apache%20Kafka%20Basics-white" alt="Apache Kafka Badge" />
+          </td>
+        </tr>
+        <tr>
+        <tr>
             <td align="left" style="padding: 10px; width: 50%;">
             <h3>🧠 PSYCH101: Introduction to Psychology</h3>
             <p><strong>Issuer:</strong> Saylor Academy<br>
