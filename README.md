@@ -196,6 +196,48 @@ I am deeply passionate about robotics and actively contribute to various project
 
 </div>
 
+<h2 align="center">🎯 Achievement Highlights</h2>
+
+<div style="display: flex; flex-direction: column; align-items: center;">
+  <table align="center" width="100%" style="max-width: 800px;">
+    <tr>
+      <td align="left" width="50%">
+        <h3>🏆 ACES-Deltathon 2023</h3>
+        <p><strong>Participated in a national-level software hackathon</strong> | <img src="https://img.shields.io/badge/Hackathon-Top%20Participant-orange" alt="Hackathon Badge" /></p>
+      </td>
+      <td align="left" width="50%">
+        <h3>🦸‍♂️ AI/ML Bootcamp 2023</h3>
+        <p><strong>ML Sub-Mentor</strong> | <img src="https://img.shields.io/badge/Mentorship-ML%20Sub--Mentor-blue" alt="Mentorship Badge" /></p>
+      </td>
+    </tr>
+    <tr>
+      <td align="left" width="50%">
+        <h3>🏗️ Delta Afterevents</h3>
+        <p><strong>Hosted a data science competition on Kaggle</strong> | <img src="https://img.shields.io/badge/Kaggle-Competition-green" alt="Kaggle Badge" /></p>
+      </td>
+      <td align="left" width="50%">
+        <h3>👯‍♂️ ACES-Deltathon Volunteer</h3>
+        <p><strong>Volunteered to manage the event</strong> | <img src="https://img.shields.io/badge/Volunteering-Community--Event-yellow" alt="Volunteering Badge" /></p>
+      </td>
+    </tr>
+    <tr>
+      <td align="left" width="50%">
+        <h3>📦 Project Mirror</h3>
+        <p><strong>Developed an Android package for screen mirroring</strong> | <img src="https://img.shields.io/badge/Android-Project%20Mirror-brightgreen" alt="Android Badge" /></p>
+      </td>
+      <td align="left" width="50%">
+        <h3>📕 ML Learning Resource Repo</h3>
+        <p><strong>Building and upgrading on GitHub!</strong> | <img src="https://img.shields.io/badge/ML%20Repo-Active--Development-red" alt="GitHub Badge" /></p>
+      </td>
+    </tr>
+    <tr>
+      <td align="left" width="50%">
+        <h3>🌍 Open Source Contributions</h3>
+        <p><strong>Actively contributing to various open-source projects</strong> | <img src="https://img.shields.io/badge/Open%20Source-Contributor-brightgreen" alt="Open Source Badge" /></p>
+      </td>
+    </tr>
+  </table>
+</div>
 
 
 
