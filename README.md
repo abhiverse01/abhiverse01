@@ -343,18 +343,6 @@ I am deeply passionate about robotics and actively contribute to various project
   </div>
 </div>
 
-
-<div style="display: flex; justify-content: space-around; align-items: center; flex-wrap: wrap;">
-  <div style="margin: 10px; text-align: center;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhiverse01&show_icons=true&locale=en&layout=compact" alt="Most Used Languages" style="height: 185px;" />
-  </div>
-
-  <div style="margin: 10px; text-align: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=abhiverse01&show_icons=true&locale=en" alt="GitHub Stats" style="height: 185px;" />
-  </div>
-</div>
-
-
 <br/>
 
 ![Lines of code](https://img.shields.io/badge/Lines%20of%20code-2.8%20million-blue)
