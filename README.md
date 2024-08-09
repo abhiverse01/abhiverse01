@@ -159,6 +159,48 @@ I am deeply passionate about robotics and actively contribute to various project
 <a href="https://medium.com/@abhiverse01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@abhiverse01" height="30" width="40" /></a>
 </p>
 
+<h2 align="left">🪢 Connect With Me</h2>
+
+<div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: flex-start; gap: 15px;">
+
+  <div style="display: flex; align-items: center;">
+    <a href="https://dev.to/abhiverse01" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="abhiverse01" height="30" width="40" />
+    </a>
+    <span style="margin-left: 8px;"><strong>Dev.to</strong></span>
+  </div>
+
+  <div style="display: flex; align-items: center;">
+    <a href="https://linkedin.com/in/abhiverse01" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhiverse01" height="30" width="40" />
+    </a>
+    <span style="margin-left: 8px;"><strong>LinkedIn</strong></span>
+  </div>
+
+  <div style="display: flex; align-items: center;">
+    <a href="https://codesandbox.com/abhiverse01" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="abhiverse01" height="30" width="40" />
+    </a>
+    <span style="margin-left: 8px;"><strong>CodeSandbox</strong></span>
+  </div>
+
+  <div style="display: flex; align-items: center;">
+    <a href="https://fb.com/1lord001" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="1lord001" height="30" width="40" />
+    </a>
+    <span style="margin-left: 8px;"><strong>Facebook</strong></span>
+  </div>
+
+  <div style="display: flex; align-items: center;">
+    <a href="https://medium.com/@abhiverse01" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@abhiverse01" height="30" width="40" />
+    </a>
+    <span style="margin-left: 8px;"><strong>Medium</strong></span>
+  </div>
+
+</div>
+
+
 ## 🤗 LLMs I've Worked With:
 ![Llama](https://img.shields.io/badge/llama-%230077B5.svg?style=for-the-badge&logo=llama&logoColor=white)
 ![DistilBERT](https://img.shields.io/badge/DistilBERT-%2300C7B7.svg?style=for-the-badge&logo=distilbert&logoColor=white)
@@ -166,31 +208,6 @@ I am deeply passionate about robotics and actively contribute to various project
 ![GroQ](https://img.shields.io/badge/Grok-%23E34F26.svg?style=for-the-badge&logo=grok&logoColor=white)
 ![Salesforce](https://img.shields.io/badge/Salesforce-%2300A1E0.svg?style=for-the-badge&logo=salesforce&logoColor=white)
 ![TinyLlama](https://img.shields.io/badge/TinyLlama-%2334A853.svg?style=for-the-badge&logo=TinyLlama&logoColor=white)
-
-<h2 align="center">🤗 LLMs I've Worked With</h2>
-
-<table align="center" width="100%" style="max-width: 800px;">
-  <tr>
-    <td align="center" width="20%">
-      <img src="https://img.shields.io/badge/llama-%230077B5.svg?style=for-the-badge&logo=llama&logoColor=white" alt="Llama" />
-    </td>
-    <td align="center" width="20%">
-      <img src="https://img.shields.io/badge/DistilBERT-%2300C7B7.svg?style=for-the-badge&logo=distilbert&logoColor=white" alt="DistilBERT" />
-    </td>
-    <td align="center" width="20%">
-      <img src="https://img.shields.io/badge/FlanT5-%23F7DF1E.svg?style=for-the-badge&logo=flant5&logoColor=white" alt="FlanT5" />
-    </td>
-    <td align="center" width="20%">
-      <img src="https://img.shields.io/badge/Grok-%23E34F26.svg?style=for-the-badge&logo=grok&logoColor=white" alt="Grok" />
-    </td>
-    <td align="center" width="20%">
-      <img src="https://img.shields.io/badge/Salesforce-%2300A1E0.svg?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce" />
-    </td>
-    <td align="center" width="20%">
-      <img src="https://img.shields.io/badge/TinyLlama-%2334A853.svg?style=for-the-badge&logo=TinyLlama&logoColor=white" alt="TinyLlama" />
-    </td>
-  </tr>
-</table>
 
 
 ## ⚒️ Languages and Tools
