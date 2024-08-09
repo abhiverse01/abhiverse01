@@ -741,6 +741,378 @@ I am deeply passionate about robotics and actively contribute to various project
 
 #
 
+<h2 align="left">🏆 Licenses & Certifications</h2>
+
+<details>
+  <summary style="font-size: 1.5em; cursor: pointer; display: flex; align-items: center;">
+    Expand to view all certifications
+  </summary>
+  <div style="margin-top: 20px;">
+      <div style="display: flex; flex-direction: column; align-items: flex-start; gap: 20px;">
+          <div style="display: flex; align-items: center;">
+            <div style="flex: 1;">
+              <h3>🧠 PSYCH101: Introduction to Psychology</h3>
+              <p><strong>Issuer:</strong> Saylor Academy<br>
+                 <strong>Issued:</strong> Aug 2024<br>
+                 <strong>Credential ID:</strong> 8173289785AS
+              </p>
+            </div>
+            <div>
+              <img src="https://img.shields.io/badge/Saylor%20Academy-PSYCH101%3A%20Introduction%20to%20Psychology-pink" alt="PSYCH101 Badge" />
+            </div>
+          </div>
+        <div style="display: flex; align-items: center;">
+            <div style="flex: 1;">
+              <h3>⚙️ Apache Kafka Basics</h3>
+              <p><strong>Issuer:</strong> Great Learning<br>
+                 <strong>Issued:</strong> Jul 2024<br>
+                 <strong>Credential ID:</strong> 65313<br>
+                 <strong>Skills:</strong> Apache Kafka · Stream Processing
+              </p>
+            </div>
+            <div>
+              <img src="https://img.shields.io/badge/Great%20Learning-Apache%20Kafka%20Basics-white" alt="Apache Kafka Badge" />
+            </div>
+          </div>
+          <div style="display: flex; align-items: center;">
+            <div style="flex: 1;">
+              <h3>💡 ChatGPT Prompt Engineering for Developers</h3>
+              <p><strong>Issuer:</strong> DeepLearning.AI<br>
+                 <strong>Issued:</strong> Jul 2024<br>
+                 <strong>Credential ID:</strong> 793b76ad-ec97-4cfc-ad52-eb3484a6b2cb<br>
+                 <strong>Skills:</strong> Prompt Engineering · AI Prompting
+              </p>
+            </div>
+            <div>
+              <img src="https://img.shields.io/badge/DeepLearning.AI-ChatGPT%20Prompt%20Engineering%20for%20Developers-yellow" alt="ChatGPT Badge" />
+            </div>
+          </div>
+          <div style="display: flex; align-items: center;">
+            <div style="flex: 1;">
+              <h3>🧠 NLP Project-based Learning</h3>
+              <p><strong>Issuer:</strong> Great Learning<br>
+                 <strong>Issued:</strong> Jul 2024<br>
+                 <strong>Credential ID:</strong> 49362<br>
+                 <strong>Skills:</strong> Natural Language Processing (NLP) · Machine Learning · Statistical Data Analysis
+              </p>
+            </div>
+            <div>
+              <img src="https://img.shields.io/badge/Great%20Learning-NLP%20Project--based%20Learning-red" alt="NLP Badge" />
+            </div>
+          </div>
+          <div style="display: flex; align-items: center;">
+            <div style="flex: 1;">
+              <h3>💻 CS302: Software Engineering</h3>
+              <p><strong>Issuer:</strong> Saylor Academy<br>
+                 <strong>Issued:</strong> Jun 2024<br>
+                 <strong>Credential ID:</strong> 0252344638AS<br>
+                 <strong>Skills:</strong> Software Development · SDLC · Software Engineering Practices
+              </p>
+            </div>
+            <div>
+              <img src="https://img.shields.io/badge/Saylor%20Academy-CS302%3A%20Software%20Engineering-blue" alt="Software Engineering Badge" />
+            </div>
+          </div>
+          <div style="display: flex; align-items: center;">
+            <div style="flex: 1;">
+              <h3>🚀 Cohort Member</h3>
+              <p><strong>Issuer:</strong> Buildspace<br>
+                 <strong>Issued:</strong> Jun 2024<br>
+                 <strong>Credential ID:</strong> axSA1MHtvWgtyqyUAHJdlaYykU<br>
+                 <strong>Skills:</strong> Machine Learning · Software Engineering
+              </p>
+            </div>
+            <div>
+              <img src="https://img.shields.io/badge/Buildspace-Cohort%20Member-green" alt="Cohort Member Badge" />
+            </div>
+          </div>
+          <div style="display: flex; align-items: center;">
+            <div style="flex: 1;">
+              <h3>🐍 Django for Python and Data Science</h3>
+              <p><strong>Issuer:</strong> Simplilearn<br>
+                 <strong>Issued:</strong> Jun 2024<br>
+                 <strong>Credential ID:</strong> 6734769<br>
+                 <strong>Skills:</strong> Django · Python (Programming Language) · Data Science
+              </p>
+            </div>
+            <div>
+              <img src="https://img.shields.io/badge/Simplilearn-Django%20for%20Python%20and%20Data%20Science-green" alt="Django Badge" />
+            </div>
+          </div>
+          <div style="display: flex; align-items: center;">
+            <div style="flex: 1;">
+              <h3>✍️ A Crash Course in Writing Well</h3>
+              <p><strong>Issuer:</strong> Udemy<br>
+                 <strong>Issued:</strong> May 2024<br>
+                 <strong>Credential ID:</strong> UC-d8c56706-9879-4d50-933a-bdc45ce2521f<br>
+                 <strong>Skills:</strong> Web Content Writing · Academic Writing
+              </p>
+            </div>
+            <div>
+              <img src="https://img.shields.io/badge/Udemy-A%20Crash%20Course%20in%20Writing%20Well-yellow" alt="Writing Badge" />
+            </div>
+          </div>
+          <div style="display: flex; align-items: center;">
+            <div style="flex: 1;">
+              <h3>🤖 Applied Machine Learning Algorithms</h3>
+              <p><strong>Issuer:</strong> Great Learning<br>
+                 <strong>Issued:</strong> May 2024<br>
+                 <strong>Credential ID:</strong> 56698<br>
+                 <strong>Skills:</strong> Machine Learning · SVM · K-Nearest Neighbors (KNN) · Random Forest · Decision Trees · Logistic Regression · ML Algorithms
+              </p>
+            </div>
+            <div>
+              <img src="https://img.shields.io/badge/Great%20Learning-Applied%20Machine%20Learning%20Algorithms-white" alt="Machine Learning Badge" />
+            </div>
+          </div>
+          <div style="display: flex; align-items: center;">
+            <div style="flex: 1;">
+              <h3>🧠 Artificial Intelligence Fundamentals</h3>
+              <p><strong>Issuer:</strong> Great Learning<br>
+                 <strong>Issued:</strong> May 2024<br>
+                 <strong>Credential ID:</strong> 84191<br>
+                 <strong>Skills:</strong> AI · Neural Networks · Deep Learning
+              </p>
+            </div>
+            <div>
+              <img src="https://img.shields.io/badge/Great%20Learning-Artificial%20Intelligence%20Fundamentals-red" alt="AI Badge" />
+            </div>
+          </div>
+          <div style="display: flex; align-items: center;">
+            <div style="flex: 1;">
+              <h3>🐍 CS250: Python for Data Science</h3>
+              <p><strong>Issuer:</strong> Saylor Academy<br>
+                 <strong>Issued:</strong> May 2024<br>
+                 <strong>Credential ID:</strong> 4096728099AS<br>
+                 <strong>Skills:</strong> Data Science · NumPy · Pandas · Matplotlib
+              </p>
+            </div>
+            <div>
+              <img src="https://img.shields.io/badge/Saylor%20Academy-CS250%3A%20Python%20for%20Data%20Science-green" alt="Python Badge" />
+            </div>
+          </div>
+          <div style="display: flex; align-items: center;">
+            <div style="flex: 1;">
+              <h3>💻 File and Folder Management using Power Shell</h3>
+              <p><strong>Issuer:</strong> Udemy<br>
+                 <strong>Issued:</strong> May 2024<br>
+                 <strong>Credential ID:</strong> UC-53bcbab4-7ce6-4de3-b569-b5fac60bd35c<br>
+                 <strong>Skills:</strong> File Management · Powershell
+              </p>
+            </div>
+            <div>
+              <img src="https://img.shields.io/badge/Udemy-File%20and%20Folder%20Management%20using%20Power%20Shell-blue" alt="Power Shell Badge" />
+            </div>
+          </div>
+          <div style="display: flex; align-items: center;">
+            <div style="flex: 1;">
+              <h3>📊 Google Analytics Individual Qualification</h3>
+              <p><strong>Issuer:</strong> Google Analytics 4<br>
+                 <strong>Issued:</strong> May 2024<br>
+                 <strong>Credential ID:</strong> Nd5MirS5SSe8OEA1bDZf6A<br>
+                 <strong>Skills:</strong> Analytical Skills · Data Analysis
+              </p>
+            </div>
+            <div>
+              <img src="https://img.shields.io/badge/Google%20Analytics%204-Google%20Analytics%20Individual%20Qualification-lightgreen" alt="Google Analytics Badge" />
+            </div>
+          </div>
+          <div style="display: flex; align-items: center;">
+            <div style="flex: 1;">
+              <h3>📈 Probability Distributions for Machine Learning</h3>
+              <p><strong>Issuer:</strong> Great Learning<br>
+                 <strong>Issued:</strong> May 2024<br>
+                 <strong>Credential ID:</strong> 34995<br>
+                 <strong>Skills:</strong> Applied Probability · Machine Learning · Probability Distribution
+              </p>
+            </div>
+            <div>
+              <img src="https://img.shields.io/badge/Great%20Learning-Probability%20Distributions%20for%20Machine%20Learning-white" alt="Probability Badge" />
+            </div>
+          </div>
+          <div style="display: flex; align-items: center;">
+            <div style="flex: 1;">
+              <h3>🐍 Tensorflow with Python</h3>
+              <p><strong>Issuer:</strong> Great Learning<br>
+                 <strong>Issued:</strong> May 2024<br>
+                 <strong>Credential ID:</strong> 56698<br>
+                 <strong>Skills:</strong> Convolutional Neural Networks (CNN) · TensorFlow · Python
+              </p>
+            </div>
+            <div>
+              <img src="https://img.shields.io/badge/Great%20Learning-Tensorflow%20with%20Python-green" alt="TensorFlow Badge" />
+            </div>
+          </div>
+          <div style="display: flex; align-items: center;">
+            <div style="flex: 1;">
+              <h3>🐍 PyScript Fundamentals 101</h3>
+              <p><strong>Issuer:</strong> Udemy<br>
+                 <strong>Issued:</strong> Feb 2024<br>
+                 <strong>Credential ID:</strong> UC-59ba06cd-9bee-47b4-80cd-c07a67764cd2<br>
+                 <strong>Skills:</strong> Pyscript · Python · Web Development
+              </p>
+            </div>
+            <div>
+              <img src="https://img.shields.io/badge/Udemy-PyScript%20Fundamentals%20101-green" alt="PyScript Badge" />
+            </div>
+          </div>
+          <div style="display: flex; align-items: center;">
+            <div style="flex: 1;">
+              <h3>🤖 AI/ML Mentorship Recognition</h3>
+              <p><strong>Issuer:</strong> Association of Computer Engineering Students (ACES)<br>
+                 <strong>Issued:</strong> Jan 2024<br>
+                 <strong>Skills:</strong> NumPy · Artificial Intelligence (AI) · Pandas · Presentations · Machine Learning · Natural Language Processing (NLP)
+              </p>
+            </div>
+            <div>
+              <img src="https://img.shields.io/badge/ACES-AI%2FML%20Mentorship%20Recognition-blue" alt="Mentorship Badge" />
+            </div>
+          </div>
+          <div style="display: flex; align-items: center;">
+            <div style="flex: 1;">
+              <h3>🐳 Exploring Docker</h3>
+              <p><strong>Issuer:</strong> MindLuster<br>
+                 <strong>Issued:</strong> Nov 2023<br>
+                 <strong>Credential ID:</strong> 13907665933<br>
+                 <strong>Skills:</strong> Docker
+              </p>
+            </div>
+            <div>
+              <img src="https://img.shields.io/badge/MindLuster-Exploring%20Docker-blue" alt="Docker Badge" />
+            </div>
+          </div>
+          <div style="display: flex; align-items: center;">
+            <div style="flex: 1;">
+              <h3>🤖 Unlocking the power of ChatGPT in Data Science: A-Z Guide</h3>
+              <p><strong>Issuer:</strong> Udemy<br>
+                 <strong>Issued:</strong> Nov 2023<br>
+                 <strong>Credential ID:</strong> UC-e261495f-ff30-4f2c-9a9e-d4b0312ecf67<br>
+                 <strong>Skills:</strong> AI · Python · Machine Learning
+              </p>
+            </div>
+            <div>
+              <img src="https://img.shields.io/badge/Udemy-Unlocking%20the%20power%20of%20ChatGPT%20in%20Data%20Science%3A%20A--Z%20Guide-blue" alt="ChatGPT Badge" />
+            </div>
+          </div>
+          <div style="display: flex; align-items: center;">
+            <div style="flex: 1;">
+              <h3>🧠 Introduction to Generative AI</h3>
+              <p><strong>Issuer:</strong> Coursera<br>
+                 <strong>Issued:</strong> Oct 2023<br>
+                 <strong>Credential ID:</strong> 2RYNBVE7PTXH<br>
+                 <strong>Skills:</strong> LLMs · Large Language Models (LLM) · Python · Generative AI
+              </p>
+            </div>
+            <div>
+              <img src="https://img.shields.io/badge/Coursera-Introduction%20to%20Generative%20AI-red" alt="Generative AI Badge" />
+            </div>
+          </div>
+          <div style="display: flex; align-items: center;">
+            <div style="flex: 1;">
+              <h3>🐍 Python GUI | Practical Projects in Python: Build 3 Projects</h3>
+              <p><strong>Issuer:</strong> Udemy<br>
+                 <strong>Issued:</strong> Sep 2023<br>
+                 <strong>Credential ID:</strong> UC-10786951-f40b-4fe4-8843-4a5cec87a6cf<br>
+                 <strong>Skills:</strong> Python Developer · PyQt · GUI
+              </p>
+            </div>
+            <div>
+              <img src="https://img.shields.io/badge/Udemy-Python%20GUI%20%7C%20Practical%20Projects%20in%20Python%3A%20Build%203%20Projects-green" alt="Python GUI Badge" />
+            </div>
+          </div>
+          <div style="display: flex; align-items: center;">
+            <div style="flex: 1;">
+              <h3>🐍 Python Programming - From Basics to Advanced Level</h3>
+              <p><strong>Issuer:</strong> Udemy<br>
+                 <strong>Issued:</strong> Sep 2023<br>
+                 <strong>Credential ID:</strong> UC-4dc55380-13e1-4120-adbc-e5a6baed124f<br>
+                 <strong>Skills:</strong> Python Developer · Beautiful Soup · Decorators · Regular Expressions
+              </p>
+            </div>
+            <div>
+              <img src="https://img.shields.io/badge/Udemy-Python%20Programming%20--%20From%20Basics%20to%20Advanced%20Level-blue" alt="Python Programming Badge" />
+            </div>
+          </div>
+          <div style="display: flex; align-items: center;">
+            <div style="flex: 1;">
+              <h3>🧑‍💻 Expert-Level Typing</h3>
+              <p><strong>Issuer:</strong> Teaching.com<br>
+                 <strong>Issued:</strong> Aug 2023<br>
+                 <strong>Credential ID:</strong> 256049629-118126774<br>
+                 <strong>Skills:</strong> Content Development
+              </p>
+            </div>
+            <div>
+              <img src="https://img.shields.io/badge/Teaching.com-Expert--Level%20Typing-blue" alt="Typing Badge" />
+            </div>
+          </div>
+          <div style="display: flex; align-items: center;">
+            <div style="flex: 1;">
+              <h3>🐍 Introduction to Programming Using Python</h3>
+              <p><strong>Issuer:</strong> HackerRank<br>
+                 <strong>Issued:</strong> Jul 2023<br>
+                 <strong>Credential ID:</strong> 99D47D1E0846<br>
+                 <strong>Skills:</strong> Python (Programming Language)
+              </p>
+            </div>
+            <div>
+              <img src="https://img.shields.io/badge/HackerRank-Introduction%20to%20Programming%20Using%20Python-blue" alt="Programming Badge" />
+            </div>
+          </div>
+          <div style="display: flex; align-items: center;">
+            <div style="flex: 1;">
+              <h3>🧑‍💻 Delta Hackathon</h3>
+              <p><strong>Issuer:</strong> Association of Computer Engineering Students (ACES)<br>
+                 <strong>Issued:</strong> Jun 2023<br>
+                 <strong>Skills:</strong> Hackathon · Coding Challenge
+              </p>
+            </div>
+            <div>
+              <img src="https://img.shields.io/badge/ACES-Delta%20Hackathon-blue" alt="Hackathon Badge" />
+            </div>
+          </div>
+          <div style="display: flex; align-items: center;">
+            <div style="flex: 1;">
+              <h3>🤖 Fine-Tuning Large Language Models</h3>
+              <p><strong>Issuer:</strong> DeepLearning.AI<br>
+                 <strong>Issued:</strong> Jun 2022<br>
+                 <strong>Skills:</strong> LLM · Fine Tuning
+              </p>
+            </div>
+            <div>
+              <img src="https://img.shields.io/badge/DeepLearning.AI-Fine--Tuning%20Large%20Language%20Models-blue" alt="LLM Badge" />
+            </div>
+          </div>
+          <div style="display: flex; align-items: center;">
+            <div style="flex: 1;">
+              <h3>🤖 Machine Learning Intern</h3>
+              <p><strong>Issuer:</strong> CodSoft<br>
+                 <strong>Issued:</strong> Oct 2023 · Expired Nov 2023<br>
+                 <strong>Credential ID:</strong> aa7a224<br>
+                 <strong>Skills:</strong> NumPy · Scikit-Learn · LLMs · CNN · AI · Python · Machine Learning
+              </p>
+            </div>
+            <div>
+              <img src="https://img.shields.io/badge/CodSoft-Machine%20Learning%20Intern-blue" alt="Intern Badge" />
+            </div>
+          </div>
+          <div style="display: flex; align-items: center;">
+            <div style="flex: 1;">
+              <h3>🧠 Introduction to On-Device AI</h3>
+              <p><strong>Issuer:</strong> DeepLearning.AI<br>
+                 <strong>Skills:</strong> Artificial Intelligence (AI) · On-Device AI
+              </p>
+            </div>
+            <div>
+              <img src="https://img.shields.io/badge/DeepLearning.AI-Introduction%20to%20On--Device%20AI-red" alt="On-Device AI Badge" />
+            </div>
+          </div>
+        </div>
+
+  </div>
+</details>
+
+
 <!---
 Profile Views Counter
 --->
