@@ -49,6 +49,39 @@ Blogging Logo
 - 📃 Check out my digital resume **[abhishek-shah-html-resume](abhishekshahhtmlresume.vercel.app)**
 
 
+## 🧑‍💻 Summary: Used Languages & 💯 GitHub Stats
+
+<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
+  <div style="margin: 10px;">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhiverse01&show_icons=true&locale=en&layout=compact" alt="abhiverse01" style="height: 160px;" />
+  </div>
+
+  <div style="margin: 10px;">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=abhiverse01&show_icons=true&locale=en" alt="abhiverse01" style="height: 160px;" />
+  </div>
+</div>
+
+<br/>
+
+![Lines of code](https://img.shields.io/badge/Lines%20of%20code-2.8%20million-blue)
+
+## 📝 Contributions
+
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhiverse01&" alt="abhiverse01" />
+</p>
+
+#
+
+<div style="text-align: center; margin-top: 20px;">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/abhiverse01/abhiverse01/blob/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/abhiverse01/abhiverse01/blob/output/github-snake.svg" />
+    <img alt="github-snake" src="https://github.com/abhiverse01/abhiverse01/blob/output/ocean.gif" style="max-width: 100%; height: auto;" />
+  </picture>
+</div>
+
+
 ## 🪢 Connect With Me
 
 <p align="left">
