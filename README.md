@@ -52,11 +52,11 @@ Blogging Logo
 ## 🪢 Connect With Me
 
 <p align="left">
-<a href="https://dev.to/abhiverse01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="abhiverse01" height="40" width="50" /></a>
-<a href="https://linkedin.com/in/abhiverse01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhiverse01" height="40" width="50" /></a>
-<a href="https://codesandbox.com/abhiverse01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="abhiverse01" height="40" width="50" /></a>
-<a href="https://fb.com/1lord001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="1lord001" height="40" width="50" /></a>
-<a href="https://medium.com/@abhiverse01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@abhiverse01" height="40" width="50" /></a>
+<a href="https://dev.to/abhiverse01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="abhiverse01" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/abhiverse01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhiverse01" height="30" width="40" /></a>
+<a href="https://codesandbox.com/abhiverse01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="abhiverse01" height="30" width="40" /></a>
+<a href="https://fb.com/1lord001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="1lord001" height="30" width="40" /></a>
+<a href="https://medium.com/@abhiverse01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@abhiverse01" height="30" width="40" /></a>
 </p>
 
 
@@ -69,6 +69,10 @@ Blogging Logo
 
   <div style="margin: 10px;">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=abhiverse01&show_icons=true&locale=en" alt="abhiverse01" style="height: 160px;" />
+  </div>
+  
+  <div style="margin: 10px;">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhiverse01&" alt="abhiverse01" style="height: 160px;" />
   </div>
 </div>
 
