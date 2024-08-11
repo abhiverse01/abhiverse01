@@ -8,12 +8,14 @@ abhiverse01/abhiverse01 is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-
-
 <!--- Profile Views Counter ---> <!-- Dynamic Badge Section -->
-<img src="https://komarev.com/ghpvc/?username=abhiverse01&label=Profile%20views&color=0e75b6&style=flat" alt="abhiverse01" /> ![GitHub Followers](https://img.shields.io/github/followers/abhiverse01?style=social) ![GitHub Stars](https://img.shields.io/github/stars/abhiverse01?style=social)
+<img src="https://komarev.com/ghpvc/?username=abhiverse01&label=Profile%20views&color=0e75b6&style=flat" alt="abhiverse01" /> ![GitHub Followers](https://img.shields.io/github/followers/abhiverse01?style=social) ![GitHub Stars](https://img.shields.io/github/stars/abhiverse01?style=social) ![Lines of code](https://img.shields.io/badge/Lines%20of%20code-2.8%20million-blue)
+
+<!--- Profile Header --->
 
 <h3 align="center"> 😎 AI/ML Engineer | Full Stack | Python Dev | Data Science | NLP | LLMs | Explorer </h3>
+
+<!--- Profile Quote --->
 
 ## 
 <div align="center">
@@ -23,10 +25,14 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 
+<!--- About Me Section --->
+
 ## 🤝 About Me
+
 <!---
 Blogging Logo
 --->
+
 <img align="right" alt="coding" width="400" src="https://github.com/abhiverse01/abhiverse01/blob/main/blogging.png">
 
 - 👀 I’m interested in **Artificial Intelligence, Development, DevOps, Code and the Cosmos.**
@@ -48,6 +54,7 @@ Blogging Logo
 
 - 📃 Check out my digital resume **[abhishek-shah-html-resume](abhishekshahhtmlresume.vercel.app)**
 
+<!--- Connect With Me Section --->
 
 ## 🪢 Connect With Me
 
@@ -59,6 +66,15 @@ Blogging Logo
 <a href="https://medium.com/@abhiverse01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@abhiverse01" height="30" width="40" /></a>
 </p>
 
+<!--- Profile Contributions --->
+
+## 📝 Contributions
+
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhiverse01&" alt="abhiverse01" />
+</p>
+
+<!--- Profile Summary: Used Language & Stats --->
 
 ## 🧑‍💻 Summary: Used Languages & 💯 GitHub Stats
 
@@ -70,42 +86,9 @@ Blogging Logo
   <div style="margin: 5px;">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=abhiverse01&show_icons=true&locale=en" alt="abhiverse01" style="height: 180px;" />
   </div>
-  
-  <div style="margin: 5px;">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhiverse01&" alt="abhiverse01" style="height: 180px;" />
-  </div>
 </div>
 
-
-## 🧑‍💻 Summary: Used Languages & 💯 GitHub Stats
-
-<div style="display: flex; justify-content: center; align-items: left; flex-wrap: nowrap;">
-  <div style="margin: 5px;">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhiverse01&show_icons=true&locale=en&layout=compact" alt="abhiverse01" style="height: 150px;" />
-  </div>
-
-  <div style="margin: 5px;">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=abhiverse01&show_icons=true&locale=en" alt="abhiverse01" style="height: 150px;" />
-  </div>
-  
-  <div style="margin: 5px;">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhiverse01&show_icons=true&locale=en" alt="abhiverse01" style="height: 150px;" />
-  </div>
-</div>
-
-
-
-
-
-<br/>
-
-![Lines of code](https://img.shields.io/badge/Lines%20of%20code-2.8%20million-blue)
-
-## 📝 Contributions
-
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhiverse01&" alt="abhiverse01" />
-</p>
+<!--- Contributions Snake --->
 
 #
 
@@ -117,7 +100,7 @@ Blogging Logo
   </picture>
 </div>
 
-
+<!--- LLMs Badges Section --->
 
 ## 🤗 LLMs I've Worked With:
 ![Llama](https://img.shields.io/badge/llama-%230077B5.svg?style=for-the-badge&logo=llama&logoColor=white)
@@ -127,6 +110,7 @@ Blogging Logo
 ![Salesforce](https://img.shields.io/badge/Salesforce-%2300A1E0.svg?style=for-the-badge&logo=salesforce&logoColor=blue)
 ![TinyLlama](https://img.shields.io/badge/TinyLlama-%2334A853.svg?style=for-the-badge&logo=TinyLlama&logoColor=blue)
 
+<!--- Language and tools summary table --->
 
 ## ⚒️ Languages and Tools
 <div style="display: flex; align-items: flex-start; justify-content: center;">
@@ -242,6 +226,7 @@ Blogging Logo
 </table>
 </div>
 
+<!--- Technologies Section --->
 
 ## ⚙️ Technologies I've Mastered
 
@@ -290,6 +275,7 @@ Blogging Logo
   <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=blue" alt="Jira" />
 </div>
 
+<!--- Robotics Enthusiast Section --->
 
 ## 🤘 Robotics Enthusiast
 
@@ -307,6 +293,8 @@ I am deeply passionate about robotics and actively contribute to various project
 
 ### Get Involved
 - 🚀 Check Out my Organization for further details **[abhiverse-robotics](https://github.com/abhiverse-org).**
+
+<!--- Achievements and Highlights Section --->
 
 ## 🌟 Achievements Timeline & Highlights
 
@@ -382,6 +370,7 @@ I am deeply passionate about robotics and actively contribute to various project
 
 </div>
 
+<!--- Resumee Render --->
 
 ## 📑 Resume
 
@@ -395,6 +384,8 @@ I am deeply passionate about robotics and actively contribute to various project
 
 [View in Large](https://github.com/abhiverse01/abhiverse01/blob/main/AbhishekShahResume.pdf)
 <br/>
+
+<!--- Licenses & Certifications --->
 
 ## 🏆 Licenses & Certifications
 
@@ -683,9 +674,13 @@ Profile Views Counter
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhiverse01&label=Profile%20views&color=0e75b6&style=flat" alt="abhiverse01" /> 
 </p>
 
+<!--- Profile Footer Banner --->
+
 <div align="center">
     <img src="https://github.com/abhiverse01/abhiverse01/blob/main/aibanner.png" alt="banner">
 </div>
+
+<!--- Profile Footer Copyright --->
 
 # 
 <p align="center">
