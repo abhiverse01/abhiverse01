@@ -49,6 +49,17 @@ Blogging Logo
 - 📃 Check out my digital resume **[abhishek-shah-html-resume](abhishekshahhtmlresume.vercel.app)**
 
 
+## 🪢 Connect With Me
+
+<p align="left">
+<a href="https://dev.to/abhiverse01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="abhiverse01" height="40" width="50" /></a>
+<a href="https://linkedin.com/in/abhiverse01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhiverse01" height="40" width="50" /></a>
+<a href="https://codesandbox.com/abhiverse01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="abhiverse01" height="40" width="50" /></a>
+<a href="https://fb.com/1lord001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="1lord001" height="40" width="50" /></a>
+<a href="https://medium.com/@abhiverse01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@abhiverse01" height="40" width="50" /></a>
+</p>
+
+
 ## 🧑‍💻 Summary: Used Languages & 💯 GitHub Stats
 
 <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
@@ -82,15 +93,6 @@ Blogging Logo
 </div>
 
 
-## 🪢 Connect With Me
-
-<p align="left">
-<a href="https://dev.to/abhiverse01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="abhiverse01" height="40" width="50" /></a>
-<a href="https://linkedin.com/in/abhiverse01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhiverse01" height="40" width="50" /></a>
-<a href="https://codesandbox.com/abhiverse01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="abhiverse01" height="40" width="50" /></a>
-<a href="https://fb.com/1lord001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="1lord001" height="40" width="50" /></a>
-<a href="https://medium.com/@abhiverse01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@abhiverse01" height="40" width="50" /></a>
-</p>
 
 ## 🤗 LLMs I've Worked With:
 ![Llama](https://img.shields.io/badge/llama-%230077B5.svg?style=for-the-badge&logo=llama&logoColor=white)
