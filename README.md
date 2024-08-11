@@ -89,7 +89,7 @@ Blogging Logo
   </div>
   
   <div style="margin: 5px;">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhiverse01&" alt="abhiverse01" style="height: 150px;" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhiverse01&show_icons=true&locale=en" alt="abhiverse01" style="height: 150px;" />
   </div>
 </div>
 
