@@ -13,6 +13,10 @@ You can click the Preview link to take a look at your changes.
 Profile Views Counter
 --->
 <img src="https://komarev.com/ghpvc/?username=abhiverse01&label=Profile%20views&color=0e75b6&style=flat" alt="abhiverse01" />
+<!-- Dynamic Badge Section -->
+![GitHub Followers](https://img.shields.io/github/followers/abhiverse01?style=social)
+![GitHub Stars](https://img.shields.io/github/stars/abhiverse01?style=social)
+
 
 <h3 align="center"> 😎 AI/ML Engineer | Full Stack | Python Dev | Data Science | NLP | LLMs | Explorer </h3>
 
@@ -52,10 +56,6 @@ Blogging Logo
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=blue)](https://linkedin.com/in/abhiverse01)
-
-<!-- Dynamic Badge Section -->
-![GitHub Followers](https://img.shields.io/github/followers/abhiverse01?style=social)
-![GitHub Stars](https://img.shields.io/github/stars/abhiverse01?style=social)
 
 
 ## 🪢 Connect With Me
