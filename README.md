@@ -79,7 +79,7 @@ Blogging Logo
 
 ## 🧑‍💻 Summary: Used Languages & 💯 GitHub Stats
 
-<div style="display: flex; justify-content: center; align-items: center; flex-wrap: nowrap;">
+<div style="display: flex; justify-content: center; align-items: center; ">
   <div style="margin: 5px;">
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhiverse01&show_icons=true&locale=en&layout=compact" alt="abhiverse01" style="width: 250px; height: 150px;" />
   </div>
