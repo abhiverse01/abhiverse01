@@ -81,15 +81,15 @@ Blogging Logo
 
 <div style="display: flex; justify-content: center; align-items: left; flex-wrap: nowrap;">
   <div style="margin: 5px;">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhiverse01&show_icons=true&locale=en&layout=compact" alt="abhiverse01" style="width: 250px; height: 150px;" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhiverse01&show_icons=true&locale=en&layout=compact" alt="abhiverse01" style="height: 150px;" />
   </div>
 
   <div style="margin: 5px;">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=abhiverse01&show_icons=true&locale=en" alt="abhiverse01" style="width: 250px; height: 150px;" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=abhiverse01&show_icons=true&locale=en" alt="abhiverse01" style="height: 150px;" />
   </div>
   
   <div style="margin: 5px;">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhiverse01&" alt="abhiverse01" style="width: 250px; height: 150px;" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhiverse01&" alt="abhiverse01" style="height: 150px;" />
   </div>
 </div>
 
