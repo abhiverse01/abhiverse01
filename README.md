@@ -76,6 +76,25 @@ Blogging Logo
   </div>
 </div>
 
+
+## 🧑‍💻 Summary: Used Languages & 💯 GitHub Stats
+
+<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
+  <div style="margin: 10px;">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhiverse01&show_icons=true&locale=en&layout=compact" alt="abhiverse01" style="height: 150px;" />
+  </div>
+
+  <div style="margin: 10px;">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=abhiverse01&show_icons=true&locale=en" alt="abhiverse01" style="height: 150px;" />
+  </div>
+  
+  <div style="margin: 10px;">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhiverse01&" alt="abhiverse01" style="height: 150px;" />
+  </div>
+</div>
+
+
+
 <br/>
 
 ![Lines of code](https://img.shields.io/badge/Lines%20of%20code-2.8%20million-blue)
