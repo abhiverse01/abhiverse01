@@ -2,8 +2,6 @@
 
 <img src="https://github.com/abhiverse01/abhiverse01/blob/main/headname.gif" alt="banner">
 
-![banner](https://github.com/abhiverse01/abhiverse01/blob/main/aicoverbanner.png)
-
 <img src="https://github.com/abhiverse01/abhiverse01/blob/main/aicoverbanner.png" alt="banner">
 
 
