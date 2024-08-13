@@ -2,7 +2,10 @@
 
 <img src="https://github.com/abhiverse01/abhiverse01/blob/main/headname.gif" alt="banner">
 
-![logo](https://github.com/abhiverse01/abhiverse01/blob/main/aicoverbanner.png)
+![banner](https://github.com/abhiverse01/abhiverse01/blob/main/aicoverbanner.png)
+
+<img src="https://github.com/abhiverse01/abhiverse01/blob/main/aicoverbanner.png" alt="banner">
+
 
 <!---
 abhiverse01/abhiverse01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
