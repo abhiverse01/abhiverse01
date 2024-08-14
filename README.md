@@ -1,6 +1,6 @@
 #
 
-<img src="https://github.com/abhiverse01/abhiverse01/blob/main/headnameuniverse.gif" alt="banner">
+<img src="https://github.com/abhiverse01/abhiverse01/blob/main/headnameuniversesky.gif" alt="banner">
 
 <img src="https://github.com/abhiverse01/abhiverse01/blob/main/aicoverbanner.png" alt="banner">
 
