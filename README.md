@@ -677,7 +677,6 @@ Profile Views Counter
 
 <!--- Profile Footer Banner --->
 
---
 
 <div align="center">
     <img src="https://github.com/abhiverse01/abhiverse01/blob/main/aibanner.png" alt="banner">
