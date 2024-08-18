@@ -53,6 +53,8 @@ Blogging Logo
 
 <!--- Connect With Me Section --->
 
+<br/>
+
 ### 🪢 < Let's Connect />
 
 <div align="center">
