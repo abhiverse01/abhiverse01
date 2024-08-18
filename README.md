@@ -82,8 +82,8 @@ Blogging Logo
 ## 🧑‍💻 < Summary /> Languages Used & 💯 GitHub Stats
 
 <div align= center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhiverse01&show_icons=true&locale=en&layout=compact" alt="abhiverse01" style="height: 180px;" />
-    <img src="https://github-readme-stats.vercel.app/api?username=abhiverse01&show_icons=true&locale=en" alt="abhiverse01" style="height: 180px;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhiverse01&show_icons=true&locale=en&layout=compact" alt="abhiverse01" height= "180" />
+    <img src="https://github-readme-stats.vercel.app/api?username=abhiverse01&show_icons=true&locale=en" alt="abhiverse01" height= "180" />
 </div>
 
 <!--- Contributions Snake --->
