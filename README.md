@@ -68,19 +68,6 @@ Blogging Logo
   </p>
 </div>
 
-
-<!--- Profile Contributions --->
-
-## 📝 < Contributions />
-
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhiverse01&" alt="abhiverse01" />
-</p>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=abhiverse01&card_width=1000)](https://git.io/streak-stats)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhiverse01&hide_border=false&include_all_commits=true&count_private=true&layout=compact&card_width=1000)
-[![Tanmay's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abhiverse01&theme=github-compact)](https://github.com/sidghimire/github-readme-activity-graph)
-
 <!--- Profile Summary: Used Language & Stats --->
 
 ## 🧑‍💻 < Summary /> Languages Used & 💯 GitHub Stats
@@ -89,6 +76,16 @@ Blogging Logo
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhiverse01&locale=en&hide_title=false&layout=compact&card_width=320&hide_border=false" height="180" alt="languages graph"  />
     <img src="https://github-readme-stats.vercel.app/api?username=abhiverse01&hide_title=false&hide_rank=false&show_icons=true&count_private=true&disable_animations=false&locale=en&hide_border=false" height="180" alt="stats graph"  />
 </div>
+
+
+<!--- Profile Contributions --->
+
+## 📝 < Contributions />
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=abhiverse01&card_width=1000)](https://git.io/streak-stats)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhiverse01&hide_border=false&include_all_commits=true&count_private=true&layout=compact&card_width=1000)
+[![Tanmay's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abhiverse01&theme=github-compact)](https://github.com/sidghimire/github-readme-activity-graph)
+
 
 <!--- Contributions Snake --->
 
