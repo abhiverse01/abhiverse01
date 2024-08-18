@@ -92,13 +92,13 @@ Blogging Logo
   </div>
 </div>
 
-<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 20px; padding: 20px;">
-  <div style="flex: 1 1 300px; max-width: 300px; min-width: 250px;">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhiverse01&show_icons=true&locale=en&layout=compact&card_width=300" alt="Top Languages" style="width: 100%; height: auto; border-radius: 10px; box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.1);" />
+<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
+  <div style="margin: 5px;">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhiverse01&show_icons=true&locale=en&layout=pie" alt="Top Languages Pie Chart" style="height: 150px; border-radius: 10px;" />
   </div>
 
-  <div style="flex: 1 1 300px; max-width: 300px; min-width: 250px;">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=abhiverse01&show_icons=true&locale=en&hide_border=true" alt="GitHub Stats" style="width: 100%; height: auto; border-radius: 10px; box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.1);" />
+  <div style="margin: 5px;">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=abhiverse01&show_icons=true&locale=en" alt="GitHub Stats" style="height: 150px; border-radius: 10px;" />
   </div>
 </div>
 
