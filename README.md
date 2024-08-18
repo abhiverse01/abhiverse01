@@ -91,12 +91,6 @@ Blogging Logo
   </div>
 </div>
 
-# 
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhiverse01&layout=pie&show_icons=true&locale=en" alt="Languages Chart" />
-</div>
-
 <!--- Contributions Snake --->
 
 #
