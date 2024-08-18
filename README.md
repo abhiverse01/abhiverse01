@@ -91,7 +91,10 @@ Blogging Logo
 
 # 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhiverse01&layout=pie&show_icons=true&locale=en)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhiverse01&layout=pie&show_icons=true&locale=en" alt="Top Languages Pie Chart" />
+</div>
+
 
 
 <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
