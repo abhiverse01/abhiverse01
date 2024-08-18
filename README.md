@@ -79,9 +79,6 @@ Blogging Logo
 
 ## 🧑‍💻 Summary: Used Languages & 💯 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhiverse01&layout=pie&show_icons=true&locale=en)
-
-
 <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
   <div style="margin: 5px;">
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhiverse01&show_icons=true&locale=en&layout=compact" alt="abhiverse01" style="height: 180px;" />
@@ -93,16 +90,6 @@ Blogging Logo
 </div>
 
 
-<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 20px; padding: 20px;">
-  <div style="margin: 5px;">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhiverse01&show_icons=true&locale=en&layout=pie" alt="Top Languages Pie Chart" style="width: 300px; height: 300px; border-radius: 10px;" />
-  </div>
-
-  <div style="margin: 5px;">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=abhiverse01&show_icons=true&locale=en" alt="GitHub Stats" style="width: 300px; height: 300px; border-radius: 10px;" />
-  </div>
-</div>
-
 
 <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
   <div style="margin: 5px;">
@@ -111,16 +98,6 @@ Blogging Logo
 
   <div style="margin: 5px;">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=abhiverse01&show_icons=true&locale=en" alt="abhiverse01" style="height: 300px;" />
-  </div>
-</div>
-
-<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
-  <div style="margin: 5px;">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=abhiverse01&show_icons=true&locale=en" alt="abhiverse01" style="height: 280px;" />
-  </div>
-
- <div style="margin: 5px;">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhiverse01&show_icons=true&locale=en&layout=pie" alt="abhiverse01" style="height: 280px;" />
   </div>
 </div>
 
