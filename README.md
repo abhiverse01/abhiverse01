@@ -70,7 +70,7 @@ Blogging Logo
 
 <!--- Profile Summary: Used Language & Stats --->
 
-## 🧑‍💻Summary: Languages Used & 💯 GitHub Stats
+## 💯Summary: Languages Used & GitHub Stats
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhiverse01&locale=en&hide_title=false&layout=compact&card_width=320&hide_border=false" height="180" alt="languages graph"  />
     <img src="https://github-readme-stats.vercel.app/api?username=abhiverse01&hide_title=false&hide_rank=false&show_icons=true&count_private=true&disable_animations=false&locale=en&hide_border=false" height="180" alt="stats graph"  />
@@ -79,9 +79,7 @@ Blogging Logo
 
 <!--- Profile Contributions --->
 
-### 📝 Contributions
-
-#
+## 📝 Contributions
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=abhiverse01&card_width=1000)](https://git.io/streak-stats)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhiverse01&hide_border=false&include_all_commits=true&count_private=true&layout=compact&card_width=1000)
@@ -102,9 +100,7 @@ Blogging Logo
 
 <!--- LLMs Badges Section --->
 
-### 🤗LLMs I've Worked With
-
-#
+## 🤗LLMs I've Worked With
 
 ![Llama](https://img.shields.io/badge/llama-%230077B5.svg?style=for-the-badge&logo=llama&logoColor=white)
 ![DistilBERT](https://img.shields.io/badge/DistilBERT-%2300C7B7.svg?style=for-the-badge&logo=distilbert&logoColor=white)
@@ -115,9 +111,7 @@ Blogging Logo
 
 <!--- Language and tools summary table --->
 
-### ⚒️Languages and Tools
-
-#
+## ⚒️Languages and Tools
 
 <div style="display: flex; align-items: flex-start; justify-content: center;">
 <table align="center">
@@ -234,9 +228,7 @@ Blogging Logo
 
 <!--- Technologies Section --->
 
-### ⚙️Technologies I've Mastered
-
-#
+## ⚙️Technologies I've Mastered
 
 <div align= "justify" style="display: flex; flex-wrap: wrap; justify-content: space-between;">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
@@ -285,9 +277,7 @@ Blogging Logo
 
 <!--- Robotics Enthusiast Section --->
 
-### 🤖Robotics Enthusiast
-
-#
+## 🤖Robotics Enthusiast
 
 <p align="left">
   <span style="font-size: 40; vertical-align: middle; margin-left: 10;"><strong><b>Abhiverse-Robotics</b></strong></span>
@@ -308,8 +298,6 @@ I am deeply passionate about robotics and actively contribute to various project
 
 ## 🌟Achievements: Timeline & Highlights
 
-#
-
 - **2023**
   -  🏆 **[ACES-Deltathon](https://github.com/abhiverse01/ACES-Deltathon)** - Participated in National Level Software Hackathon conducted in ERC
   -  🦸‍♂️ **[AI/ML Bootcamp](https://github.com/abhiverse01/AI-ML-Bootcamp)** - ML Sub-Mentor training college juniors on AI, ML & Data Science 
@@ -325,8 +313,6 @@ I am deeply passionate about robotics and actively contribute to various project
 
 
 ### 🎯Highlights
-
-#
 
 <div style="display: flex; flex-direction: column; align-items: center;">
 
@@ -386,9 +372,7 @@ I am deeply passionate about robotics and actively contribute to various project
 
 <!--- Resumee Render --->
 
-### 📑Resume
-
-#
+## 📑Resume
 
 <br/>
 
@@ -403,9 +387,7 @@ I am deeply passionate about robotics and actively contribute to various project
 
 <!--- Licenses & Certifications --->
 
-### 🏆Licenses & Certifications
-
-#
+## 🏆Licenses & Certifications
 
 <details>
   <summary style="font-size: 1.5em; cursor: pointer; display: flex; align-items: center;">
