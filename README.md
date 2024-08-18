@@ -77,7 +77,9 @@ Blogging Logo
 
 <!--- Profile Summary: Used Language & Stats --->
 
-## 🧑‍💻 Summary: Languages Used & 💯 GitHub Stats
+## 🧑‍💻 < Summary />
+
+### Languages Used & 💯 GitHub Stats
 
 <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
   <div style="margin: 5px;">
