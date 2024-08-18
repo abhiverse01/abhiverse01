@@ -62,6 +62,36 @@ Blogging Logo
 --
 <br/>
 
+<div style="display: flex; align-items: center; padding: 20px; gap: 20px;">
+  <img align="right" alt="coding" width="400" src="https://github.com/abhiverse01/abhiverse01/blob/main/blogging.png" style="border-radius: 10px;" />
+
+  <div style="flex: 1;">
+    <p>👀 I’m interested in <strong>Artificial Intelligence, Development, DevOps, Code and the Cosmos.</strong></p>
+    <p>🔭 I’m currently working on <strong>RS Systems @InflancerTechnology as well as Open Source and Freelance Projects</strong></p>
+    <p>🌱 I’m currently learning <strong>Advanced AI Engineer Aspects & MLOps</strong></p>
+    <p>👯 I’m looking to collaborate on <strong>Python, R, Django, Flask, AI, ML, NLP, and LLM related Projects.</strong></p>
+    <p>👨‍💻 All of my projects are available at <a href="https://github.com/abhiverse01"><strong>My GitHub Projects</strong></a></p>
+    <p>📝 I regularly write articles on <a href="https://medium.com/@abhiverse01"><strong>Medium</strong></a></p>
+    <p>📫 Reach me @ <a href="mailto:www.abhishekshah007@gmail.com"><strong>abhishekshah007@gmail.com</strong></a> or <a href="mailto:abhishek@inflancer.com"><strong>abhishek@inflancer.com</strong></a></p>
+    <p>😎 Visit my portfolio site <a href="https://abhishekshah.vercel.app"><strong>abhishek-shah-portfolio</strong></a></p>
+    <p>📃 Check out my digital resume <a href="https://abhishekshahhtmlresume.vercel.app"><strong>abhishek-shah-html-resume</strong></a></p>
+  </div>
+</div>
+
+<!--- Connect With Me Section --->
+
+### 🪢 < Let's Connect />
+<div align="center">
+  <p align="center">
+    <a href="https://dev.to/abhiverse01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="abhiverse01" height="30" width="40" /></a>
+    <a href="https://linkedin.com/in/abhiverse01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhiverse01" height="30" width="40" /></a>
+    <a href="https://codesandbox.com/abhiverse01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="abhiverse01" height="30" width="40" /></a>
+    <a href="https://fb.com/1lord001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="1lord001" height="30" width="40" /></a>
+    <a href="https://medium.com/@abhiverse01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@abhiverse01" height="30" width="40" /></a>
+  </p>
+</div>
+
+
 
 <p align="left">
 <a href="https://dev.to/abhiverse01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="abhiverse01" height="30" width="40" /></a>
