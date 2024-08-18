@@ -91,6 +91,9 @@ Blogging Logo
 
 # 
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhiverse01&layout=pie&show_icons=true&locale=en)
+
+
 <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
   <div style="margin: 5px;">
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhiverse01&show_icons=true&locale=en&layout=pie" alt="abhiverse01" style="height: 180px;" />
