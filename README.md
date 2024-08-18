@@ -45,7 +45,7 @@ Blogging Logo
     <p>👯 I’m looking to collaborate on <strong>Python, R, Django, Flask, AI, ML, NLP, and LLM related Projects.</strong></p>
     <p>👨‍💻 All of my projects are available at <a href="https://github.com/abhiverse01"><strong>My GitHub Projects</strong></a></p>
     <p>📝 I regularly write articles on <a href="https://medium.com/@abhiverse01"><strong>Medium</strong></a></p>
-    <p>📫 Reach me @ <a href="mailto:www.abhishekshah007@gmail.com"><strong>Gmail</strong></a> or <a href="mailto:abhishek@inflancer.com"><strong>abhishek@inflancer.com</strong></a></p>
+    <p>📫 Reach me @ <a href="www.abhishekshah007@gmail.com"><strong>Gmail</strong></a> or <a href="mailto:abhishek@inflancer.com"><strong>abhishek@inflancer.com</strong></a></p>
     <p>😎 Visit my portfolio site <a href="https://abhishekshah.vercel.app"><strong>abhishek-shah-portfolio</strong></a></p>
     <p>📃 Check out my digital resume <a href="https://abhishekshahhtmlresume.vercel.app"><strong>abhishek-shah-html-resume</strong></a></p>
   </div>
