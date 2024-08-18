@@ -29,7 +29,7 @@ You can click the Preview link to take a look at your changes.
 
 <!--- About Me Section --->
 
-## 🤝 < Me / >
+## 🤝 < Me />
 
 <!---
 Blogging Logo
@@ -57,7 +57,7 @@ Blogging Logo
 
 <!--- Connect With Me Section --->
 
-## 🪢 Connect With Me
+## 🪢 < Let's Connect />
 
 <p align="left">
 <a href="https://dev.to/abhiverse01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="abhiverse01" height="30" width="40" /></a>
@@ -69,7 +69,7 @@ Blogging Logo
 
 <!--- Profile Contributions --->
 
-## 📝 Contributions
+## 📝 < Contributions />
 
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhiverse01&" alt="abhiverse01" />
