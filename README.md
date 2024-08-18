@@ -57,8 +57,8 @@ Blogging Logo
 
 ### 🪢 < Let's Connect />
 
-<div align="left">
-  <p align="center">
+<div align="center">
+  <p align="left">
     <a href="https://dev.to/abhiverse01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="abhiverse01" height="30" width="40" /></a>
     <a href="https://linkedin.com/in/abhiverse01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhiverse01" height="30" width="40" /></a>
     <a href="https://codesandbox.com/abhiverse01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="abhiverse01" height="30" width="40" /></a>
