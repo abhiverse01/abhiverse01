@@ -77,13 +77,6 @@ Blogging Logo
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhiverse01&" alt="abhiverse01" />
 </p>
 
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhiverse01&" alt="abhiverse01" style="width: 100%; max-width: 800px; max-height: 150px;" />
-</p>
-
-
-
-
 <!--- Profile Summary: Used Language & Stats --->
 
 ## 🧑‍💻 < Summary /> Languages Used & 💯 GitHub Stats
