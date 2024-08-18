@@ -55,9 +55,11 @@ Blogging Logo
 
 - 📃 Check out my digital resume **[abhishek-shah-html-resume](abhishekshahhtmlresume.vercel.app)**
 
+#
+
 <!--- Connect With Me Section --->
 
-## 🪢 < Let's Connect />
+### 🪢 < Let's Connect />
 
 <p align="left">
 <a href="https://dev.to/abhiverse01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="abhiverse01" height="30" width="40" /></a>
