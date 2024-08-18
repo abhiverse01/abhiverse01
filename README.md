@@ -29,7 +29,7 @@ You can click the Preview link to take a look at your changes.
 
 <!--- About Me Section --->
 
-### 🤝 < Me />
+### 🤝< Me />
 
 <!---
 Blogging Logo
@@ -55,7 +55,7 @@ Blogging Logo
 
 ---
 
-### 🪢 < Let's Connect />
+### 🪢Let's Connect
 
 <div align="center">
   <p align="left">
