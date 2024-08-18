@@ -55,7 +55,6 @@ Blogging Logo
 
 - 📃 Check out my digital resume **[abhishek-shah-html-resume](abhishekshahhtmlresume.vercel.app)**
 
-#
 
 <!--- Connect With Me Section --->
 
