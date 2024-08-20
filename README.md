@@ -36,7 +36,7 @@ Blogging Logo
 --->
 
 <div style="display: flex; align-items: center; padding: 20px; gap: 20px;">
-  <img align="right" alt="coding" width="400" src="https://github.com/abhiverse01/abhiverse01/blob/main/2.png" style="border-radius: 10px;" />
+  <img align="right" alt="coding" width="400" src="https://github.com/abhiverse01/abhiverse01/blob/main/1.png" style="border-radius: 10px;" />
 
   <div style="flex: 1;">
     <p>👀 I’m interested in <strong>Artificial Intelligence, Development, DevOps, Code and the Cosmos.</strong></p>
