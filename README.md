@@ -69,36 +69,6 @@ Blogging Logo
   </p>
 </div>
 
-<!--- Profile Summary: Used Language & Stats --->
-
-## 💯Summary: Languages Used & GitHub Stats
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhiverse01&locale=en&hide_title=false&layout=compact&card_width=320&hide_border=false" height="180" alt="languages graph"  />
-    <img src="https://github-readme-stats.vercel.app/api?username=abhiverse01&hide_title=false&hide_rank=false&show_icons=true&count_private=true&disable_animations=false&locale=en&hide_border=false" height="180" alt="stats graph"  />
-</div>
-
-
-<!--- Profile Contributions --->
-
-## 📝 Contributions
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=abhiverse01&card_width=1000)](https://git.io/streak-stats)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhiverse01&hide_border=false&include_all_commits=true&count_private=true&layout=compact&card_width=1000)
-[![Tanmay's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abhiverse01&theme=github-compact)](https://github.com/sidghimire/github-readme-activity-graph)
-
-
-<!--- Contributions Snake --->
-
-#
-
-<div style="text-align: center; margin-top: 20px;">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/abhiverse01/abhiverse01/blob/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/abhiverse01/abhiverse01/blob/output/github-snake.svg" />
-    <img alt="github-snake" src="https://github.com/abhiverse01/abhiverse01/blob/output/ocean.gif" style="max-width: 100%; height: auto;" />
-  </picture>
-</div>
-
 <!--- LLMs Badges Section --->
 
 ## 🤗LLMs I've Worked With
@@ -275,6 +245,37 @@ Blogging Logo
   <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=blue" alt="GitLab" />
   <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=blue" alt="Jira" />
 </div>
+
+<!--- Profile Summary: Used Language & Stats --->
+
+## 💯Summary: Languages Used & GitHub Stats
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhiverse01&locale=en&hide_title=false&layout=compact&card_width=320&hide_border=false" height="180" alt="languages graph"  />
+    <img src="https://github-readme-stats.vercel.app/api?username=abhiverse01&hide_title=false&hide_rank=false&show_icons=true&count_private=true&disable_animations=false&locale=en&hide_border=false" height="180" alt="stats graph"  />
+</div>
+
+
+<!--- Profile Contributions --->
+
+## 📝 Contributions
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=abhiverse01&card_width=1000)](https://git.io/streak-stats)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhiverse01&hide_border=false&include_all_commits=true&count_private=true&layout=compact&card_width=1000)
+[![Tanmay's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abhiverse01&theme=github-compact)](https://github.com/sidghimire/github-readme-activity-graph)
+
+
+<!--- Contributions Snake --->
+
+#
+
+<div style="text-align: center; margin-top: 20px;">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/abhiverse01/abhiverse01/blob/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/abhiverse01/abhiverse01/blob/output/github-snake.svg" />
+    <img alt="github-snake" src="https://github.com/abhiverse01/abhiverse01/blob/output/ocean.gif" style="max-width: 100%; height: auto;" />
+  </picture>
+</div>
+
 
 <!--- Robotics Enthusiast Section --->
 
