@@ -54,8 +54,6 @@ Blogging Logo
 
 <!--- Connect With Me Section --->
 
----
-
 ### 🪢Let's Connect
 
 <div align="center">
@@ -69,7 +67,6 @@ Blogging Logo
   </p>
 </div>
 
-#
 <!--- LLMs Badges Section --->
 
 ## 🤗LLMs I've Worked With
