@@ -258,7 +258,9 @@ Blogging Logo
 ## 📝 Contributions
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=abhiverse01&card_width=1000)](https://git.io/streak-stats)<br/>
+---
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhiverse01&hide_border=false&include_all_commits=true&count_private=true&layout=compact&card_width=1000)
+---
 [![Abhishek's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abhiverse01&theme=github-compact)](https://github.com/abhiverse01/github-readme-activity-graph)
 
 
