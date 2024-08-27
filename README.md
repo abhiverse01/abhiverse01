@@ -1,5 +1,5 @@
 #
-###### <p align = "right"> for best viewing experience, view in dark mode.</p>
+###### <p align = "right"> for best viewing experience, switch to dark mode.</p>
 
 <img src="https://github.com/abhiverse01/abhiverse01/blob/main/headnameuniversesky.gif" alt="banner">
 
