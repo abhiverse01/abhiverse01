@@ -1,5 +1,5 @@
 #
-##### for best viewing experience, view in dark mode.
+###### for best viewing experience, view in dark mode.
 
 <img src="https://github.com/abhiverse01/abhiverse01/blob/main/headnameuniversesky.gif" alt="banner">
 
