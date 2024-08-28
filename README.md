@@ -676,5 +676,5 @@ Profile Views Counter
 
 # 
 <p align="center">
-  <b><strong>&copy; < Abhishek Shah /> | 2024</strong></b>
+  <b><strong>&copy; Abhishek Shah | 2024</strong></b>
 </p>
