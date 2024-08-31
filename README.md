@@ -36,13 +36,13 @@ You can click the Preview link to take a look at your changes.
 Blogging Logo
 --->
 
-| <div style="display: flex; align-items: center; padding: 20px; gap: 20px;">
-  <img align="right" alt="coding" width="400" src="https://github.com/abhiverse01/abhiverse01/blob/main/cosmicoderllogo.png" style="border-radius: 10px;" /> |
+<div style="display: flex; align-items: center; padding: 20px; gap: 20px;">
+  <img align="right" alt="coding" width="400" src="https://github.com/abhiverse01/abhiverse01/blob/main/cosmicoderllogo.png" style="border-radius: 10px;" />
 
   <div style="flex: 1;">
-    | <p>👀 I’m interested in <strong>Artificial Intelligence, Development, DevOps, Code and the Cosmos.</strong></p> |
-    | <p>🔭 I’m currently working on <strong>RS Systems @InflancerTechnology as well as Open Source and Freelance Projects</strong></p> |
-    | <p>🌱 I’m currently learning <strong>Advanced AI Engineer Aspects & MLOps</strong></p> |
+    <p>👀 I’m interested in <strong>Artificial Intelligence, Development, DevOps, Code and the Cosmos.</strong></p>
+    <p>🔭 I’m currently working on <strong>RS Systems @InflancerTechnology as well as Open Source and Freelance Projects</strong></p>
+    <p>🌱 I’m currently learning <strong>Advanced AI Engineer Aspects & MLOps</strong></p>
     <p>👯 I’m looking to collaborate on <strong>Python, R, Django, Flask, AI, ML, NLP, and LLM related Projects.</strong></p>
     <p>👨‍💻 All of my projects are available at <a href="https://github.com/abhiverse01"><strong>My GitHub Projects</strong></a></p>
     <p>📝 I regularly write articles on <a href="https://medium.com/@abhiverse01"><strong>Medium</strong></a></p>
