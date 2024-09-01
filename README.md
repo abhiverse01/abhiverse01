@@ -54,7 +54,7 @@ Blogging Logo
       <br/>
     </td>
     <td style="width: 50%;">
-      <img align="right" alt="coding" width="400" src="https://github.com/abhiverse01/abhiverse01/blob/main/cosmicoderllogo.png" style="border-radius: 10px;" />
+      <img align="right" alt="coding" width="400" src="https://github.com/abhiverse01/abhiverse01/blob/main/poster.png" style="border-radius: 10px;" /> <!--- cosmicoderlogo.png --->
     </td>
   </tr>
   <tr>
