@@ -73,7 +73,7 @@ Blogging Logo
     </td>
   </tr>
 </table>
-<br/>
+
 
 <!---
 
