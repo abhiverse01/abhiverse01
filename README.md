@@ -37,8 +37,6 @@ You can click the Preview link to take a look at your changes.
 Blogging Logo
 --->
 
-### 🤝 < Me />
-
 <table style="width:100%; padding: 20px; border-spacing: 20px;">
   <tr>
     <td style="width: 50%;">
