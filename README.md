@@ -315,24 +315,6 @@ Blogging Logo
 </table>
 
 
-
-## 🤖Robotics Enthusiast
-
-<p align="left">
-  <span style="font-size: 40; vertical-align: middle; margin-left: 10;"><strong><b>Abhiverse-Robotics</b></strong></span>
-</p>
-
-<img align="right" alt="abhiverse-robotics-logo" width="200" style="border-radius:0.5;" src="https://github.com/abhiverse01/abhiverse01/blob/main/robotlogo.png">
-
-I am deeply passionate about robotics and actively contribute to various projects in this field through my organization, **[abhiverse-robotics](https://github.com/abhiverse-org).**
-
-### About abhiverse-robotics
-- We focus on developing innovative robotics solutions and simulations.
-- Our projects include **autonomous systems,** **robotic process automation,** and **advanced robotics simulations**.
-
-### Get Involved
-- 🚀 Check Out my Organization for further details **[abhiverse-robotics](https://github.com/abhiverse-org).**
-
 <!--- Achievements and Highlights Section --->
 
 ## 🌟Achievements: Timeline & Highlights
