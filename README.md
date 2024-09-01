@@ -58,8 +58,9 @@ Blogging Logo
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center">
+    <td colspan="2" align="left">
       <h3>🪢 Let's Connect</h3>
+      <p>  </p>  
       <p>
         <a href="https://dev.to/abhiverse01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="abhiverse01" height="30" width="40" /></a>
         <a href="https://linkedin.com/in/abhiverse01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhiverse01" height="30" width="40" /></a>
@@ -68,6 +69,7 @@ Blogging Logo
         <a href="https://medium.com/@abhiverse01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@abhiverse01" height="30" width="40" /></a>
         <a href="https://instagram.com/i_abhiverse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i_abhiverse" height="30" width="40" /></a>
       </p>
+      <p>  </p> 
     </td>
   </tr>
 </table>
