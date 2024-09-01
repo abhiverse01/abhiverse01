@@ -40,6 +40,7 @@ Blogging Logo
 <table style="width:100%; padding: 20px; border-spacing: 20px;">
   <tr>
     <td style="width: 50%;">
+      <p> --- </p>  
       <p>👀 I’m interested in <strong>Artificial Intelligence, Development, DevOps, Code and the Cosmos.</strong></p>
       <p>🔭 I’m currently working on <strong>RS Systems @InflancerTechnology as well as Open Source and Freelance Projects</strong></p>
       <p>🌱 I’m currently learning <strong>Advanced AI Engineer Aspects & MLOps</strong></p>
@@ -49,6 +50,7 @@ Blogging Logo
       <p>📫 Reach me @ <a href="mailto:www.abhishekshah007@gmail.com"><strong>Gmail</strong></a> or <a href="mailto:abhishek@inflancer.com"><strong>abhishek@inflancer.com</strong></a></p>
       <p>😎 Visit my portfolio site <a href="https://abhishekshah.vercel.app"><strong>abhishek-shah-portfolio</strong></a></p>
       <p>📃 Check out my digital resume <a href="https://abhishekshahhtmlresume.vercel.app"><strong>abhishek-shah-html-resume</strong></a></p>
+      <p> --- </p>  
     </td>
     <td style="width: 50%;">
       <img align="right" alt="coding" width="400" src="https://github.com/abhiverse01/abhiverse01/blob/main/cosmicoderllogo.png" style="border-radius: 10px;" />
