@@ -75,6 +75,7 @@ Blogging Logo
 </table>
 <br/>
 
+<!---
 
 <table style="width:100%; padding: 20px; border-spacing: 20px;">
   <tr>
@@ -98,6 +99,7 @@ Blogging Logo
 </table>
 <br/>
 
+--->
 
 <!---
 
