@@ -60,6 +60,7 @@ Blogging Logo
 <br/>
 
 
+<!---
 
 <div style="display: flex; align-items: center; padding: 20px; gap: 20px;">
   <img align="right" alt="coding" width="400" src="https://github.com/abhiverse01/abhiverse01/blob/main/cosmicoderllogo.png" style="border-radius: 10px;" />
@@ -77,6 +78,8 @@ Blogging Logo
   </div>
 </div>
 <br/>
+
+--->
 
 <!--- Connect With Me Section --->
 
