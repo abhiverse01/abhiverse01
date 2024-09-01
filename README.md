@@ -305,7 +305,7 @@ I am deeply passionate about robotics and actively contribute to various project
 ## 🌟Achievements: Timeline & Highlights
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=abhiverse01&title=commits&theme=flat&no-frame=true&column=1)
-
+![trophy](https://github-profile-trophy.vercel.app/?username=abhiverse01)
 
 ### 🎯Highlights
 
