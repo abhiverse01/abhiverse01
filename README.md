@@ -14,7 +14,6 @@ You can click the Preview link to take a look at your changes.
 <!--- Profile Views Counter ---> <!-- Dynamic Badge Section -->
 <img src="https://komarev.com/ghpvc/?username=abhiverse01&label=Profile%20views&color=0e75b6&style=flat" alt="abhiverse01" /> ![GitHub Followers](https://img.shields.io/github/followers/abhiverse01?style=social) ![GitHub Stars](https://img.shields.io/github/stars/abhiverse01?style=social) ![Lines of code](https://img.shields.io/badge/Lines%20of%20code-2.8%20million-blue) 
 
-
 <!--- Profile Header --->
 
 <h3 align="center"> 😎 AI/ML Engineer | Full Stack | Python Dev | Data Science | NLP | LLMs | Explorer </h3>
@@ -28,7 +27,6 @@ You can click the Preview link to take a look at your changes.
     </p>
 </div>
 
-
 <!--- About Me Section --->
 
 ### 🤝< Me />
@@ -36,7 +34,6 @@ You can click the Preview link to take a look at your changes.
 <!---
 Blogging Logo
 --->
-
 
 <table style="width:100%; padding: 20px; border-spacing: 20px;">
   <tr>
@@ -73,7 +70,6 @@ Blogging Logo
     </td>
   </tr>
 </table>
-
 
 <!---
 
@@ -309,7 +305,6 @@ Blogging Logo
     <img src="https://github-readme-stats.vercel.app/api?username=abhiverse01&hide_title=false&hide_rank=false&show_icons=true&count_private=true&disable_animations=false&locale=en&hide_border=false" height="180" alt="stats graph"  />
 </div>
 
-
 <!--- Profile Contributions --->
 
 ## 📝 Contributions
@@ -319,7 +314,6 @@ Blogging Logo
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhiverse01&hide_border=false&include_all_commits=true&count_private=true&layout=compact&card_width=1000)
 ---
 [![Abhishek's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abhiverse01&theme=github-compact)](https://github.com/abhiverse01/github-readme-activity-graph)
-
 
 <!--- Contributions Snake --->
 
@@ -332,7 +326,6 @@ Blogging Logo
     <img alt="github-snake" src="https://github.com/abhiverse01/abhiverse01/blob/output/ocean.gif" style="max-width: 100%; height: auto;" />
   </picture>
 </div>
-
 
 <!--- Robotics Enthusiast Section --->
 
@@ -366,7 +359,6 @@ Blogging Logo
     </td>
   </tr>
 </table>
-
 
 <!--- Achievements and Highlights Section --->
 
@@ -737,7 +729,6 @@ Profile Views Counter
 </p>
 
 <!--- Profile Footer Banner --->
-
 
 <div align="center">
     <img src="https://github.com/abhiverse01/abhiverse01/blob/main/aibanner.png" alt="banner">
