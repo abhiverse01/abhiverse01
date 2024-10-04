@@ -56,7 +56,7 @@ Blogging Logo
   </tr>
   <tr>
     <td colspan="2" align="left">
-      <h3>🪢 Let's Connect</h3>
+      <h3> 🪢 Let's Connect </h3>
       <p>  </p>  
       <p>
         <a href="https://dev.to/abhiverse01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="abhiverse01" height="30" width="40" /></a>
@@ -235,7 +235,7 @@ Blogging Logo
 
 <!--- LLMs Badges Section --->
 
-## 🤗LLMs I've Worked With
+## 🤗 LLMs I've Worked With
 
 ![Llama](https://img.shields.io/badge/llama-%230077B5.svg?style=for-the-badge&logo=llama&logoColor=white)
 ![DistilBERT](https://img.shields.io/badge/DistilBERT-%2300C7B7.svg?style=for-the-badge&logo=distilbert&logoColor=white)
@@ -248,7 +248,7 @@ Blogging Logo
 
 <!--- Technologies Section --->
 
-## ⚙️Technologies I've Mastered
+## ⚙️ Technologies I've Mastered
 
 <div align= "justify" style="display: flex; flex-wrap: wrap; justify-content: space-between;">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
@@ -297,7 +297,7 @@ Blogging Logo
 
 <!--- Profile Summary: Used Language & Stats --->
 
-## 💯Summary: Languages Used & GitHub Stats
+## 💯 Summary: Languages Used & GitHub Stats
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhiverse01&locale=en&hide_title=false&layout=compact&card_width=320&hide_border=false" height="180" alt="languages graph"  />
     <img src="https://github-readme-stats.vercel.app/api?username=abhiverse01&hide_title=false&hide_rank=false&show_icons=true&count_private=true&disable_animations=false&locale=en&hide_border=false" height="180" alt="stats graph"  />
