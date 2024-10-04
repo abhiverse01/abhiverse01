@@ -29,7 +29,7 @@ You can click the Preview link to take a look at your changes.
 
 <!--- About Me Section --->
 
-### 🤝< Me />
+### 🤝 < Me />
 
 <!---
 Blogging Logo
@@ -118,7 +118,7 @@ Blogging Logo
 
 <!--- Language and tools summary table --->
 
-## ⚒️Languages and Tools
+## ⚒️ Languages and Tools
 
 <div style="display: flex; align-items: flex-start; justify-content: center;">
 <table align="center">
