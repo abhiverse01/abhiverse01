@@ -363,7 +363,7 @@ Blogging Logo
 
 <!--- Achievements and Highlights Section --->
 
-## 🌟Achievements: Timeline & Highlights
+## 🌟 Achievements: Timeline & Highlights
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=abhiverse01)
 
@@ -427,7 +427,7 @@ Blogging Logo
 
 <!--- Resumee Render --->
 
-## 📑Resume
+## 📑 Resume
 
 <br/>
 
@@ -442,7 +442,7 @@ Blogging Logo
 
 <!--- Licenses & Certifications --->
 
-## 🏆Licenses & Certifications
+## 🏆 Licenses & Certifications
 
 <details>
   <summary style="font-size: 1.5em; cursor: pointer; display: flex; align-items: center;">
