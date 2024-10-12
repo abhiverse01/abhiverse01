@@ -419,7 +419,7 @@ Blogging Logo
     <tr>
       <td align="left">
         <h3>🌍 Open Source Contributions</h3>
-        <p><strong>Actively contributing to various open-source projects</strong>, continuously learning, and giving back to the community.</p>
+        <p><strong>Actively contributing to several open-source projects</strong>, continuously learning, and giving back to the community.</p>
         <img src="https://img.shields.io/badge/Open%20Source-Contributor-brightgreen" alt="Open Source Badge" />
       </td>
     </tr>
