@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 <img src="https://github.com/abhiverse01/abhiverse01/blob/main/aicoverbanner.png" alt="banner">
 
 <!--- Profile Views Counter ---> <!-- Dynamic Badge Section -->
-<img src="https://komarev.com/ghpvc/?username=abhiverse01&label=Profile%20views&color=0e75b6&style=flat" alt="abhiverse01" /> ![GitHub Followers](https://img.shields.io/github/followers/abhiverse01?style=social) ![GitHub Stars](https://img.shields.io/github/stars/abhiverse01?style=social) ![Lines of code](https://img.shields.io/badge/Lines%20of%20code-2.8%20million-blue) 
+<img src="https://komarev.com/ghpvc/?username=abhiverse01&label=Profile%20views&color=0e75b6&style=flat" alt="abhiverse01" /> ![GitHub Followers](https://img.shields.io/github/followers/abhiverse01?style=social) ![GitHub Stars](https://img.shields.io/github/stars/abhiverse01?style=social) ![Lines of code](https://img.shields.io/badge/Lines%20of%20code-1%20million-blue) 
 
 <!--- Profile Header --->
 
