@@ -25,7 +25,7 @@ You can click the Preview link to take a look at your changes.
 ## 
 <div align="center">
     <p>
-      <h4><i> "Observin' the momentary chaos in the Universe ❤️" − Abhishek Shah </i></h4>
+      <h4><i> "Chaos beneath the oceans, Calm on the shores!" − Abhishek Shah </i></h4>
     </p>
 </div>
 
