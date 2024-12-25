@@ -39,21 +39,31 @@ Blogging Logo
 
 <table style="width:100%; padding: 20px; border-spacing: 20px;">
   <tr>
-    <td style="width: 50%;">
-      <br/>  
-      <p>👀 I’m interested in <strong>Artificial Intelligence, Development, DevOps, Code and the Cosmos.</strong></p>
-      <p>🔭 I’m currently working on <strong>RS Systems @InflancerTechnology as well as Open Source and Freelance Projects</strong></p>
-      <p>🌱 I’m currently learning <strong>Advanced AI Engineer Aspects & MLOps</strong></p>
-      <p>👯 I’m looking to collaborate on <strong>Python, R, Django, Flask, AI, ML, NLP, and LLM related Projects.</strong></p>
-      <p>👨‍💻 All of my projects are available at <a href="https://github.com/abhiverse01"><strong>My GitHub Projects</strong></a></p>
-      <p>📝 I regularly write articles on <a href="https://medium.com/@abhiverse01"><strong>Medium</strong></a></p>
-      <p>📫 Reach me @ <a href="mailto:www.abhishekshah007@gmail.com"><strong>Gmail</strong></a> or <a href="mailto:abhishek@inflancer.com"><strong>abhishek@inflancer.com</strong></a></p>
-      <p>😎 Visit my portfolio site <a href="https://abhishekshah.vercel.app"><strong>abhishek-shah-portfolio</strong></a></p>
-      <p>📃 Check out my digital resume <a href="https://abhishekshahhtmlresume.vercel.app"><strong>abhishek-shah-html-resume</strong></a></p>
-      <br/>
+    <td style="width: 50%; vertical-align: top;">
+      <br>
+      <h3>👋 About Me</h3>
+      <ul>
+        <li>👀 <strong>Interests:</strong> Artificial Intelligence, Development, DevOps, Code, and the Cosmos.</li>
+        <li>🔭 <strong>Current Work:</strong> RS Systems at <a href="https://inflancer.com"><strong>Inflancer Technology</strong></a>, Open Source, and Freelance Projects.</li>
+        <li>🌱 <strong>Learning:</strong> Advanced AI Engineering and MLOps.</li>
+        <li>👯 <strong>Collaboration:</strong> Open to Python, R, Django, Flask, AI, ML, NLP, and LLM-related projects.</li>
+      </ul>
+      <h3>📂 Explore My Work</h3>
+      <ul>
+        <li>👨‍💻 View my projects: <a href="https://github.com/abhiverse01"><strong>GitHub</strong></a></li>
+        <li>📝 Read my articles: <a href="https://medium.com/@abhiverse01"><strong>Medium</strong></a></li>
+        <li>😎 Portfolio: <a href="https://abhishekshah.vercel.app"><strong>Abhishek's Portfolio</strong></a></li>
+        <li>📃 Digital Resume: <a href="https://abhishekshahhtmlresume.vercel.app"><strong>HTML Resume</strong></a></li>
+      </ul>
+      <h3>📫 Let's Connect</h3>
+      <ul>
+        <li>Email me at: <a href="mailto:www.abhishekshah007@gmail.com"><strong>abhishekshah007@gmail.com</strong></a> or <a href="mailto:abhishek@inflancer.com"><strong>abhishek@inflancer.com</strong></a></li>
+      </ul>
+      <br>
     </td>
-    <td style="width: 50%;">
-      <img align="right" alt="coding" width="400" src="https://github.com/abhiverse01/abhiverse01/blob/main/oneposter.png" style="border-radius: 10px;" /> <!--- cosmicoderlogo.png --->
+    <td style="width: 50%; text-align: center;">
+      <img alt="coding illustration" width="400" src="https://github.com/abhiverse01/abhiverse01/blob/main/oneposter.png" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+      <p><em>A glimpse into my journey 🌌</em></p>
     </td>
   </tr>
   <tr>
