@@ -50,7 +50,7 @@ Blogging Logo
       </ul>
       <h3>📂 Explore My Work</h3>
       <ul>
-        <li>👨‍💻 View my projects: <a href="https://github.com/abhiverse01"><strong>GitHub</strong></a></li>
+        <li>👨‍💻 See my works: <a href="https://github.com/abhiverse01?tab=repositories"><strong>GitHub</strong></a></li>
         <li>📝 Read my articles: <a href="https://medium.com/@abhiverse01"><strong>Medium</strong></a></li>
         <li>😎 Portfolio: <a href="https://abhishekshah.vercel.app"><strong>Abhishek's Portfolio</strong></a></li>
         <li>📃 Digital Resume: <a href="https://abhishekshahhtmlresume.vercel.app"><strong>HTML Resume</strong></a></li>
