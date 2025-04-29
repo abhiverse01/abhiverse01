@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 
 
 #
-###### <p align = "right"> for best viewing experience, switch to dark mode.</p>
+###### <p align = "right"> For best viewing experience, switch to dark mode.</p>
 
 <img src="https://github.com/abhiverse01/abhiverse01/blob/main/headnameuniversesky.gif" alt="banner">
 
