@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 <img src="https://github.com/abhiverse01/abhiverse01/blob/main/aicoverbanner.png" alt="banner">
 
 <!--- Profile Views Counter ---> <!-- Dynamic Badge Section -->
-<img src="https://komarev.com/ghpvc/?username=abhiverse01&label=Profile%20views&color=0e75b6&style=flat" alt="abhiverse01" /> ![GitHub Followers](https://img.shields.io/github/followers/abhiverse01?style=social) ![GitHub Stars](https://img.shields.io/github/stars/abhiverse01?style=social) 
+<img src="https://komarev.com/ghpvc/?username=abhiverse01&label=Profile%20views&color=0e75b6&style=flat" alt="abhiverse01" /> ![GitHub Followers](https://img.shields.io/github/followers/abhiverse01?style=social) ![GitHub Stars](https://img.shields.io/github/stars/abhiverse01?style=social) [![committers.top badge](https://user-badge.committers.top/nepal/abhiverse01.svg)](https://user-badge.committers.top/nepal/abhiverse01)
 
 <!--- Profile Header --->
 <h3 align="center"> 😎 AI/ML Engineer | Full Stack | Python Dev | Data Science | NLP | LLMs | Explorer </h3>
