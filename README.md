@@ -43,7 +43,8 @@ Blogging Logo
       <h3>👋 About Me</h3>
       <ul>
         <li>👀 <strong>Interests:</strong> Artificial Intelligence, Development, DevOps, Code, and the Cosmos.</li>
-        <li>🔭 <strong>Current Work:</strong> RS Systems at <a href="https://inflancer.com"><strong>Inflancer Technology</strong></a>, Open Source, and Freelance Projects.</li>
+        <li>🔭 <strong>Current Work:</strong> Agentic Research AI at <a href="https://papersupe.github.io/papersupe-web/index.html"><strong>PaperSupe</strong></a>, Open Source Projects.</li>
+        <li>🔭 <strong>Previous Work:</strong> RS Systems at <a href="https://inflancer.com"><strong>Inflancer Technology</strong></a>.</li>
         <li>🌱 <strong>Learning:</strong> Advanced AI Engineering and MLOps.</li>
         <li>👯 <strong>Collaboration:</strong> Open to Python, R, Django, Flask, AI, ML, NLP, and LLM-related projects.</li>
       </ul>
