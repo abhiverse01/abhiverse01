@@ -57,7 +57,7 @@ Blogging Logo
       </ul>
       <h3>📫 Let's Connect</h3>
       <ul>
-        <li>Email me at: <a href="mailto:www.abhishekshah007@gmail.com"><strong>abhishekshah007@gmail.com</strong></a> or <a href="mailto:abhishek@inflancer.com"><strong>abhishek@inflancer.com</strong></a></li>
+        <li>Email me at: <a href="mailto:www.abhishekshah007@gmail.com"><strong>abhishekshah007@gmail.com</strong></a> or <a href="mailto:abhishek@inflancer.com"><strong>abhishek@inflancer.com</strong></a></li> or <a href="mailto:abhishek.aimarine@gmail.com"><strong>abhishek.aimarine@gmail.com</strong></a></li>
       </ul>
       <br>
     </td>
