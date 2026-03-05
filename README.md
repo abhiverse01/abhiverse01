@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes.
 ## 
 <div align="center">
     <p>
-      <h4><i> "Live, Love, Smile!" − Abhishek Shah </i></h4>
+      <h4><i> "Live, Become, Rise!" − Abhishek Shah </i></h4>
     </p>
 </div>
 
