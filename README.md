@@ -9,9 +9,9 @@ You can click the Preview link to take a look at your changes.
 #
 ###### <p align = "right"> for best viewing experience, switch to dark mode.</p>
 
-<img src="https://github.com/abhiverse01/abhiverse01/blob/main/headnameuniversesky.gif" alt="banner">
+<img src="https://github.com/abhiverse01/abhiverse01/blob/main/assets/headnameuniversesky.gif" alt="banner">
 
-<img src="https://github.com/abhiverse01/abhiverse01/blob/main/aicoverbanner.png" alt="banner">
+<img src="https://github.com/abhiverse01/abhiverse01/blob/main/assets/aicoverbanner.png" alt="banner">
 
 <!--- Profile Views Counter ---> <!-- Dynamic Badge Section -->
 <img src="https://komarev.com/ghpvc/?username=abhiverse01&label=Profile%20views&color=0e75b6&style=flat" alt="abhiverse01" /> ![GitHub Followers](https://img.shields.io/github/followers/abhiverse01?style=social) ![GitHub Stars](https://img.shields.io/github/stars/abhiverse01?style=social) [![committers.top badge](https://user-badge.committers.top/nepal/abhiverse01.svg)](https://user-badge.committers.top/nepal/abhiverse01)
@@ -62,7 +62,7 @@ Blogging Logo
       <br>
     </td>
     <td style="width: 50%; text-align: center;">
-      <img alt="coding illustration" width="400" src="https://github.com/abhiverse01/abhiverse01/blob/main/oneposter.png" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+      <img alt="coding illustration" width="400" src="https://github.com/abhiverse01/abhiverse01/blob/main/assets/oneposter.png" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
       <p><em>A glimpse into my journey 🌌</em></p>
     </td>
   </tr>
@@ -353,7 +353,7 @@ Blogging Logo
   <tr>
     <td>
       <p align="left">
-        <img align="right" alt="abhiverse-robotics-logo" width="150" style="border-radius:8px;" src="https://github.com/abhiverse01/abhiverse01/blob/main/robotlogo.png">
+        <img align="right" alt="abhiverse-robotics-logo" width="150" style="border-radius:8px;" src="https://github.com/abhiverse01/abhiverse01/blob/main/assets/robotlogo.png">
       </p>
     </td>
     <td>
@@ -444,12 +444,12 @@ Blogging Logo
 <br/>
 
 <div align="center">
-  <img src="https://github.com/abhiverse01/abhiverse01/blob/main/AbhishekShahResume-1.png" alt="resume-first" width="400">
-  <img src="https://github.com/abhiverse01/abhiverse01/blob/main/AbhishekShahResume-2.png" alt="resume-second" width="400">
+  <img src="https://github.com/abhiverse01/abhiverse01/blob/main/assets/AbhishekShahResume-1.png" alt="resume-first" width="400">
+  <img src="https://github.com/abhiverse01/abhiverse01/blob/main/assets/AbhishekShahResume-2.png" alt="resume-second" width="400">
 </div>
 <br/>
 
-[View in Large](https://github.com/abhiverse01/abhiverse01/blob/main/AbhishekShahResume.pdf)
+[View in Large](https://github.com/abhiverse01/abhiverse01/blob/main/assets/AbhishekShahResume.pdf)
 <br/>
 
 <!--- Licenses & Certifications --->
@@ -744,10 +744,10 @@ Profile Views Counter
 <!--- Profile Footer Banner --->
 
 <div align="center">
-    <img src="https://github.com/abhiverse01/abhiverse01/blob/main/aibanner.png" alt="banner">
+    <img src="https://github.com/abhiverse01/abhiverse01/blob/main/assets/aibanner.png" alt="banner">
 </div>
 
-<img src="https://github.com/abhiverse01/abhiverse01/blob/main/headnameuniversesky.gif" alt="banner">
+<img src="https://github.com/abhiverse01/abhiverse01/blob/main/assets/headnameuniversesky.gif" alt="banner">
 
 <!--- Profile Footer Copyright --->
 
