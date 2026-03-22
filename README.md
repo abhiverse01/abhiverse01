@@ -230,6 +230,64 @@ Blogging Logo
 
 <!-- ===================== TECHNOLOGIES ===================== -->
 
+<!-- ===================== TECHNOLOGIES ===================== -->
+
+## ⚙️ Technologies
+
+### 🧠 Core
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript"/>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge"/>
+</p>
+
+### 🌐 Web & APIs
+<p align="center">
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
+<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux"/>
+<img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js"/>
+<img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Apollo-311C87?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Context--API-000000?style=for-the-badge"/>
+</p>
+
+### 🗄️ Databases
+<p align="center">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Postgres-316192?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge"/>
+</p>
+
+### ☁️ DevOps & Cloud
+<p align="center">
+<img src="https://img.shields.io/badge/DigitalOcean-0167FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Apache-D42029?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GitLab-181717?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2671E5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Nodemon-323330?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge"/>
+</p>
+
+### 🎨 Design & Creative
+<p align="center">
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge"/>
+</p>
+
 ## ⚙️ Technologies
 
 ### 🧠 Core
