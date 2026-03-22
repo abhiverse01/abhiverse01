@@ -131,6 +131,141 @@ Blogging Logo
 <!--- Language and tools summary table --->
 
 
+<!-- ===================== CORE STACK ===================== -->
+
+## ⚒️ Core Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,c,cpp,html,css,react,nodejs,fastapi,django,flask,mysql,mongodb,postgres,tensorflow,pytorch,opencv,pandas,git,github,nginx,docker" />
+</p>
+
+<br>
+
+<!-- ===================== LANGUAGES & TOOLS (DETAIL LAYER) ===================== -->
+
+## 🧩 Languages & Tools
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="85">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/backbonejs/backbonejs-original-wordmark.svg" width="42"/><br><sub>Backbone</sub>
+</td>
+<td align="center" width="85">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="42"/><br><sub>Bootstrap</sub>
+</td>
+<td align="center" width="85">
+<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="42"/><br><sub>GCP</sub>
+</td>
+<td align="center" width="85">
+<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="42"/><br><sub>Seaborn</sub>
+</td>
+<td align="center" width="85">
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="42"/><br><sub>Sklearn</sub>
+</td>
+<td align="center" width="85">
+<img src="https://img.shields.io/badge/JWT-000000?style=flat-square"/><br><sub>JWT</sub>
+</td>
+<td align="center" width="85">
+<img src="https://img.shields.io/badge/NPM-CB3837?style=flat-square"/><br><sub>NPM</sub>
+</td>
+<td align="center" width="85">
+<img src="https://img.shields.io/badge/Nodemon-323330?style=flat-square"/><br><sub>Nodemon</sub>
+</td>
+</tr>
+
+<tr>
+<td align="center" width="85">
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square"/><br><sub>Vite</sub>
+</td>
+<td align="center" width="85">
+<img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square"/><br><sub>Tailwind</sub>
+</td>
+<td align="center" width="85">
+<img src="https://img.shields.io/badge/Redux-593D88?style=flat-square"/><br><sub>Redux</sub>
+</td>
+<td align="center" width="85">
+<img src="https://img.shields.io/badge/Context--API-000000?style=flat-square"/><br><sub>Context API</sub>
+</td>
+<td align="center" width="85">
+<img src="https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square"/><br><sub>Sequelize</sub>
+</td>
+<td align="center" width="85">
+<img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square"/><br><sub>GraphQL</sub>
+</td>
+<td align="center" width="85">
+<img src="https://img.shields.io/badge/Apollo-311C87?style=flat-square"/><br><sub>Apollo</sub>
+</td>
+<td align="center" width="85">
+<img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square"/><br><sub>Cloudflare</sub>
+</td>
+</tr>
+
+<tr>
+<td align="center" width="85">
+<img src="https://img.shields.io/badge/DigitalOcean-0167FF?style=flat-square"/><br><sub>DigitalOcean</sub>
+</td>
+<td align="center" width="85">
+<img src="https://img.shields.io/badge/Apache-D42029?style=flat-square"/><br><sub>Apache</sub>
+</td>
+<td align="center" width="85">
+<img src="https://img.shields.io/badge/GitLab-181717?style=flat-square"/><br><sub>GitLab</sub>
+</td>
+<td align="center" width="85">
+<img src="https://img.shields.io/badge/GitHub_Actions-2671E5?style=flat-square"/><br><sub>Actions</sub>
+</td>
+<td align="center" width="85">
+<img src="https://img.shields.io/badge/Jira-0A0FFF?style=flat-square"/><br><sub>Jira</sub>
+</td>
+<td align="center" width="85">
+<img src="https://img.shields.io/badge/Adobe-FF0000?style=flat-square"/><br><sub>Adobe</sub>
+</td>
+<td align="center" width="85">
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square"/><br><sub>Figma</sub>
+</td>
+<td align="center" width="85">
+<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square"/><br><sub>Photoshop</sub>
+</td>
+</tr>
+
+<tr>
+<td align="center" width="85">
+<img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square"/><br><sub>Illustrator</sub>
+</td>
+<td align="center" width="85">
+<img src="https://img.shields.io/badge/Premiere_Pro-9999FF?style=flat-square"/><br><sub>Premiere</sub>
+</td>
+</tr>
+
+</table>
+
+</div>
+
+<br>
+
+<!-- ===================== LLMS ===================== -->
+
+## 🤗 LLMs I've Worked With
+
+<p align="center">
+<img src="https://img.shields.io/badge/LLaMA-000000?style=flat-square"/>
+<img src="https://img.shields.io/badge/DistilBERT-00C7B7?style=flat-square"/>
+<img src="https://img.shields.io/badge/Flan--T5-F7DF1E?style=flat-square"/>
+<img src="https://img.shields.io/badge/Grok-E34F26?style=flat-square"/>
+<img src="https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square"/>
+<img src="https://img.shields.io/badge/TinyLLaMA-34A853?style=flat-square"/>
+</p>
+
+<br>
+
+<!-- ===================== DESIGN STATEMENT ===================== -->
+
+<p align="center">
+  <sub><i>Building scalable AI systems, not just models.</i></sub>
+</p>
+
+
 
 
 <!-- ===================== LANGUAGES & TOOLS ===================== -->
