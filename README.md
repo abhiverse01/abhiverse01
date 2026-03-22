@@ -130,6 +130,125 @@ Blogging Logo
 
 <!--- Language and tools summary table --->
 
+## ⚒️ Languages & Tools
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="90">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50"/><br>Python
+</td>
+<td align="center" width="90">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="50"/><br>C
+</td>
+<td align="center" width="90">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50"/><br>C++
+</td>
+<td align="center" width="90">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50"/><br>HTML5
+</td>
+<td align="center" width="90">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50"/><br>CSS3
+</td>
+<td align="center" width="90">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="50"/><br>Bootstrap
+</td>
+<td align="center" width="90">
+<img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="50"/><br>Django
+</td>
+<td align="center" width="90">
+<img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="50"/><br>Flask
+</td>
+</tr>
+
+<tr>
+<td align="center" width="90">
+<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="50"/><br>GCP
+</td>
+<td align="center" width="90">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50"/><br>MySQL
+</td>
+<td align="center" width="90">
+<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="50"/><br>OpenCV
+</td>
+<td align="center" width="90">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="50"/><br>Pandas
+</td>
+<td align="center" width="90">
+<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="50"/><br>PyTorch
+</td>
+<td align="center" width="90">
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="50"/><br>Sklearn
+</td>
+<td align="center" width="90">
+<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="50"/><br>Seaborn
+</td>
+<td align="center" width="90">
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="50"/><br>TensorFlow
+</td>
+</tr>
+</table>
+
+</div>
+
+## 🤗 LLMs I've Worked With
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LLaMA-000000?style=for-the-badge&logo=meta&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DistilBERT-00C7B7?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Flan--T5-F7DF1E?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Grok-E34F26?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/TinyLLaMA-34A853?style=for-the-badge"/>
+</p>
+
+## ⚙️ Technologies I've Mastered
+
+### 🧠 Core
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript"/>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge"/>
+</p>
+
+### 🌐 Web & APIs
+<p align="center">
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
+<img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js"/>
+<img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Apollo-311C87?style=for-the-badge"/>
+</p>
+
+### 🗄️ Databases
+<p align="center">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Postgres-316192?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge"/>
+</p>
+
+### ☁️ DevOps & Cloud
+<p align="center">
+<img src="https://img.shields.io/badge/DigitalOcean-0167FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Apache-D42029?style=for-the-badge"/>
+</p>
+
+### 🎨 Design & Tools
+<p align="center">
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge"/>
+</p>
+
+
+
+
+
+
 ## ⚒️ Languages and Tools
 
 <div style="display: flex; align-items: flex-start; justify-content: center;">
