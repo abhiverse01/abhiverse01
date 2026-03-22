@@ -307,6 +307,23 @@ Blogging Logo
   <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=blue" alt="Jira" />
 </div>
 
+---
+
+## 𝗚𝗶𝘁𝗛𝘂𝗯 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=abhiverse01e&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhiverse01&layout=compact&theme=transparent&hide_border=true" />
+</p>
+
+<p align="center">
+  <img height="165" src="https://streak-stats.demolab.com?user=abhiverse01&theme=transparent&hide_border=true" />
+</p>
+
+---
+
+
+
 <!--- Profile Summary: Used Language & Stats --->
 
 ## 💯 Summary: Languages Used & GitHub Stats
