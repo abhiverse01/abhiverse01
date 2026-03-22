@@ -320,17 +320,10 @@ Blogging Logo
   <img height="165" src="https://streak-stats.demolab.com?user=abhiverse01&theme=transparent&hide_border=true" />
 </p>
 
----
 
-
-
-
----
 [![Abhishek's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abhiverse01&theme=github-compact)](https://github.com/abhiverse01/github-readme-activity-graph)
 
 <!--- Contributions Snake --->
-
-#
 
 <div style="text-align: center; margin-top: 20px;">
   <picture>
