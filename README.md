@@ -323,15 +323,6 @@ Blogging Logo
 ---
 
 
-
-<!--- Profile Summary: Used Language & Stats --->
-
-## 💯 Summary: Languages Used & GitHub Stats
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhiverse01&locale=en&hide_title=false&layout=compact&card_width=320&hide_border=false" height="180" alt="languages graph"  />
-    <img src="https://github-readme-stats.vercel.app/api?username=abhiverse01&hide_title=false&hide_rank=false&show_icons=true&count_private=true&disable_animations=false&locale=en&hide_border=false" height="180" alt="stats graph"  />
-</div>
-
 <!--- Profile Contributions --->
 
 ## 📝 Contributions
