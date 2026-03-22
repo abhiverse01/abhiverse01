@@ -312,7 +312,7 @@ Blogging Logo
 ## 𝗚𝗶𝘁𝗛𝘂𝗯 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=abhiverse01e&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=abhiverse01&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhiverse01&layout=compact&theme=transparent&hide_border=true" />
 </p>
 
