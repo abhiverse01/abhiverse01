@@ -285,8 +285,6 @@ Blogging Logo
 </p>
 
 
----
-
 ## 𝗚𝗶𝘁𝗛𝘂𝗯 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀
 
 <p align="center">
@@ -708,9 +706,7 @@ Blogging Logo
 <!---
 Profile Views Counter
 --->
-<br/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhiverse01&label=Profile%20views&color=0e75b6&style=flat" alt="abhiverse01" /> 
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhiverse01&label=Profile%20views&color=0e75b6&style=flat" alt="abhiverse01" /> </p>
 
 <!--- Profile Footer Banner --->
 
