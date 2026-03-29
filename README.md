@@ -711,7 +711,7 @@ Profile Views Counter
 <!--- Profile Footer Banner --->
 
 <div align="center">
-    <img src="https://github.com/abhiverse01/abhiverse01/blob/main/assets/aibanner.png" alt="banner">
+    <img src="https://raw.githubusercontent.com/abhiverse01/abhiverse01/main/assets/aibanner.png" alt="banner">
 </div>
 
 <img src="https://github.com/abhiverse01/abhiverse01/blob/main/assets/headnameuniversesky.gif" alt="banner">
