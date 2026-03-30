@@ -215,7 +215,7 @@ Blogging Logo
 
 <!-- ===================== LLMS ===================== -->
 
-## 🤗 LLMs I've Worked With
+### 🤗 LLMs I've Worked With
 
 <p align="center">
 <img src="https://img.shields.io/badge/LLaMA-000000?style=flat-square"/>
@@ -226,7 +226,7 @@ Blogging Logo
 <img src="https://img.shields.io/badge/TinyLLaMA-34A853?style=flat-square"/>
 </p>
 
-<br>
+<br> 
 
 <!-- ===================== TECHNOLOGIES ===================== -->
 
