@@ -128,8 +128,29 @@ Blogging Logo
 <br/>
 --->
 
-<!--- Language and tools summary table --->
+## 𝗚𝗶𝘁𝗛𝘂𝗯 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀
 
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=abhiverse01&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhiverse01&layout=compact&theme=transparent&hide_border=true" />
+</p>
+
+<p align="center">
+  <img height="165" src="https://streak-stats.demolab.com?user=abhiverse01&theme=transparent&hide_border=true" />
+</p>
+
+
+[![Abhishek's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abhiverse01&theme=github-compact)](https://github.com/abhiverse01/github-readme-activity-graph)
+
+<!--- Contributions Snake --->
+
+<div style="text-align: center; margin-top: 20px;">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/abhiverse01/abhiverse01/blob/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/abhiverse01/abhiverse01/blob/output/github-snake.svg" />
+    <img alt="github-snake" src="https://github.com/abhiverse01/abhiverse01/blob/output/ocean.gif" style="max-width: 100%; height: auto;" />
+  </picture>
+</div>
 
 <!-- ===================== CORE STACK ===================== -->
 
@@ -285,29 +306,7 @@ Blogging Logo
 </p>
 
 
-## 𝗚𝗶𝘁𝗛𝘂𝗯 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=abhiverse01&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhiverse01&layout=compact&theme=transparent&hide_border=true" />
-</p>
-
-<p align="center">
-  <img height="165" src="https://streak-stats.demolab.com?user=abhiverse01&theme=transparent&hide_border=true" />
-</p>
-
-
-[![Abhishek's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abhiverse01&theme=github-compact)](https://github.com/abhiverse01/github-readme-activity-graph)
-
-<!--- Contributions Snake --->
-
-<div style="text-align: center; margin-top: 20px;">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/abhiverse01/abhiverse01/blob/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/abhiverse01/abhiverse01/blob/output/github-snake.svg" />
-    <img alt="github-snake" src="https://github.com/abhiverse01/abhiverse01/blob/output/ocean.gif" style="max-width: 100%; height: auto;" />
-  </picture>
-</div>
 
 <!--- Robotics Enthusiast Section --->
 
