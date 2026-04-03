@@ -384,7 +384,7 @@ Profile Views Counter
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e5bff,50:0e1f38,100:020408&height=100&section=footer&animation=fadeIn" />
 
-**© Abhishek Shah · 2026 · Pātan, Nepal**
+**© Abhishek Shah · 2026 ·**
 
 *"Live, Become, Rise!"*
 
