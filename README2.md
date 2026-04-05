@@ -1,501 +1,342 @@
-<!--
-  ╔══════════════════════════════════════════════════════════════╗
-  ║          ABHISHEK SHAH — GITHUB PROFILE README               ║
-  ║          Dark Cosmic Editorial · God Mode                    ║
-  ╚══════════════════════════════════════════════════════════════╝
-  Best experienced in dark mode.
--->
-
-<div align="right">
-  <a href="https://github.com/abhiverse01">
-    <img src="https://komarev.com/ghpvc/?username=abhiverse01&color=00d4ff&style=flat-square&label=VISITORS" alt="visitors"/>
-  </a>
-</div>
-
-<!-- ──────────────────────────────────────────────────────────── -->
-<!--  CINEMATIC HEADER                                            -->
-<!-- ──────────────────────────────────────────────────────────── -->
-
-<img src="https://github.com/abhiverse01/abhiverse01/blob/main/assets/headnameuniversesky.gif" width="100%" alt=""/>
-<img src="https://github.com/abhiverse01/abhiverse01/blob/main/assets/aicoverbanner.png" width="100%" alt=""/>
-
-<br/>
+<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
+<!-- ║              ABHISHEK SHAH · GITHUB README · GODMODE            ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                                                                 │
-│          A B H I S H E K   S H A H                             │
-│                                                                 │
-│   AI/ML Engineer  ·  Project Manager  ·  Explorer              │
-│                                                                 │
-└─────────────────────────────────────────────────────────────────┘
-```
+<!-- ANIMATED HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:020408,30:030d1a,70:0a1628,100:1e5bff&height=200&section=header&text=ABHISHEK%20SHAH&fontSize=72&fontColor=ffffff&fontAlignY=45&animation=fadeIn&desc=AI%20Engineer%20%E2%80%A2%20Builder%20%E2%80%A2%20Explorer&descAlignY=68&descSize=16&descFontColor=06D6FF" />
 
 </div>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&duration=2800&pause=900&color=00D4FF&center=true&vCenter=true&width=700&height=45&lines=Building+Agentic+AI+Systems+%F0%9F%9A%80;Researcher+%C2%B7+Engineer+%C2%B7+Open+Source+Builder;Exploring+the+Cosmos+Through+Code+%F0%9F%8C%8C;%22Live%2C+Become%2C+Rise!%22+%E2%80%94+Abhishek+Shah" alt="Typing SVG"/>
-</h1>
-
-<p align="center">
-  <a href="https://github.com/abhiverse01?tab=followers">
-    <img src="https://img.shields.io/github/followers/abhiverse01?style=for-the-badge&logo=github&label=FOLLOWERS&color=00d4ff&labelColor=0d1117&logoColor=00d4ff" alt="followers"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/abhiverse01?tab=stars">
-    <img src="https://img.shields.io/github/stars/abhiverse01?style=for-the-badge&logo=github&label=STARS&color=ffd700&labelColor=0d1117&logoColor=ffd700" alt="stars"/>
-  </a>
-  &nbsp;
-  <a href="https://user-badge.committers.top/nepal/abhiverse01">
-    <img src="https://user-badge.committers.top/nepal/abhiverse01.svg" alt="Top Committer · Nepal"/>
-  </a>
-</p>
-
-<br/><br/>
-
-<!-- ──────────────────────────────────────────────────────────── -->
-<!--  § 01  —  IDENTITY                                          -->
-<!-- ──────────────────────────────────────────────────────────── -->
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2&section=header" width="100%"/>
-  <h2>◈ &nbsp; I D E N T I T Y &nbsp; ◈</h2>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2&section=header" width="100%"/>
-</div>
-
-<br/>
-
-<table width="100%" cellpadding="0" cellspacing="0" border="0">
-  <tr>
-    <td width="56%" valign="top">
-      <br/>
-      <h3>👤 &nbsp; About</h3>
-      <p>
-        I build <strong>agentic AI systems</strong> that don't just predict — they act, reason, and evolve.
-        My work sits at the intersection of <em>machine intelligence</em>, <em>systems engineering</em>,
-        and the relentless pursuit of what comes next.
-      </p>
-      <br/>
-      <table border="0" cellpadding="6">
-        <tr>
-          <td><strong>⚡ Focus</strong></td>
-          <td>Agentic Research AI @ <a href="https://papersupe.github.io/papersupe-web/index.html"><strong>PaperSupe</strong></a></td>
-        </tr>
-        <tr>
-          <td><strong>🏛️ Alumni</strong></td>
-          <td>RS Systems @ <a href="https://inflancer.com"><strong>Inflancer Technology</strong></a></td>
-        </tr>
-        <tr>
-          <td><strong>🌱 Mastering</strong></td>
-          <td>Advanced AI Engineering · MLOps</td>
-        </tr>
-        <tr>
-          <td><strong>🤝 Open to</strong></td>
-          <td>Python · Flask · Django · AI · ML · NLP · LLM projects</td>
-        </tr>
-        <tr>
-          <td><strong>🌍 Base</strong></td>
-          <td>Nepal</td>
-        </tr>
-      </table>
-      <br/>
-      <h3>🔗 &nbsp; Reach Me</h3>
-      <p>
-        <a href="mailto:abhishekshah007@gmail.com"><code>abhishekshah007@gmail.com</code></a><br/>
-        <a href="mailto:abhishek@inflancer.com"><code>abhishek@inflancer.com</code></a><br/>
-        <a href="mailto:abhishek.aimarine@gmail.com"><code>abhishek.aimarine@gmail.com</code></a>
-      </p>
-      <br/>
-      <h3>📂 &nbsp; Explore</h3>
-      <p>
-        <a href="https://github.com/abhiverse01?tab=repositories"><strong>GitHub Repos</strong></a> &nbsp;·&nbsp;
-        <a href="https://medium.com/@abhiverse01"><strong>Medium Articles</strong></a> &nbsp;·&nbsp;
-        <a href="https://abhishekshah.vercel.app"><strong>Portfolio</strong></a> &nbsp;·&nbsp;
-        <a href="https://abhishekshahhtmlresume.vercel.app"><strong>Digital Resume</strong></a>
-      </p>
-    </td>
-    <td width="44%" align="center" valign="middle">
-      <img
-        src="https://github.com/abhiverse01/abhiverse01/blob/main/assets/oneposter.png"
-        width="360"
-        alt="Abhishek Shah"
-        style="border-radius:16px;"
-      />
-      <br/><br/>
-      <em>A glimpse into the journey 🌌</em>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<h3 align="center">— Connect —</h3>
-
-<p align="center">
-  <a href="https://linkedin.com/in/theabhishekshah" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://medium.com/@abhiverse01" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
-  </a>
-  <a href="https://dev.to/abhiverse01" target="_blank">
-    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to"/>
-  </a>
-  <a href="https://abhishekshah.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-00d4ff?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio"/>
-  </a>
-  <a href="https://abhishekshahhtmlresume.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-ffd700?style=for-the-badge&logo=readthedocs&logoColor=black" alt="Resume"/>
-  </a>
-  <a href="https://instagram.com/i_abhiverse" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://codesandbox.com/abhiverse01" target="_blank">
-    <img src="https://img.shields.io/badge/CodeSandbox-151515?style=for-the-badge&logo=codesandbox&logoColor=white" alt="CodeSandbox"/>
-  </a>
-  <a href="https://fb.com/1lord001" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
-</p>
-
-<br/>
-
-<!-- ──────────────────────────────────────────────────────────── -->
-<!--  § 02  —  GITHUB ANALYTICS                                  -->
-<!-- ──────────────────────────────────────────────────────────── -->
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2" width="100%"/>
-  <h2>◈ &nbsp; G I T H U B &nbsp; A N A L Y T I C S &nbsp; ◈</h2>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2" width="100%"/>
-</div>
-
-<br/>
-
-<p align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=abhiverse01&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&title_color=00d4ff&icon_color=ffd700&text_color=c9d1d9" alt="GitHub Stats"/>
-  &nbsp;&nbsp;
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhiverse01&layout=compact&theme=transparent&hide_border=true&langs_count=8&title_color=00d4ff&text_color=c9d1d9" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=abhiverse01&theme=transparent&hide_border=true&ring=00d4ff&fire=ffd700&currStreakLabel=00d4ff&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <a href="https://github.com/abhiverse01">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhiverse01&theme=github-compact&hide_border=true&area=true&color=00d4ff&line=00d4ff&point=ffd700&area_color=00d4ff" width="98%" alt="Activity Graph"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abhiverse01&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" alt="Trophies"/>
-</p>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"  srcset="https://github.com/abhiverse01/abhiverse01/blob/output/github-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/abhiverse01/abhiverse01/blob/output/github-snake.svg"/>
-    <img alt="Contribution Snake" src="https://github.com/abhiverse01/abhiverse01/blob/output/ocean.gif" width="100%"/>
-  </picture>
-</div>
-
-<br/>
-
-<!-- ──────────────────────────────────────────────────────────── -->
-<!--  § 03  —  CORE STACK                                        -->
-<!-- ──────────────────────────────────────────────────────────── -->
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2" width="100%"/>
-  <h2>◈ &nbsp; C O R E &nbsp; S T A C K &nbsp; ◈</h2>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2" width="100%"/>
-</div>
-
-<br/>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,c,cpp,html,css,react,nodejs,fastapi,django,flask,mysql,mongodb,postgres,tensorflow,pytorch,opencv,pandas,git,github,nginx,docker&theme=dark&perline=11" alt="Core Stack"/>
-</p>
-
-<br/>
-
-<!-- ──────────────────────────────────────────────────────────── -->
-<!--  § 04  —  LANGUAGES & TOOLS GRID                            -->
-<!-- ──────────────────────────────────────────────────────────── -->
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2" width="100%"/>
-  <h2>◈ &nbsp; L A N G U A G E S &nbsp; &amp; &nbsp; T O O L S &nbsp; ◈</h2>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2" width="100%"/>
-</div>
-
-<br/>
-
 <div align="center">
 
-|  |  |  |  |  |  |  |  |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="44"/><br/><sub><b>Python</b></sub> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="44"/><br/><sub><b>C</b></sub> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="44"/><br/><sub><b>C++</b></sub> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="44"/><br/><sub><b>HTML5</b></sub> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="44"/><br/><sub><b>CSS3</b></sub> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="44"/><br/><sub><b>Bootstrap</b></sub> | <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="44"/><br/><sub><b>Django</b></sub> | <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="44"/><br/><sub><b>Flask</b></sub> |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/backbonejs/backbonejs-original-wordmark.svg" width="44"/><br/><sub><b>Backbone</b></sub> | <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="44"/><br/><sub><b>GCP</b></sub> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="44"/><br/><sub><b>MySQL</b></sub> | <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="44"/><br/><sub><b>OpenCV</b></sub> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="44"/><br/><sub><b>Pandas</b></sub> | <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="44"/><br/><sub><b>PyTorch</b></sub> | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="44"/><br/><sub><b>Sklearn</b></sub> | <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="44"/><br/><sub><b>Seaborn</b></sub> |
-| <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="44"/><br/><sub><b>TensorFlow</b></sub> | | | | | | | |
+<!-- DYNAMIC TITLES -->
+<img src="https://readme-typing-svg.demolab.com?font=Syne+Mono&weight=700&size=18&pause=1500&color=06D6FF&center=true&vCenter=true&width=700&height=45&lines=🚀+Building+Agentic+AI+%40+PaperSupe;🤖+AI%2FML+Engineer+%2B+Project+Manager+%2B+Open+Source;🌌+Robotics+%7C+LLMs+%7C+The+Cosmos+%7C+MLOps;💡+%22Live%2C+Become%2C+Rise!%22+—+Abhishek+Shah" alt="Typing SVG" />
 
 </div>
 
 <br/>
 
-<!-- ──────────────────────────────────────────────────────────── -->
-<!--  § 05  —  LLMs                                              -->
-<!-- ──────────────────────────────────────────────────────────── -->
-
+<!-- ──────────────────────── STATUS ROW ──────────────────────── -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2" width="100%"/>
-  <h2>◈ &nbsp; L L M s &nbsp; W O R K E D &nbsp; W I T H &nbsp; ◈</h2>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2" width="100%"/>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=abhiverse01&label=👁 VIEWS&color=1e5bff&style=for-the-badge)](https://github.com/abhiverse01)&nbsp;
+[![Followers](https://img.shields.io/github/followers/abhiverse01?label=⚡ FOLLOWERS&style=for-the-badge&color=0e1f38&labelColor=1e5bff)](https://github.com/abhiverse01?tab=followers)&nbsp;
+[![Stars](https://img.shields.io/github/stars/abhiverse01?label=✦ STARS&style=for-the-badge&color=0e1f38&labelColor=f59e0b)](https://github.com/abhiverse01)&nbsp;
+[![committers.top Nepal](https://user-badge.committers.top/nepal/abhiverse01.svg)](https://user-badge.committers.top/nepal/abhiverse01)
+
 </div>
 
 <br/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/LLaMA-000000?style=for-the-badge&logoColor=white" alt="LLaMA"/>
-  <img src="https://img.shields.io/badge/DistilBERT-00C7B7?style=for-the-badge&logoColor=white" alt="DistilBERT"/>
-  <img src="https://img.shields.io/badge/Flan--T5-F7DF1E?style=for-the-badge&logoColor=black" alt="Flan-T5"/>
-  <img src="https://img.shields.io/badge/Grok-E34F26?style=for-the-badge&logoColor=white" alt="Grok"/>
-  <img src="https://img.shields.io/badge/Salesforce_CodeGen-00A1E0?style=for-the-badge&logoColor=white" alt="Salesforce CodeGen"/>
-  <img src="https://img.shields.io/badge/TinyLLaMA-34A853?style=for-the-badge&logoColor=white" alt="TinyLLaMA"/>
-</p>
-
-<br/>
-
-<!-- ──────────────────────────────────────────────────────────── -->
-<!--  § 06  —  TECHNOLOGIES                                      -->
-<!-- ──────────────────────────────────────────────────────────── -->
+<!-- ══════════════════════════════════════════ -->
+<!-- ░░░  IDENTITY BLOCK  ░░░ -->
+<!-- ══════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2" width="100%"/>
-  <h2>◈ &nbsp; T E C H N O L O G I E S &nbsp; ◈</h2>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2" width="100%"/>
-</div>
-
-<br/>
-
-<details open>
-<summary><strong>&nbsp; 🧠 &nbsp; Core Languages</strong></summary>
-<br/>
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-</p>
-<br/>
-</details>
-
-<details open>
-<summary><strong>&nbsp; 🌐 &nbsp; Web & APIs</strong></summary>
-<br/>
-<p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Apollo-311C87?style=for-the-badge&logo=apollographql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Context_API-000000?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-</p>
-<br/>
-</details>
-
-<details open>
-<summary><strong>&nbsp; 🗄️ &nbsp; Databases</strong></summary>
-<br/>
-<p align="center">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white"/>
-</p>
-<br/>
-</details>
-
-<details open>
-<summary><strong>&nbsp; ☁️ &nbsp; DevOps & Cloud</strong></summary>
-<br/>
-<p align="center">
-  <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
-</p>
-<br/>
-</details>
-
-<div align="center">
-  <br/>
-  <code>⚡ Building scalable AI systems — not just models.</code>
-  <br/><br/>
-</div>
-
-<!-- ──────────────────────────────────────────────────────────── -->
-<!--  § 07  —  ROBOTICS                                          -->
-<!-- ──────────────────────────────────────────────────────────── -->
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2" width="100%"/>
-  <h2>◈ &nbsp; R O B O T I C S &nbsp; ◈</h2>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2" width="100%"/>
-</div>
-
-<br/>
-
-<table width="100%" cellpadding="0" cellspacing="0" border="0">
-  <tr>
-    <td width="20%" align="center" valign="middle">
-      <img
-        src="https://github.com/abhiverse01/abhiverse01/blob/main/assets/robotlogo.png"
-        width="140"
-        alt="abhiverse-robotics"
-        style="border-radius:12px;"
-      />
-    </td>
-    <td width="80%" valign="top" style="padding-left: 24px;">
-      <h2>Abhiverse-Robotics</h2>
-      <p>
-        Building machines that don't just compute — they <strong>move, sense, and decide</strong>.
-        Through <a href="https://github.com/abhiverse-org"><strong>abhiverse-robotics</strong></a>,
-        I lead open-source work across autonomous systems, robotic process automation, and advanced simulations.
-      </p>
-      <br/>
-      <p>
-        <img src="https://img.shields.io/badge/Autonomous_Systems-00d4ff?style=flat-square&logoColor=white" alt=""/>
-        <img src="https://img.shields.io/badge/Process_Automation-ffd700?style=flat-square&logoColor=black" alt=""/>
-        <img src="https://img.shields.io/badge/Advanced_Simulations-ff6b6b?style=flat-square&logoColor=white" alt=""/>
-      </p>
-      <br/>
-      <a href="https://github.com/abhiverse-org">
-        <img src="https://img.shields.io/badge/→_Explore_abhiverse--robotics-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Org"/>
-      </a>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<!-- ──────────────────────────────────────────────────────────── -->
-<!--  § 08  —  ACHIEVEMENTS                                      -->
-<!-- ──────────────────────────────────────────────────────────── -->
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2" width="100%"/>
-  <h2>◈ &nbsp; A C H I E V E M E N T S &nbsp; ◈</h2>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2" width="100%"/>
-</div>
-
-<br/>
-
-<div align="center">
-
-```
-  ████████████████████████████████████████████████████████████████
-  █                                                              █
-  █   MISSION RECORD  ·  ABHISHEK SHAH  ·  2023 — PRESENT       █
-  █                                                              █
-  ████████████████████████████████████████████████████████████████
-```
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3,12,20&height=1&width=100%" width="100%"/>
+<h2>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="28" />
+&nbsp; A B O U T &nbsp; M E &nbsp;
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="28" />
+</h2>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3,12,20&height=1&width=100%" width="100%"/>
 </div>
 
 <br/>
 
 <table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🏆 &nbsp; ACES-Deltathon 2023</h3>
-      <p>Competed in a <strong>national-level software hackathon</strong> — rapid prototyping under pressure, end-to-end system design, live judging.</p>
-      <img src="https://img.shields.io/badge/HACKATHON-Top%20Participant-FF6B00?style=flat-square" alt=""/>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🦸 &nbsp; AI/ML Bootcamp 2023 · Sub-Mentor</h3>
-      <p>Trained the next cohort of AI/ML engineers. Covered deep-learning pipelines, real-world tooling, and first-principles reasoning.</p>
-      <img src="https://img.shields.io/badge/ROLE-ML%20Sub--Mentor-00d4ff?style=flat-square" alt=""/>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <h3>🏗️ &nbsp; Delta Afterevents · Kaggle Host</h3>
-      <p>Designed and hosted a <strong>data science competition on Kaggle</strong> — challenge architecture, evaluation criteria, and community engagement.</p>
-      <img src="https://img.shields.io/badge/PLATFORM-Kaggle%20Host-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt=""/>
-    </td>
-    <td valign="top">
-      <h3>👯 &nbsp; ACES-Deltathon Volunteer</h3>
-      <p>Managed full event operations: logistics, resource allocation, participant onboarding, and live AI mentoring on the floor.</p>
-      <img src="https://img.shields.io/badge/ROLE-Community%20Organiser-ffd700?style=flat-square" alt=""/>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <h3>📦 &nbsp; Project Mirror</h3>
-      <p>Built an <strong>Android screen-mirroring package</strong> for desktop environments — addressing real UX gaps in cross-device productivity workflows.</p>
-      <img src="https://img.shields.io/badge/PLATFORM-Android-34A853?style=flat-square&logo=android&logoColor=white" alt=""/>
-    </td>
-    <td valign="top">
-      <h3>📕 &nbsp; ML Learning Resource Repo</h3>
-      <p>Actively authoring a <strong>comprehensive ML curriculum on GitHub</strong> — concepts, projects, and hard-won tips for every skill level.</p>
-      <img src="https://img.shields.io/badge/STATUS-Active%20Development-FF0000?style=flat-square" alt=""/>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      <h3>🌍 &nbsp; Open Source · Ongoing</h3>
-      <p>
-        Contributing across multiple repositories — shipping code, reviewing PRs, writing documentation,
-        and helping maintainers move faster. Open source is where the real craft lives.
-      </p>
-      <img src="https://img.shields.io/badge/OPEN%20SOURCE-Active%20Contributor-brightgreen?style=flat-square&logo=github" alt=""/>
-    </td>
-  </tr>
+<tr>
+<td width="55%" valign="top">
+
+```yaml
+name       : Abhishek Shah
+handle     : @abhiverse01
+location   : Kathmandu, Nepal 🇳🇵
+role       : AI/ML Engineer · Project Manager
+current    : Agentic Research AI @ PaperSupe
+previous   : RS Systems @ Inflancer Technology
+learning   : Advanced AI Engineering · MLOps
+open_to    : Python · Django · Flask · AI/ML
+             NLP · LLM · Agentic AI Projects
+```
+
+<br/>
+
+**🔭 Building:** Agentic AI systems that think, plan, and act at scale<br/>
+**🛠️ Stack:** Python-first, full-stack capable, cloud-native<br/>
+**🤝 Collab:** Python · R · Django · Flask · AI · ML · NLP · LLMs<br/>
+**✍️ Writing:** [Medium](https://medium.com/@abhiverse01) · [Dev.to](https://dev.to/abhiverse01)<br/>
+**🌐 Portfolio:** [abhishekshah.vercel.app](https://abhishekshah.vercel.app)<br/>
+**📃 Resume:** [HTML Resume](https://abhishekshahhtmlresume.vercel.app)<br/>
+
+</td>
+<td width="45%" align="center" valign="middle">
+
+<img src="https://github.com/abhiverse01/abhiverse01/blob/main/assets/oneposter.png" width="380" style="border-radius: 12px;" alt="Abhishek Shah" />
+
+<sub><i>🌌 A glimpse into the journey</i></sub>
+
+</td>
+</tr>
+</table>
+
+<!-- ──────────────── CONNECT STRIP ──────────────── -->
+<div align="center">
+
+### 🔗 C O N N E C T
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/theabhishekshah)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@abhiverse01)
+[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/abhiverse01)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/i_abhiverse)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/1lord001)
+[![CodeSandbox](https://img.shields.io/badge/CodeSandbox-151515?style=for-the-badge&logo=codesandbox&logoColor=white)](https://codesandbox.com/abhiverse01)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhishekshah007@gmail.com)
+
+</div>
+
+<br/>
+
+---
+
+<!-- ══════════════════════════════════════════ -->
+<!-- ░░░  GITHUB ANALYTICS  ░░░ -->
+<!-- ══════════════════════════════════════════ -->
+
+<div align="center">
+<h2>📊 G I T H U B &nbsp; A N A L Y T I C S</h2>
+</div>
+
+<!-- TROPHIES -->
+<div align="center">
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=abhiverse01&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+<br/>
+
+<!-- STATS ROW -->
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=abhiverse01&show_icons=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=1e5bff&icon_color=06d6ff&text_color=8b949e&rank_icon=github&include_all_commits=true" height="185" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhiverse01&locale=en&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=1e5bff&text_color=8b949e&langs_count=8" height="185" />
+
+</div>
+
+<br/>
+
+<!-- STREAK -->
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=abhiverse01&theme=github-dark-blue&hide_border=true&background=0d1117&ring=1e5bff&fire=06d6ff&currStreakLabel=1e5bff&sideLabels=8b949e&dates=8b949e&card_width=860)](https://git.io/streak-stats)
+
+</div>
+
+<br/>
+
+<!-- ACTIVITY GRAPH -->
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abhiverse01&theme=github-compact&bg_color=0d1117&color=1e5bff&line=06d6ff&point=ffffff&hide_border=true&radius=8)](https://github.com/abhiverse01)
+
+</div>
+
+<br/>
+
+<!-- CONTRIBUTION SNAKE -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/abhiverse01/abhiverse01/blob/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/abhiverse01/abhiverse01/blob/output/github-snake.svg" />
+    <img alt="contribution snake" src="https://github.com/abhiverse01/abhiverse01/blob/output/ocean.gif" style="max-width: 100%;" />
+  </picture>
+</div>
+
+<br/>
+
+---
+
+<!-- ══════════════════════════════════════════ -->
+<!-- ░░░  TECH STACK  ░░░ -->
+<!-- ══════════════════════════════════════════ -->
+
+<div align="center">
+<h2>⚡ T E C H &nbsp; S T A C K</h2>
+</div>
+
+<!-- CORE ICONS STRIP -->
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,js,c,cpp,html,css,react,nodejs,fastapi,django,flask,mysql,mongodb,postgres,tensorflow,pytorch,opencv,pandas,git,github,nginx,docker&perline=11" />
+
+</div>
+
+<br/>
+
+<!-- DETAILED STACK TABLE -->
+<div align="center">
+
+| 🧠 **Core Languages** | 🌐 **Web & APIs** | 🗄️ **Databases** | ☁️ **DevOps & Cloud** |
+|---|---|---|---|
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GH Actions](https://img.shields.io/badge/GH_Actions-2671E5?style=flat-square&logo=githubactions&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white) |
+| ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) | ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Redux](https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white) | ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=sequelize&logoColor=white) | ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white) ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white) |
+
+</div>
+
+<br/>
+
+<!-- ML/AI STACK -->
+<div align="center">
+<h3>🤖 A I &nbsp; / &nbsp; M L &nbsp; S T A C K</h3>
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn&perline=8" />
+
+<br/><br/>
+
+| 🧬 **Frameworks** | 📊 **Data Science** | 🦾 **LLMs I Work With** |
+|:---:|:---:|:---:|
+| ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Sklearn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=OpenCV&logoColor=white) | ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square) ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square) | ![LLaMA](https://img.shields.io/badge/LLaMA-000000?style=flat-square) ![DistilBERT](https://img.shields.io/badge/DistilBERT-00C7B7?style=flat-square) ![Flan--T5](https://img.shields.io/badge/Flan--T5-F7DF1E?style=flat-square) ![TinyLLaMA](https://img.shields.io/badge/TinyLLaMA-34A853?style=flat-square) ![Grok](https://img.shields.io/badge/Grok-E34F26?style=flat-square) ![Salesforce](https://img.shields.io/badge/Salesforce_LLMs-00A1E0?style=flat-square) |
+
+</div>
+
+<br/>
+
+---
+
+<!-- ══════════════════════════════════════════ -->
+<!-- ░░░  ROBOTICS  ░░░ -->
+<!-- ══════════════════════════════════════════ -->
+
+<div align="center">
+<h2>🤖 R O B O T I C S &nbsp; & &nbsp; A U T O N O M O U S &nbsp; S Y S T E M S</h2>
+</div>
+
+<table width="100%">
+<tr>
+<td width="20%" align="center">
+<img src="https://github.com/abhiverse01/abhiverse01/blob/main/assets/robotlogo.png" width="120" style="border-radius:10px;" alt="Abhiverse Robotics"/>
+<br/>
+<strong>abhiverse-robotics</strong>
+</td>
+<td width="80%" valign="middle">
+
+> **I don't just build models — I build machines that move.**
+
+Deeply invested in robotics through **[abhiverse-org](https://github.com/abhiverse-org)**, my open organization focused on intelligent machines.
+
+- 🦾 **Autonomous Systems** — self-navigating agents that reason about the physical world
+- 🔄 **Robotic Process Automation** — closing the loop between AI inference and real-world action
+- 🧪 **Advanced Simulations** — high-fidelity environments for training embodied AI
+- 🚀 [Explore abhiverse-robotics →](https://github.com/abhiverse-org)
+
+</td>
+</tr>
 </table>
 
 <br/>
 
-<!-- ──────────────────────────────────────────────────────────── -->
-<!--  FOOTER                                                      -->
-<!-- ──────────────────────────────────────────────────────────── -->
+---
+
+<!-- ══════════════════════════════════════════ -->
+<!-- ░░░  ACHIEVEMENTS  ░░░ -->
+<!-- ══════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/abhiverse01/abhiverse01/main/assets/aibanner.png" width="100%" alt=""/>
+<h2>🏆 A C H I E V E M E N T S &nbsp; & &nbsp; H I G H L I G H T S</h2>
 </div>
-
-<img src="https://github.com/abhiverse01/abhiverse01/blob/main/assets/headnameuniversesky.gif" width="100%" alt=""/>
 
 <br/>
 
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🏆 &nbsp; ACES-Deltathon 2023
+> **National-level software hackathon** — rapid prototyping under pressure, end-to-end system design, live judging.
+
+![Hackathon](https://img.shields.io/badge/HACKATHON-Top%20Participant-FF6B00?style=for-the-badge)
+
+</td>
+<td width="50%" valign="top">
+
+### 🦸 &nbsp; AI/ML Bootcamp 2023 · Sub-Mentor
+> Trained the next cohort of AI/ML engineers. Covered deep-learning pipelines, real-world tooling, and first-principles reasoning.
+
+![Mentor](https://img.shields.io/badge/ROLE-ML%20Sub--Mentor-00d4ff?style=for-the-badge)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏗️ &nbsp; Delta Afterevents · Kaggle Host
+> Designed and hosted a **data science competition on Kaggle** — challenge architecture, evaluation criteria, and community engagement.
+
+![Kaggle](https://img.shields.io/badge/PLATFORM-Kaggle%20Host-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### 👯 &nbsp; ACES-Deltathon Volunteer
+> Managed full event operations: logistics, resource allocation, participant onboarding, and live AI mentoring on the floor.
+
+![Organiser](https://img.shields.io/badge/ROLE-Community%20Organiser-ffd700?style=for-the-badge)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📦 &nbsp; Project Mirror
+> **Android screen-mirroring package** for desktop environments — closing real UX gaps in cross-device productivity workflows.
+
+![Android](https://img.shields.io/badge/PLATFORM-Android-34A853?style=for-the-badge&logo=android&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### 📕 &nbsp; ML Learning Resource Repo
+> Authoring a **comprehensive ML curriculum on GitHub** — concepts, projects, and hard-won tips for every skill level.
+
+![Status](https://img.shields.io/badge/STATUS-Active%20Development-FF0000?style=for-the-badge)
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+### 🌍 &nbsp; Open Source — Ongoing Contribution
+> Shipping code, reviewing PRs, writing documentation, and helping maintainers move faster — across multiple repositories and ecosystems. Open source is where the real craft lives.
+
+![OSS](https://img.shields.io/badge/OPEN%20SOURCE-Active%20Contributor-brightgreen?style=for-the-badge&logo=github)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+<!-- ══════════════════════════════════════════ -->
+<!-- ░░░  PROFILE FOOTER BANNER  ░░░ -->
+<!-- ══════════════════════════════════════════ -->
+
 <div align="center">
 
-```
-  ╔══════════════════════════════════════════════════╗
-  ║                                                  ║
-  ║   "Live, Become, Rise."        — Abhishek Shah   ║
-  ║                                                  ║
-  ╚══════════════════════════════════════════════════╝
-```
+<img src="https://raw.githubusercontent.com/abhiverse01/abhiverse01/main/assets/aibanner.png" alt="AI Banner" width="100%"/>
+
+<br/><br/>
+
+![Visitors](https://komarev.com/ghpvc/?username=abhiverse01&label=Profile%20Views&color=1e5bff&style=flat-square)
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e5bff,50:0e1f38,100:020408&height=120&section=footer&animation=fadeIn&text=Live%2C+Become%2C+Rise!&fontSize=20&fontColor=06D6FF&fontAlignY=70" />
+
+**© Abhishek Shah · 2026**
 
 </div>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abhiverse01&color=00d4ff&style=flat-square&label=PROFILE+VIEWS" alt="profile views"/>
-  <br/><br/>
-  <strong>&copy; Abhishek Shah &nbsp;·&nbsp; 2026</strong>
-</p>
