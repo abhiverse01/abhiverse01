@@ -44,7 +44,7 @@
       </ul>
       <h3>📫 Contact</h3>
       <ul>
-        <li><a href="mailto:abhishekshah007@gmail.com"><strong>abhishekshah007@gmail.com</strong></a></li>
+        <li><a href="mailto:abhishek.infinitum.com"><strong>abhishek.infinitum@gmail.com</strong></a></li>
         <li><a href="mailto:abhishek@inflancer.com"><strong>abhishek@inflancer.com</strong></a></li>
         <li><a href="mailto:abhishek.aimarine@gmail.com"><strong>abhishek.aimarine@gmail.com</strong></a></li>
       </ul>
